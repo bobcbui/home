@@ -1,10 +1,2 @@
-# _config.yml
-
 title: ooqn.com
-
-# 设置导航栏链接
-nav_links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
+favicon: /favicon.ico

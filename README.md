@@ -1,6 +1,7 @@
 ### Page
 
 ### 工具
+[NbTemplate](https://ooqn.com/NbTemplate) : 一种不用构建工具的Vuejs前端模板。
 
 ### 文字
 

@@ -3,6 +3,8 @@
 ### 工具
 [NbTemplate](https://ooqn.com/NbTemplate) : 一种不用构建工具的Vuejs前端模板。
 
+[OOChat](https://github.com/bobcbui/chat) : 一种去中心化的聊天系统。
+
 ### 文字
 
 ### 我的

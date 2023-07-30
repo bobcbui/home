@@ -12,4 +12,6 @@
 
 [DataOnline](#) : 一种基于Freemarker开发的在线数据层管理工具。
 
+[EasySecurity](#) : 一种最简单的JavaWeb安全框架，采用强迫实现机制，让你明白你的系统安全都做了什么。
+
 [湘ICP备2023004760号-1]([1111](https://beian.miit.gov.cn/)https://beian.miit.gov.cn/)

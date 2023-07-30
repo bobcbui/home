@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/element-plus/2.3.3/index.css">
+	<script src="https://cdn.bootcdn.net/ajax/libs/vue/3.2.47/vue.global.min.js"></script>
+	<script src="https://cdn.bootcdn.net/ajax/libs/vue-router/4.1.6/vue-router.global.js"></script>
+	<script src="https://cdn.bootcdn.net/ajax/libs/vuex/4.1.0/vuex.global.js"></script>
+	<script src="https://cdn.bootcdn.net/ajax/libs/axios/1.3.6/axios.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/element-plus/2.3.3/index.full.min.js"></script>
+    <script src="lib/icons-vue.js"></script>
+	<script src="lib/common.js"></script>
+	<style>
+        [v-cloak] {
+            display: none;
+        }
+        body{
+            margin: 0;
+            padding: 0;
+            font-family: "Microsoft YaHei UI", "Microsoft YaHei", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+            background-color: #f5f5f5;
+        }
+        #app,body,html{
+            width: 100%;
+            height: 100%;
+        }
+
+        .flex-grow {
+            flex-grow: 1;
+        }
+
+        .el-header{
+            padding: 0;
+        }
+        .el-main{
+            --el-main-padding: 10px !important;
+            height: calc(100% - 36px);
+        }
+    </style>
+    <style id="PageStyle">
+
+    </style>
+</head>
+
+<body>
+	<div id="app" v-cloak>
+		<router-view></router-view>
+	</div>
+</body>
+<script type="module">
+	const routes = [
+		{
+			path: '/', redirect:"home", component: () => import('./view/index.js'), meta:{ menu : false, start: true },
+			children: [
+                {
+                    path: "/home", name: "home", component: () => import('./view/home.js'), meta:{ menu : true, name:"工作台" , icon:"Histogram" },
+                },
+                {
+                    path: "/persion", name: "persion", meta:{ menu : true, name:"人类管理系统" , icon:"Histogram"  },
+                    children: [
+                        {
+                            path: "food", name: "food", component: () => import('./view/persion/food.js'), meta:{ menu : true, name:"人类食物管理" , icon:"Histogram"  },
+                        },
+                        {
+                            path: "study", name: "study", component: () => import('./view/persion/study.js'), meta:{ menu : true , name:"人类教育管理" , icon:"Histogram" },
+                        },
+                        {
+                            path: "room", name: "room", component: () => import('./view/persion/room.js'), meta:{ menu : true, name:"人类棚户管理" , icon:"Histogram"  },
+                        },
+                    ]
+                },
+                {
+                    path: "/dog", name: "dog", component: () => import('./view/dog.js'), meta:{ menu : true, name:"狗狗管理系统"  , icon:"Histogram"  },
+                },
+                {
+                    path: "/star", name: "star", component: () => import('./view/star.js'), meta:{ menu : true, name:"星球防御系统"  , icon:"Histogram"  },
+                },
+                {
+                    path: "/setting", name: "setting", component: () => import('./view/setting.js'), meta:{ menu : true, name:"蓝星资源管理系统"  , icon:"Histogram"  },
+                }
+				
+			]
+		},
+		{
+			path: "/login", name: "login", component: () => import('./view/login.js'), meta:{ menu : false }
+		},
+		{
+			path: "/register", name: "register", component: () => import('./view/register.js'), meta:{ menu : false }
+		}
+	]
+
+	const router = VueRouter.createRouter({
+		history: VueRouter.createWebHashHistory(),
+		routes,
+	})
+
+	const app = Vue.createApp({})
+
+	let store = Vuex.createStore({
+		state: {
+			member:null,
+			socketLocal: null,
+			socketGroup: {},
+			socketMember: null,
+			groupMap:{},
+			groupMessageList:{},
+			memberMap:{},
+			memberMessageList:{},
+			verifyList:[]
+		}
+	})
+
+	router.afterEach((to) => {
+		// 获取to.matched 数组中 fullPath == to.fullPath 的对象
+        let matched = to.matched.find(item => item.path == to.fullPath)
+        document.getElementById("PageStyle").textContent = ""
+        if(matched.components){
+            if(matched.components.default.style){
+                document.getElementById("PageStyle").textContent = matched.components.default.style
+                console.log("修改颜色了")
+            }
+        }
+		console.log("你路由了")
+	})
+
+    for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
+        app.component(key, component)
+    }
+	
+	app.use(router)
+	app.use(store)
+    app.use(ElementPlus)
+	app.mount('#app')
+	
+</script>
+
+</html>

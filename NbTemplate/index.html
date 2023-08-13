@@ -3,8 +3,8 @@
 
 <head>
 	<meta charset="utf-8">
-	<title></title>
-	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+	<title>NbTemplate</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
     <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/element-plus/2.3.3/index.css">
 	<script src="https://cdn.bootcdn.net/ajax/libs/vue/3.2.47/vue.global.min.js"></script>
 	<script src="https://cdn.bootcdn.net/ajax/libs/vue-router/4.1.6/vue-router.global.js"></script>
@@ -44,6 +44,13 @@
 
     </style>
 </head>
+<script type="importmap">
+    {
+        "imports": {
+            
+        }
+    }
+</script>
 
 <body>
 	<div id="app" v-cloak>
@@ -81,7 +88,6 @@
                 {
                     path: "/setting", name: "setting", component: () => import('./view/setting.js'), meta:{ menu : true, name:"蓝星资源管理系统"  , icon:"Histogram"  },
                 }
-				
 			]
 		},
 		{
@@ -114,7 +120,6 @@
 	})
 
 	router.afterEach((to) => {
-		// 获取to.matched 数组中 fullPath == to.fullPath 的对象
         let matched = to.matched.find(item => item.path == to.fullPath)
         document.getElementById("PageStyle").textContent = ""
         if(matched.components){

@@ -1,10 +1,5 @@
-let style = // css
-`
-
-`
-
 let template = // html
-`
+    `
 <div class='p-10'>
     注册
     <p class='m-b-2'>用户名：</p>
@@ -19,7 +14,6 @@ let template = // html
 `
 export default {
     template: template,
-    style:style,
     data: () => {
         return {
             loginForm: {
@@ -28,6 +22,10 @@ export default {
         }
     },
     methods: {
-        
-    }
+
+    },
+    style:// css
+        `
+   
+	`,
 }

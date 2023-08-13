@@ -1,10 +1,5 @@
-let style = // css
-`
-
-`
-
 let template = // html
-`
+    `
 <div class='p-10'>
     登录
     <p class='m-b-2'>用户名：</p>
@@ -17,15 +12,14 @@ let template = // html
     <a href="/#/register">注册</a>
 </div>
 `
-import request from '../lib/request.js';
+import request from './lib/request.js';
 export default {
     template: template,
-    style:style,
     data: () => {
         return {
             loginForm: {
-                username:"",
-                password:""
+                username: "",
+                password: ""
             }
         }
     },
@@ -43,6 +37,10 @@ export default {
                 console.log(error);
             });
         }
-        
-    }
+
+    },
+    style:// css
+        `
+   
+	`,
 }

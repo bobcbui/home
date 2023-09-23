@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" id="viewport"
+        content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>机械英语</title>
+    <script src="https://cdn.staticfile.org/vue/3.2.36/vue.global.min.js"></script>
+    <script src="https://cdn.staticfile.org/axios/0.18.0/axios.min.js"></script>
+    <style>
+        body {
+            background-color: #ebd5c5;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app" class="demo">
+        <header>
+            <strong>巴啦啦软件.机械英语</strong>
+            <select style="float:right;vertical-align:middle;height: 21px;" v-model="selectItem"
+                @change="changeItem($event)">
+                <option v-for="(options,id) in itemList" :key="id" :value="options.url">
+                    {{options.title}}
+                </option>
+            </select>
+            <a style="float:right;margin-right: 10px;" href="/english.html">打字模式></a>
+        </header>
+        <div style="width: 600px;margin: auto;margin-top: 50px;text-align: center;max-width: 100%;">
+            <p style="font-size: 40px;margin: 0px;">{{ thisWord.original }}&nbsp;</p>
+            <p style="font-size: 40px;margin: 0px;">{{ thisWord.translation }}</p>
+            <div style="margin: 50px;">
+                <button style="white-space: nowrap;margin: 10px;border:1px solid rgb(124, 124, 124);border-radius: 5px;font-size: 18px;line-height: 20px;" :style="item.b" v-for="(item,index) in otherWord" :key="index" @click="ok(item)">{{item.w}}</button>
+            </div>
+        </div>
+        <div style="position: absolute;left:0;bottom: 0;box-sizing: border-box;width: 100%;padding: 10px;">你已学习：{{c}}次
+            <span style="float: right;">学习打卡QQ群：822175108</span></div>
+    </div>
+    <script>
+        const app = {
+            data() {
+                return {
+                    selectItem: '/resource/english/2000.json',
+                    itemList: [
+                        { id: 1, title: "2000单词", url: '/resource/english/2000.json' },
+                        { id: 2, title: "4000单词", url: '/resource/english/4000.json' },
+                        { id: 3, title: "6000单词", url: '/resource/english/6000.json' }
+                    ],
+                    i: 0,
+                    c: 0,
+                    thisWord: {
+                        original: "",
+                        translation: ""
+                    },
+                    otherWord: [],
+                    allWords: [],
+                    words: [],
+                    okCount:-1,
+                }
+            },
+            methods: {
+                ok(item, e){
+                    if(this.thisWord.original == item.w || this.thisWord.translation == item.w){
+                        this.okCount += 1
+                        item.b = "background-color: green;";
+                    }else{
+                        item.b = "background-color: red;";
+                    }
+                },
+                changeItem() {
+                    localStorage.setItem("url", this.selectItem)
+                    location.reload();
+                },
+                randomSortArray(arr) {
+                    var stack = [];
+                    while (arr.length) {
+                        //Math.random()：返回 [0,1) 之间的一个随机数
+                        var index = parseInt(Math.random() * arr.length);  // 利用数组长度生成随机索引值
+                        stack.push(arr[index]);  // 将随机索引对应的数组元素添加到新的数组中
+                        arr.splice(index, 1);  // 删除原数组中随机生成的元素
+                    }
+                    return stack;
+                },
+                f() {
+                    axios({
+                        method: 'GET',
+                        url: this.selectItem,
+                    })
+                        .then(response => {
+                            this.allWords = response.data;
+                            let ws = response.data;
+                            for (let i = 0; i < 40; i++) {
+                                var index = Math.floor((Math.random() * ws.length));
+                                this.words.push(ws[index])
+                                this.words.push(ws[index])
+                                this.words.push(ws[index])
+                                this.words.push(ws[index])
+                                this.words.push(ws[index])
+                                this.words.push(ws[index])
+                                ws.slice(index, 1)
+                            }
+                            var i = Math.floor((Math.random() * this.words.length));
+                            this.okCount = 2
+                        }).catch(function (error) { // 请求失败处理
+                            console.log(error);
+                        });
+                },nextWord(){
+
+                }
+            },
+            watch: {
+                okCount:{
+                    handler(newValue, oldValue){
+                        if (this.words.length == 0) {
+                            alert("休息一下吧！")
+                            window.location.reload();
+                        }
+                        let a = true;
+                        if (newValue == 2) {
+                            this.i += 1
+                            this.c += 1
+                            localStorage.setItem("c" + (new Date().getTime() + "").substring(0, 8), this.c)
+                            var sound = window.speechSynthesis; // 定义局部变量
+                            var index = Math.floor((Math.random() * this.words.length));
+                            this.thisWord = this.words.splice(index, 1)[0]
+                            console.log(this.words.length)
+                            try {
+                                var read_text = new SpeechSynthesisUtterance(this.thisWord.original); // 实例化
+                                sound.speak(read_text); // 朗读
+                            } catch (error) {
+                                console.log(error)
+                            }
+                            let aList = []
+                            for (let i = 0; i < 10; i++) {
+                                var index = Math.floor((Math.random() * this.allWords.length));
+                                aList.push({w:this.allWords[index].original},{w: this.allWords[index].translation})
+                            }
+                            aList.push({w:this.thisWord.translation})
+                            aList.push({w:this.thisWord.original})
+                            this.otherWord = this.randomSortArray(aList)
+                            this.okCount = 0
+                        }
+                    },
+                }
+            },
+            mounted() {
+                if (localStorage.getItem("url") != null) {
+                    this.selectItem = localStorage.getItem("url")
+                }
+                if (localStorage.getItem("c" + (new Date().getTime() + "").substring(0, 8)) != null) {
+                    this.c = parseInt(localStorage.getItem("c" + (new Date().getTime() + "").substring(0, 8)))
+                }
+                this.f();
+            }
+        }
+        Vue.createApp(app).mount('#app')
+    </script>
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?1985025c6ead5c1cce5d594f1193605a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</body>
+
+</html>

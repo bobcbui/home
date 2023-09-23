@@ -1,0 +1,5150 @@
+[
+    {
+        "original": "abnormal",
+        "translation": "不正常的"
+    },
+    {
+        "original": "abolish",
+        "translation": "废除"
+    },
+    {
+        "original": "abrupt",
+        "translation": "突然的"
+    },
+    {
+        "original": "absurd",
+        "translation": "荒谬的"
+    },
+    {
+        "original": "abundance",
+        "translation": "大量"
+    },
+    {
+        "original": "academy",
+        "translation": "学院"
+    },
+    {
+        "original": "accessory",
+        "translation": "附件"
+    },
+    {
+        "original": "accommodate",
+        "translation": "容纳"
+    },
+    {
+        "original": "accord",
+        "translation": "一致"
+    },
+    {
+        "original": "acknowledge",
+        "translation": "承认"
+    },
+    {
+        "original": "acquaint",
+        "translation": "使熟悉"
+    },
+    {
+        "original": "acquisition",
+        "translation": "获得"
+    },
+    {
+        "original": "activate",
+        "translation": "使活动"
+    },
+    {
+        "original": "acute",
+        "translation": "严重的"
+    },
+    {
+        "original": "adhere",
+        "translation": "遵守"
+    },
+    {
+        "original": "adjacent",
+        "translation": "相邻"
+    },
+    {
+        "original": "adjoin",
+        "translation": "邻接"
+    },
+    {
+        "original": "administer",
+        "translation": "管理"
+    },
+    {
+        "original": "adolescent",
+        "translation": "青少年"
+    },
+    {
+        "original": "advent",
+        "translation": "到来"
+    },
+    {
+        "original": "adverse",
+        "translation": "不利的"
+    },
+    {
+        "original": "advertise",
+        "translation": "做广告"
+    },
+    {
+        "original": "advocate",
+        "translation": "提倡"
+    },
+    {
+        "original": "aerial",
+        "translation": "天线"
+    },
+    {
+        "original": "aesthetic",
+        "translation": "美学"
+    },
+    {
+        "original": "affiliate",
+        "translation": "使附属"
+    },
+    {
+        "original": "affirm",
+        "translation": "肯定属实"
+    },
+    {
+        "original": "afflict",
+        "translation": "折磨"
+    },
+    {
+        "original": "agenda",
+        "translation": "议程"
+    },
+    {
+        "original": "aggravate",
+        "translation": "加重"
+    },
+    {
+        "original": "agitation",
+        "translation": "煽动"
+    },
+    {
+        "original": "agony",
+        "translation": "极大的痛苦"
+    },
+    {
+        "original": "agreeable",
+        "translation": "令人愉快的"
+    },
+    {
+        "original": "alert",
+        "translation": "警觉的"
+    },
+    {
+        "original": "alien",
+        "translation": "外星人"
+    },
+    {
+        "original": "allege",
+        "translation": "宣称"
+    },
+    {
+        "original": "alleviate",
+        "translation": "减轻"
+    },
+    {
+        "original": "alliance",
+        "translation": "结盟"
+    },
+    {
+        "original": "allocate",
+        "translation": "分配"
+    },
+    {
+        "original": "allowance",
+        "translation": "津贴"
+    },
+    {
+        "original": "ally",
+        "translation": "盟友"
+    },
+    {
+        "original": "alongside",
+        "translation": "沿着"
+    },
+    {
+        "original": "alternate",
+        "translation": "候补"
+    },
+    {
+        "original": "amateur",
+        "translation": "业余"
+    },
+    {
+        "original": "ambassador",
+        "translation": "大使"
+    },
+    {
+        "original": "ambiguous",
+        "translation": "模棱两可的"
+    },
+    {
+        "original": "ambitious",
+        "translation": "雄心勃勃的"
+    },
+    {
+        "original": "amend",
+        "translation": "修正"
+    },
+    {
+        "original": "amends",
+        "translation": "修正"
+    },
+    {
+        "original": "ample",
+        "translation": "充足的"
+    },
+    {
+        "original": "amplify",
+        "translation": "放大"
+    },
+    {
+        "original": "analogy",
+        "translation": "类比"
+    },
+    {
+        "original": "analytic",
+        "translation": "分析的"
+    },
+    {
+        "original": "analytical",
+        "translation": "分析的"
+    },
+    {
+        "original": "angel",
+        "translation": "天使"
+    },
+    {
+        "original": "anniversary",
+        "translation": "周年纪念日"
+    },
+    {
+        "original": "anonymous",
+        "translation": "匿名的"
+    },
+    {
+        "original": "Antarctic",
+        "translation": "南极"
+    },
+    {
+        "original": "antique",
+        "translation": "古董"
+    },
+    {
+        "original": "appendix",
+        "translation": "附录"
+    },
+    {
+        "original": "applaud",
+        "translation": "鼓掌"
+    },
+    {
+        "original": "appraisal",
+        "translation": "评价"
+    },
+    {
+        "original": "appreciable",
+        "translation": "可观的"
+    },
+    {
+        "original": "apprehension",
+        "translation": "忧虑"
+    },
+    {
+        "original": "apt",
+        "translation": "恰当的"
+    },
+    {
+        "original": "arc",
+        "translation": "弧"
+    },
+    {
+        "original": "arch",
+        "translation": "拱"
+    },
+    {
+        "original": "architect",
+        "translation": "建筑师"
+    },
+    {
+        "original": "arctic",
+        "translation": "北极的"
+    },
+    {
+        "original": "array",
+        "translation": "大堆"
+    },
+    {
+        "original": "articulate",
+        "translation": "表达"
+    },
+    {
+        "original": "ascend",
+        "translation": "上升"
+    },
+    {
+        "original": "ascertain",
+        "translation": "查明"
+    },
+    {
+        "original": "ascribe",
+        "translation": "归因"
+    },
+    {
+        "original": "assault",
+        "translation": "攻击"
+    },
+    {
+        "original": "assert",
+        "translation": "明确肯定"
+    },
+    {
+        "original": "asset",
+        "translation": "资产"
+    },
+    {
+        "original": "assimilate",
+        "translation": "同化"
+    },
+    {
+        "original": "assumption",
+        "translation": "假定"
+    },
+    {
+        "original": "assurance",
+        "translation": "保证"
+    },
+    {
+        "original": "astronomy",
+        "translation": "天文学"
+    },
+    {
+        "original": "athlete",
+        "translation": "运动员"
+    },
+    {
+        "original": "attendance",
+        "translation": "出席"
+    },
+    {
+        "original": "attendant",
+        "translation": "服务员"
+    },
+    {
+        "original": "attorney",
+        "translation": "律师"
+    },
+    {
+        "original": "augment",
+        "translation": "加强"
+    },
+    {
+        "original": "authentic",
+        "translation": "真正的"
+    },
+    {
+        "original": "authoritative",
+        "translation": "权威的"
+    },
+    {
+        "original": "authorize",
+        "translation": "批准"
+    },
+    {
+        "original": "automation",
+        "translation": "自动化"
+    },
+    {
+        "original": "autonomy",
+        "translation": "自治"
+    },
+    {
+        "original": "avail",
+        "translation": "效用"
+    },
+    {
+        "original": "avert",
+        "translation": "避开"
+    },
+    {
+        "original": "aviation",
+        "translation": "航空"
+    },
+    {
+        "original": "axis",
+        "translation": "轴"
+    },
+    {
+        "original": "bachelor",
+        "translation": "单身汉"
+    },
+    {
+        "original": "badge",
+        "translation": "徽章"
+    },
+    {
+        "original": "baffle",
+        "translation": "使困惑"
+    },
+    {
+        "original": "bald",
+        "translation": "秃头的"
+    },
+    {
+        "original": "ballet",
+        "translation": "芭蕾"
+    },
+    {
+        "original": "ban",
+        "translation": "禁令"
+    },
+    {
+        "original": "bandage",
+        "translation": "绷带"
+    },
+    {
+        "original": "bankrupt",
+        "translation": "破产"
+    },
+    {
+        "original": "barely",
+        "translation": "仅仅"
+    },
+    {
+        "original": "barren",
+        "translation": "贫瘠的"
+    },
+    {
+        "original": "basement",
+        "translation": "地下室"
+    },
+    {
+        "original": "batch",
+        "translation": "一批"
+    },
+    {
+        "original": "bearing",
+        "translation": "关系"
+    },
+    {
+        "original": "beforehand",
+        "translation": "预先"
+    },
+    {
+        "original": "betray",
+        "translation": "背叛"
+    },
+    {
+        "original": "bewilder",
+        "translation": "使迷惑"
+    },
+    {
+        "original": "bias",
+        "translation": "偏见"
+    },
+    {
+        "original": "bibliography",
+        "translation": "参考文献"
+    },
+    {
+        "original": "bid",
+        "translation": "投标"
+    },
+    {
+        "original": "biography",
+        "translation": "传记"
+    },
+    {
+        "original": "bizarre",
+        "translation": "奇怪的"
+    },
+    {
+        "original": "blaze",
+        "translation": "火焰"
+    },
+    {
+        "original": "bleak",
+        "translation": "凄凉的"
+    },
+    {
+        "original": "bless",
+        "translation": "祝福"
+    },
+    {
+        "original": "blossom",
+        "translation": "开花"
+    },
+    {
+        "original": "blunder",
+        "translation": "错误"
+    },
+    {
+        "original": "blunt",
+        "translation": "迟钝的"
+    },
+    {
+        "original": "blush",
+        "translation": "脸红"
+    },
+    {
+        "original": "bonus",
+        "translation": "奖金"
+    },
+    {
+        "original": "boom",
+        "translation": "繁荣"
+    },
+    {
+        "original": "boost",
+        "translation": "促进"
+    },
+    {
+        "original": "boycott",
+        "translation": "抵制"
+    },
+    {
+        "original": "brace",
+        "translation": "支架"
+    },
+    {
+        "original": "bracket",
+        "translation": "支架"
+    },
+    {
+        "original": "breakdown",
+        "translation": "崩溃"
+    },
+    {
+        "original": "bribe",
+        "translation": "贿赂"
+    },
+    {
+        "original": "brisk",
+        "translation": "轻快的"
+    },
+    {
+        "original": "brittle",
+        "translation": "易碎的"
+    },
+    {
+        "original": "bronze",
+        "translation": "青铜"
+    },
+    {
+        "original": "brood",
+        "translation": "育雏"
+    },
+    {
+        "original": "bruise",
+        "translation": "挫伤"
+    },
+    {
+        "original": "brutal",
+        "translation": "残酷的"
+    },
+    {
+        "original": "bud",
+        "translation": "芽"
+    },
+    {
+        "original": "budget",
+        "translation": "预算"
+    },
+    {
+        "original": "buffer",
+        "translation": "缓冲器"
+    },
+    {
+        "original": "bug",
+        "translation": "缺陷"
+    },
+    {
+        "original": "bull",
+        "translation": "公牛"
+    },
+    {
+        "original": "bulletin",
+        "translation": "新闻简报"
+    },
+    {
+        "original": "bump",
+        "translation": "碰撞"
+    },
+    {
+        "original": "bunch",
+        "translation": "串"
+    },
+    {
+        "original": "bureaucracy",
+        "translation": "官僚主义"
+    },
+    {
+        "original": "burial",
+        "translation": "埋葬"
+    },
+    {
+        "original": "buzz",
+        "translation": "嗡嗡声"
+    },
+    {
+        "original": "bypass",
+        "translation": "旁路"
+    },
+    {
+        "original": "cafeteria",
+        "translation": "自助餐厅"
+    },
+    {
+        "original": "canvas",
+        "translation": "帆布"
+    },
+    {
+        "original": "capsule",
+        "translation": "胶囊"
+    },
+    {
+        "original": "captive",
+        "translation": "俘虏"
+    },
+    {
+        "original": "cartoon",
+        "translation": "卡通"
+    },
+    {
+        "original": "carve",
+        "translation": "雕刻"
+    },
+    {
+        "original": "casualty",
+        "translation": "伤亡"
+    },
+    {
+        "original": "category",
+        "translation": "类别"
+    },
+    {
+        "original": "cater",
+        "translation": "迎合"
+    },
+    {
+        "original": "cathedral",
+        "translation": "大教堂"
+    },
+    {
+        "original": "Catholic",
+        "translation": "天主教的"
+    },
+    {
+        "original": "caution",
+        "translation": "小心"
+    },
+    {
+        "original": "cautious",
+        "translation": "小心的"
+    },
+    {
+        "original": "cavity",
+        "translation": "洞"
+    },
+    {
+        "original": "cellar",
+        "translation": "地窖"
+    },
+    {
+        "original": "census",
+        "translation": "统计"
+    },
+    {
+        "original": "ceramic",
+        "translation": "陶瓷"
+    },
+    {
+        "original": "cereal",
+        "translation": "谷类食品"
+    },
+    {
+        "original": "certainty",
+        "translation": "确实的事"
+    },
+    {
+        "original": "certify",
+        "translation": "证明"
+    },
+    {
+        "original": "chaos",
+        "translation": "混乱"
+    },
+    {
+        "original": "characterize",
+        "translation": "描述"
+    },
+    {
+        "original": "charity",
+        "translation": "慈善机构"
+    },
+    {
+        "original": "charm",
+        "translation": "魅力"
+    },
+    {
+        "original": "charter",
+        "translation": "宪章"
+    },
+    {
+        "original": "chat",
+        "translation": "闲聊"
+    },
+    {
+        "original": "cherish",
+        "translation": "珍惜"
+    },
+    {
+        "original": "chip",
+        "translation": "炸薯条"
+    },
+    {
+        "original": "chord",
+        "translation": "和弦"
+    },
+    {
+        "original": "chorus",
+        "translation": "副歌"
+    },
+    {
+        "original": "chronic",
+        "translation": "慢性的"
+    },
+    {
+        "original": "circulation",
+        "translation": "循环"
+    },
+    {
+        "original": "circus",
+        "translation": "马戏团"
+    },
+    {
+        "original": "cite",
+        "translation": "提及"
+    },
+    {
+        "original": "civilian",
+        "translation": "平民"
+    },
+    {
+        "original": "clamp",
+        "translation": "夹紧"
+    },
+    {
+        "original": "clarity",
+        "translation": "清晰"
+    },
+    {
+        "original": "clash",
+        "translation": "冲突"
+    },
+    {
+        "original": "clasp",
+        "translation": "扣环"
+    },
+    {
+        "original": "classic",
+        "translation": "经典"
+    },
+    {
+        "original": "clause",
+        "translation": "条款"
+    },
+    {
+        "original": "clearance",
+        "translation": "清除"
+    },
+    {
+        "original": "client",
+        "translation": "客户"
+    },
+    {
+        "original": "climax",
+        "translation": "高潮"
+    },
+    {
+        "original": "cling",
+        "translation": "附着于"
+    },
+    {
+        "original": "clinic",
+        "translation": "诊所"
+    },
+    {
+        "original": "clip",
+        "translation": "夹子"
+    },
+    {
+        "original": "clockwise",
+        "translation": "顺时针方向的"
+    },
+    {
+        "original": "closet",
+        "translation": "壁橱"
+    },
+    {
+        "original": "cluster",
+        "translation": "簇"
+    },
+    {
+        "original": "clutch",
+        "translation": "离合器"
+    },
+    {
+        "original": "coherent",
+        "translation": "连贯的"
+    },
+    {
+        "original": "coincide",
+        "translation": "重合"
+    },
+    {
+        "original": "coincidence",
+        "translation": "巧合"
+    },
+    {
+        "original": "collaboration",
+        "translation": "协作"
+    },
+    {
+        "original": "collide",
+        "translation": "碰撞"
+    },
+    {
+        "original": "colonial",
+        "translation": "殖民的"
+    },
+    {
+        "original": "combat",
+        "translation": "搏斗"
+    },
+    {
+        "original": "comedy",
+        "translation": "喜剧片"
+    },
+    {
+        "original": "comet",
+        "translation": "彗星"
+    },
+    {
+        "original": "commemorate",
+        "translation": "纪念"
+    },
+    {
+        "original": "commence",
+        "translation": "开始发生"
+    },
+    {
+        "original": "commend",
+        "translation": "赞扬"
+    },
+    {
+        "original": "commentary",
+        "translation": "实况报道"
+    },
+    {
+        "original": "commitment",
+        "translation": "承诺"
+    },
+    {
+        "original": "commodity",
+        "translation": "商品"
+    },
+    {
+        "original": "commonplace",
+        "translation": "常见的事"
+    },
+    {
+        "original": "commonwealth",
+        "translation": "英联邦"
+    },
+    {
+        "original": "commute",
+        "translation": "通勤"
+    },
+    {
+        "original": "compact",
+        "translation": "契约"
+    },
+    {
+        "original": "comparable",
+        "translation": "可比较的"
+    },
+    {
+        "original": "compartment",
+        "translation": "隔间"
+    },
+    {
+        "original": "compatible",
+        "translation": "可共用的"
+    },
+    {
+        "original": "compensate",
+        "translation": "补偿"
+    },
+    {
+        "original": "competence",
+        "translation": "能力"
+    },
+    {
+        "original": "competitive",
+        "translation": "竞争的"
+    },
+    {
+        "original": "compile",
+        "translation": "编写"
+    },
+    {
+        "original": "complement",
+        "translation": "补足"
+    },
+    {
+        "original": "complication",
+        "translation": "并发症"
+    },
+    {
+        "original": "compliment",
+        "translation": "恭维"
+    },
+    {
+        "original": "comply",
+        "translation": "遵守"
+    },
+    {
+        "original": "composite",
+        "translation": "混合成的"
+    },
+    {
+        "original": "compulsory",
+        "translation": "强制性的"
+    },
+    {
+        "original": "concede",
+        "translation": "让步"
+    },
+    {
+        "original": "conceive",
+        "translation": "想出"
+    },
+    {
+        "original": "conception",
+        "translation": "构思"
+    },
+    {
+        "original": "concession",
+        "translation": "让步"
+    },
+    {
+        "original": "concise",
+        "translation": "简明的"
+    },
+    {
+        "original": "confer",
+        "translation": "商讨"
+    },
+    {
+        "original": "confidential",
+        "translation": "保密的"
+    },
+    {
+        "original": "configuration",
+        "translation": "配置"
+    },
+    {
+        "original": "conform",
+        "translation": "符合"
+    },
+    {
+        "original": "confront",
+        "translation": "直面"
+    },
+    {
+        "original": "confusion",
+        "translation": "混乱"
+    },
+    {
+        "original": "conscientious",
+        "translation": "认真的"
+    },
+    {
+        "original": "consecutive",
+        "translation": "连续的"
+    },
+    {
+        "original": "consensus",
+        "translation": "一致的意见"
+    },
+    {
+        "original": "consequent",
+        "translation": "随之而来的"
+    },
+    {
+        "original": "conserve",
+        "translation": "保存"
+    },
+    {
+        "original": "consolidate",
+        "translation": "巩固"
+    },
+    {
+        "original": "conspicuous",
+        "translation": "引人注目的"
+    },
+    {
+        "original": "constituent",
+        "translation": "选民"
+    },
+    {
+        "original": "constrain",
+        "translation": "强迫"
+    },
+    {
+        "original": "consultant",
+        "translation": "顾问"
+    },
+    {
+        "original": "consumer",
+        "translation": "消费者"
+    },
+    {
+        "original": "contaminate",
+        "translation": "污染"
+    },
+    {
+        "original": "contemplate",
+        "translation": "沉思"
+    },
+    {
+        "original": "contempt",
+        "translation": "蔑视"
+    },
+    {
+        "original": "contend",
+        "translation": "竞争"
+    },
+    {
+        "original": "context",
+        "translation": "上下文"
+    },
+    {
+        "original": "continuity",
+        "translation": "连续性"
+    },
+    {
+        "original": "contradict",
+        "translation": "反驳"
+    },
+    {
+        "original": "contribution",
+        "translation": "捐款"
+    },
+    {
+        "original": "contrive",
+        "translation": "设法做到"
+    },
+    {
+        "original": "controversial",
+        "translation": "引起争论的"
+    },
+    {
+        "original": "controversy",
+        "translation": "争议"
+    },
+    {
+        "original": "converge",
+        "translation": "会聚"
+    },
+    {
+        "original": "convict",
+        "translation": "罪犯"
+    },
+    {
+        "original": "conviction",
+        "translation": "信念"
+    },
+    {
+        "original": "cooperative",
+        "translation": "合作的"
+    },
+    {
+        "original": "cordial",
+        "translation": "热诚的"
+    },
+    {
+        "original": "corporate",
+        "translation": "公司的"
+    },
+    {
+        "original": "corps",
+        "translation": "军团"
+    },
+    {
+        "original": "correlate",
+        "translation": "相关"
+    },
+    {
+        "original": "correspondence",
+        "translation": "来往信件"
+    },
+    {
+        "original": "correspondent",
+        "translation": "记者"
+    },
+    {
+        "original": "corrode",
+        "translation": "腐蚀"
+    },
+    {
+        "original": "corrupt",
+        "translation": "贪污的"
+    },
+    {
+        "original": "cosmic",
+        "translation": "宇宙的"
+    },
+    {
+        "original": "costume",
+        "translation": "服装"
+    },
+    {
+        "original": "couch",
+        "translation": "沙发"
+    },
+    {
+        "original": "counsel",
+        "translation": "劝告"
+    },
+    {
+        "original": "counterpart",
+        "translation": "对应方"
+    },
+    {
+        "original": "courtesy",
+        "translation": "礼貌"
+    },
+    {
+        "original": "coward",
+        "translation": "胆小鬼"
+    },
+    {
+        "original": "cradle",
+        "translation": "摇篮"
+    },
+    {
+        "original": "creation",
+        "translation": "创造"
+    },
+    {
+        "original": "cripple",
+        "translation": "跛子"
+    },
+    {
+        "original": "crisp",
+        "translation": "脆的"
+    },
+    {
+        "original": "criterion",
+        "translation": "标准"
+    },
+    {
+        "original": "crucial",
+        "translation": "关键的"
+    },
+    {
+        "original": "cruise",
+        "translation": "巡航"
+    },
+    {
+        "original": "cue",
+        "translation": "暗示"
+    },
+    {
+        "original": "culminate",
+        "translation": "达到顶点"
+    },
+    {
+        "original": "cumulative",
+        "translation": "累计的"
+    },
+    {
+        "original": "curb",
+        "translation": "遏制"
+    },
+    {
+        "original": "curt",
+        "translation": "唐突无礼的"
+    },
+    {
+        "original": "currency",
+        "translation": "通货"
+    },
+    {
+        "original": "curriculum",
+        "translation": "课程"
+    },
+    {
+        "original": "customary",
+        "translation": "习惯的"
+    },
+    {
+        "original": "cylinder",
+        "translation": "圆柱"
+    },
+    {
+        "original": "cynical",
+        "translation": "愤世嫉俗的"
+    },
+    {
+        "original": "d\\*amn",
+        "translation": "天\\*amn"
+    },
+    {
+        "original": "dazzle",
+        "translation": "使目眩"
+    },
+    {
+        "original": "deadly",
+        "translation": "致命的"
+    },
+    {
+        "original": "decent",
+        "translation": "得体的"
+    },
+    {
+        "original": "decimal",
+        "translation": "十进制的"
+    },
+    {
+        "original": "decisive",
+        "translation": "果断的"
+    },
+    {
+        "original": "declaration",
+        "translation": "公告"
+    },
+    {
+        "original": "decline",
+        "translation": "减少"
+    },
+    {
+        "original": "dedicate",
+        "translation": "奉献"
+    },
+    {
+        "original": "deem",
+        "translation": "认为"
+    },
+    {
+        "original": "deficiency",
+        "translation": "缺乏"
+    },
+    {
+        "original": "deficit",
+        "translation": "赤字"
+    },
+    {
+        "original": "defy",
+        "translation": "藐视"
+    },
+    {
+        "original": "degenerate",
+        "translation": "退化"
+    },
+    {
+        "original": "degrade",
+        "translation": "降低"
+    },
+    {
+        "original": "delegate",
+        "translation": "代表"
+    },
+    {
+        "original": "deliberate",
+        "translation": "故意的"
+    },
+    {
+        "original": "denial",
+        "translation": "拒绝"
+    },
+    {
+        "original": "denote",
+        "translation": "标志"
+    },
+    {
+        "original": "denounce",
+        "translation": "谴责"
+    },
+    {
+        "original": "dentist",
+        "translation": "牙医"
+    },
+    {
+        "original": "depict",
+        "translation": "描绘"
+    },
+    {
+        "original": "depression",
+        "translation": "抑郁症"
+    },
+    {
+        "original": "deprive",
+        "translation": "剥夺"
+    },
+    {
+        "original": "depute",
+        "translation": "委托"
+    },
+    {
+        "original": "descendant",
+        "translation": "后代"
+    },
+    {
+        "original": "descent",
+        "translation": "下降"
+    },
+    {
+        "original": "designate",
+        "translation": "命名"
+    },
+    {
+        "original": "despatch",
+        "translation": "发送"
+    },
+    {
+        "original": "despise",
+        "translation": "鄙视"
+    },
+    {
+        "original": "destined",
+        "translation": "注定"
+    },
+    {
+        "original": "destiny",
+        "translation": "命运"
+    },
+    {
+        "original": "destructive",
+        "translation": "破坏性的"
+    },
+    {
+        "original": "detach",
+        "translation": "拆卸"
+    },
+    {
+        "original": "detective",
+        "translation": "侦探"
+    },
+    {
+        "original": "deteriorate",
+        "translation": "变坏"
+    },
+    {
+        "original": "deviate",
+        "translation": "背离"
+    },
+    {
+        "original": "diagnose",
+        "translation": "诊断"
+    },
+    {
+        "original": "diet",
+        "translation": "饮食"
+    },
+    {
+        "original": "differentiate",
+        "translation": "区分"
+    },
+    {
+        "original": "diffuse",
+        "translation": "弥漫的"
+    },
+    {
+        "original": "dignity",
+        "translation": "庄重"
+    },
+    {
+        "original": "dilemma",
+        "translation": "困境"
+    },
+    {
+        "original": "dilute",
+        "translation": "稀释"
+    },
+    {
+        "original": "diminish",
+        "translation": "减少"
+    },
+    {
+        "original": "dine",
+        "translation": "进餐"
+    },
+    {
+        "original": "diploma",
+        "translation": "文凭"
+    },
+    {
+        "original": "diplomatic",
+        "translation": "外交的"
+    },
+    {
+        "original": "directory",
+        "translation": "目录"
+    },
+    {
+        "original": "disable",
+        "translation": "使残废"
+    },
+    {
+        "original": "disastrous",
+        "translation": "极糟糕的"
+    },
+    {
+        "original": "discern",
+        "translation": "辨别"
+    },
+    {
+        "original": "disclose",
+        "translation": "披露"
+    },
+    {
+        "original": "discount",
+        "translation": "折扣"
+    },
+    {
+        "original": "discrepancy",
+        "translation": "差异"
+    },
+    {
+        "original": "discrete",
+        "translation": "离散的"
+    },
+    {
+        "original": "discriminate",
+        "translation": "区别对待"
+    },
+    {
+        "original": "disguise",
+        "translation": "假扮"
+    },
+    {
+        "original": "dismay",
+        "translation": "沮丧"
+    },
+    {
+        "original": "dispatch",
+        "translation": "派遣"
+    },
+    {
+        "original": "disperse",
+        "translation": "分散"
+    },
+    {
+        "original": "displace",
+        "translation": "置换"
+    },
+    {
+        "original": "disposition",
+        "translation": "性情"
+    },
+    {
+        "original": "disregard",
+        "translation": "漠视"
+    },
+    {
+        "original": "disrupt",
+        "translation": "扰乱"
+    },
+    {
+        "original": "dissipate",
+        "translation": "消散"
+    },
+    {
+        "original": "distil",
+        "translation": "蒸馏"
+    },
+    {
+        "original": "distort",
+        "translation": "使变形"
+    },
+    {
+        "original": "distract",
+        "translation": "分散"
+    },
+    {
+        "original": "disturbance",
+        "translation": "骚乱"
+    },
+    {
+        "original": "diversion",
+        "translation": "改道"
+    },
+    {
+        "original": "divert",
+        "translation": "使转向"
+    },
+    {
+        "original": "divine",
+        "translation": "神圣的"
+    },
+    {
+        "original": "dizzy",
+        "translation": "头晕的"
+    },
+    {
+        "original": "dock",
+        "translation": "船坞"
+    },
+    {
+        "original": "doctrine",
+        "translation": "教条"
+    },
+    {
+        "original": "domain",
+        "translation": "领域"
+    },
+    {
+        "original": "dome",
+        "translation": "穹顶"
+    },
+    {
+        "original": "dominant",
+        "translation": "占主导地位"
+    },
+    {
+        "original": "dominate",
+        "translation": "支配"
+    },
+    {
+        "original": "donate",
+        "translation": "捐赠"
+    },
+    {
+        "original": "doom",
+        "translation": "死亡"
+    },
+    {
+        "original": "doubtless",
+        "translation": "无疑的"
+    },
+    {
+        "original": "drainage",
+        "translation": "排水"
+    },
+    {
+        "original": "drastic",
+        "translation": "激烈的"
+    },
+    {
+        "original": "drawback",
+        "translation": "缺点"
+    },
+    {
+        "original": "dreadful",
+        "translation": "糟糕透顶的"
+    },
+    {
+        "original": "drought",
+        "translation": "干旱"
+    },
+    {
+        "original": "dual",
+        "translation": "二重的"
+    },
+    {
+        "original": "dubious",
+        "translation": "怀疑"
+    },
+    {
+        "original": "duplicate",
+        "translation": "复制"
+    },
+    {
+        "original": "dwell",
+        "translation": "居住"
+    },
+    {
+        "original": "earnings",
+        "translation": "薪水"
+    },
+    {
+        "original": "Easter",
+        "translation": "复活节"
+    },
+    {
+        "original": "eccentric",
+        "translation": "古怪的"
+    },
+    {
+        "original": "eclipse",
+        "translation": "日食"
+    },
+    {
+        "original": "ecology",
+        "translation": "生态学"
+    },
+    {
+        "original": "economics",
+        "translation": "经济学"
+    },
+    {
+        "original": "edible",
+        "translation": "可食用的"
+    },
+    {
+        "original": "edit",
+        "translation": "编辑"
+    },
+    {
+        "original": "editorial",
+        "translation": "社论"
+    },
+    {
+        "original": "ego",
+        "translation": "自我"
+    },
+    {
+        "original": "eject",
+        "translation": "弹出"
+    },
+    {
+        "original": "elapse",
+        "translation": "逝去"
+    },
+    {
+        "original": "elbow",
+        "translation": "肘部"
+    },
+    {
+        "original": "elderly",
+        "translation": "老年人"
+    },
+    {
+        "original": "electrician",
+        "translation": "电工"
+    },
+    {
+        "original": "electronics",
+        "translation": "电子学"
+    },
+    {
+        "original": "elegant",
+        "translation": "优雅的"
+    },
+    {
+        "original": "elevate",
+        "translation": "提升"
+    },
+    {
+        "original": "elicit",
+        "translation": "引起"
+    },
+    {
+        "original": "eligible",
+        "translation": "有资格的"
+    },
+    {
+        "original": "elite",
+        "translation": "精英"
+    },
+    {
+        "original": "eloquent",
+        "translation": "雄辩的"
+    },
+    {
+        "original": "embark",
+        "translation": "上船"
+    },
+    {
+        "original": "embassy",
+        "translation": "大使馆"
+    },
+    {
+        "original": "embed",
+        "translation": "嵌入"
+    },
+    {
+        "original": "embody",
+        "translation": "体现"
+    },
+    {
+        "original": "empirical",
+        "translation": "经验主义的"
+    },
+    {
+        "original": "enclosure",
+        "translation": "圈占地"
+    },
+    {
+        "original": "endeavor",
+        "translation": "努力"
+    },
+    {
+        "original": "endow",
+        "translation": "天生赋予"
+    },
+    {
+        "original": "endurance",
+        "translation": "耐力"
+    },
+    {
+        "original": "energetic",
+        "translation": "精力充沛的"
+    },
+    {
+        "original": "engagement",
+        "translation": "订婚"
+    },
+    {
+        "original": "enhance",
+        "translation": "增强"
+    },
+    {
+        "original": "enlighten",
+        "translation": "启发"
+    },
+    {
+        "original": "enrich",
+        "translation": "充实"
+    },
+    {
+        "original": "enroll",
+        "translation": "登记"
+    },
+    {
+        "original": "ensue",
+        "translation": "接踵而至"
+    },
+    {
+        "original": "entail",
+        "translation": "涉及"
+    },
+    {
+        "original": "enterprise",
+        "translation": "企业"
+    },
+    {
+        "original": "entertainment",
+        "translation": "娱乐片"
+    },
+    {
+        "original": "enthusiastic",
+        "translation": "热情的"
+    },
+    {
+        "original": "entity",
+        "translation": "实体"
+    },
+    {
+        "original": "entrepreneur",
+        "translation": "企业家"
+    },
+    {
+        "original": "envisage",
+        "translation": "想象"
+    },
+    {
+        "original": "episode",
+        "translation": "插曲"
+    },
+    {
+        "original": "epoch",
+        "translation": "纪元"
+    },
+    {
+        "original": "equator",
+        "translation": "赤道"
+    },
+    {
+        "original": "equilibrium",
+        "translation": "平衡"
+    },
+    {
+        "original": "erosion",
+        "translation": "腐蚀"
+    },
+    {
+        "original": "erroneous",
+        "translation": "错误的"
+    },
+    {
+        "original": "erupt",
+        "translation": "爆发"
+    },
+    {
+        "original": "escort",
+        "translation": "护送"
+    },
+    {
+        "original": "essence",
+        "translation": "本质"
+    },
+    {
+        "original": "estate",
+        "translation": "大片私有土地"
+    },
+    {
+        "original": "esthetic",
+        "translation": "审美"
+    },
+    {
+        "original": "eternal",
+        "translation": "不朽的"
+    },
+    {
+        "original": "ethics",
+        "translation": "道德准则"
+    },
+    {
+        "original": "ethnic",
+        "translation": "民族的"
+    },
+    {
+        "original": "evoke",
+        "translation": "唤起"
+    },
+    {
+        "original": "exceptional",
+        "translation": "异常"
+    },
+    {
+        "original": "exclusive",
+        "translation": "独家"
+    },
+    {
+        "original": "execution",
+        "translation": "处决"
+    },
+    {
+        "original": "exemplify",
+        "translation": "举例说明"
+    },
+    {
+        "original": "exempt",
+        "translation": "豁免"
+    },
+    {
+        "original": "exile",
+        "translation": "放逐"
+    },
+    {
+        "original": "exotic",
+        "translation": "异国情调的"
+    },
+    {
+        "original": "expedition",
+        "translation": "远征"
+    },
+    {
+        "original": "expel",
+        "translation": "驱逐"
+    },
+    {
+        "original": "expend",
+        "translation": "支出"
+    },
+    {
+        "original": "expenditure",
+        "translation": "支出"
+    },
+    {
+        "original": "expertise",
+        "translation": "专业知识"
+    },
+    {
+        "original": "expire",
+        "translation": "失效"
+    },
+    {
+        "original": "explicit",
+        "translation": "明确的"
+    },
+    {
+        "original": "exposition",
+        "translation": "博览会"
+    },
+    {
+        "original": "exquisite",
+        "translation": "精致"
+    },
+    {
+        "original": "extinct",
+        "translation": "灭绝的"
+    },
+    {
+        "original": "extinguish",
+        "translation": "熄灭"
+    },
+    {
+        "original": "extract",
+        "translation": "摘录"
+    },
+    {
+        "original": "extravagant",
+        "translation": "奢侈的"
+    },
+    {
+        "original": "fabricate",
+        "translation": "制作"
+    },
+    {
+        "original": "facet",
+        "translation": "方面"
+    },
+    {
+        "original": "facilitate",
+        "translation": "促进"
+    },
+    {
+        "original": "fake",
+        "translation": "伪造的"
+    },
+    {
+        "original": "fantastic",
+        "translation": "好极了"
+    },
+    {
+        "original": "fantasy",
+        "translation": "幻想"
+    },
+    {
+        "original": "fascinate",
+        "translation": "入迷"
+    },
+    {
+        "original": "fax",
+        "translation": "传真"
+    },
+    {
+        "original": "feast",
+        "translation": "盛宴"
+    },
+    {
+        "original": "federation",
+        "translation": "联邦"
+    },
+    {
+        "original": "feeble",
+        "translation": "虚弱的"
+    },
+    {
+        "original": "fellowship",
+        "translation": "交情"
+    },
+    {
+        "original": "feminine",
+        "translation": "女性化的"
+    },
+    {
+        "original": "ferry",
+        "translation": "渡船"
+    },
+    {
+        "original": "finite",
+        "translation": "有限的"
+    },
+    {
+        "original": "fist",
+        "translation": "拳"
+    },
+    {
+        "original": "fitting",
+        "translation": "适合的"
+    },
+    {
+        "original": "fixture",
+        "translation": "固定装置"
+    },
+    {
+        "original": "flank",
+        "translation": "侧面"
+    },
+    {
+        "original": "flap",
+        "translation": "拍打"
+    },
+    {
+        "original": "flare",
+        "translation": "闪耀"
+    },
+    {
+        "original": "flatter",
+        "translation": "奉承"
+    },
+    {
+        "original": "flaw",
+        "translation": "缺陷"
+    },
+    {
+        "original": "flee",
+        "translation": "逃走"
+    },
+    {
+        "original": "fling",
+        "translation": "猛扔"
+    },
+    {
+        "original": "fluctuate",
+        "translation": "波动"
+    },
+    {
+        "original": "flush",
+        "translation": "脸红"
+    },
+    {
+        "original": "flutter",
+        "translation": "颤振"
+    },
+    {
+        "original": "foam",
+        "translation": "泡沫橡胶"
+    },
+    {
+        "original": "foil",
+        "translation": "箔"
+    },
+    {
+        "original": "foremost",
+        "translation": "最重要的"
+    },
+    {
+        "original": "foresee",
+        "translation": "预料"
+    },
+    {
+        "original": "format",
+        "translation": "总体安排"
+    },
+    {
+        "original": "formidable",
+        "translation": "可怕的"
+    },
+    {
+        "original": "formulate",
+        "translation": "制定"
+    },
+    {
+        "original": "fort",
+        "translation": "要塞"
+    },
+    {
+        "original": "forthcoming",
+        "translation": "即将到来的"
+    },
+    {
+        "original": "forum",
+        "translation": "论坛"
+    },
+    {
+        "original": "fossil",
+        "translation": "化石"
+    },
+    {
+        "original": "foster",
+        "translation": "促进"
+    },
+    {
+        "original": "foul",
+        "translation": "犯规"
+    },
+    {
+        "original": "fracture",
+        "translation": "骨折"
+    },
+    {
+        "original": "fragile",
+        "translation": "易碎的"
+    },
+    {
+        "original": "fraud",
+        "translation": "欺诈"
+    },
+    {
+        "original": "fringe",
+        "translation": "边缘"
+    },
+    {
+        "original": "frustrate",
+        "translation": "使懊丧"
+    },
+    {
+        "original": "furious",
+        "translation": "狂怒的"
+    },
+    {
+        "original": "fuse",
+        "translation": "保险丝"
+    },
+    {
+        "original": "fusion",
+        "translation": "融合"
+    },
+    {
+        "original": "fuss",
+        "translation": "大惊小怪"
+    },
+    {
+        "original": "galaxy",
+        "translation": "银河系"
+    },
+    {
+        "original": "gallery",
+        "translation": "陈列室"
+    },
+    {
+        "original": "gamble",
+        "translation": "赌博"
+    },
+    {
+        "original": "gaol",
+        "translation": "监狱"
+    },
+    {
+        "original": "garbage",
+        "translation": "垃圾"
+    },
+    {
+        "original": "garment",
+        "translation": "服装"
+    },
+    {
+        "original": "gasp",
+        "translation": "喘息"
+    },
+    {
+        "original": "gear",
+        "translation": "排挡"
+    },
+    {
+        "original": "gene",
+        "translation": "基因"
+    },
+    {
+        "original": "generalize",
+        "translation": "概括"
+    },
+    {
+        "original": "genetic",
+        "translation": "遗传的"
+    },
+    {
+        "original": "geology",
+        "translation": "地质学"
+    },
+    {
+        "original": "gigantic",
+        "translation": "巨大的"
+    },
+    {
+        "original": "given",
+        "translation": "鉴于"
+    },
+    {
+        "original": "glare",
+        "translation": "怒目而视"
+    },
+    {
+        "original": "gleam",
+        "translation": "发微光"
+    },
+    {
+        "original": "glide",
+        "translation": "滑行"
+    },
+    {
+        "original": "glitter",
+        "translation": "闪烁"
+    },
+    {
+        "original": "global",
+        "translation": "全球的"
+    },
+    {
+        "original": "gloomy",
+        "translation": "黑暗的"
+    },
+    {
+        "original": "gorgeous",
+        "translation": "非常漂亮的"
+    },
+    {
+        "original": "gossip",
+        "translation": "流言蜚语"
+    },
+    {
+        "original": "grab",
+        "translation": "抓住"
+    },
+    {
+        "original": "gracious",
+        "translation": "亲切的"
+    },
+    {
+        "original": "graze",
+        "translation": "吃草"
+    },
+    {
+        "original": "grease",
+        "translation": "润滑油"
+    },
+    {
+        "original": "grief",
+        "translation": "悲伤"
+    },
+    {
+        "original": "grieve",
+        "translation": "悲伤"
+    },
+    {
+        "original": "grim",
+        "translation": "严峻的"
+    },
+    {
+        "original": "grin",
+        "translation": "咧嘴笑"
+    },
+    {
+        "original": "groan",
+        "translation": "呻吟"
+    },
+    {
+        "original": "grope",
+        "translation": "摸索"
+    },
+    {
+        "original": "guardian",
+        "translation": "守护者"
+    },
+    {
+        "original": "guideline",
+        "translation": "指南"
+    },
+    {
+        "original": "guy",
+        "translation": "男人"
+    },
+    {
+        "original": "hamper",
+        "translation": "妨碍"
+    },
+    {
+        "original": "handbook",
+        "translation": "手册"
+    },
+    {
+        "original": "handicap",
+        "translation": "残障"
+    },
+    {
+        "original": "hasty",
+        "translation": "匆忙的"
+    },
+    {
+        "original": "hatch",
+        "translation": "孵出"
+    },
+    {
+        "original": "haul",
+        "translation": "拖"
+    },
+    {
+        "original": "haunt",
+        "translation": "困扰"
+    },
+    {
+        "original": "heal",
+        "translation": "治愈"
+    },
+    {
+        "original": "hearing",
+        "translation": "听力"
+    },
+    {
+        "original": "heave",
+        "translation": "隆起"
+    },
+    {
+        "original": "heighten",
+        "translation": "加高"
+    },
+    {
+        "original": "heir",
+        "translation": "继承人"
+    },
+    {
+        "original": "hemisphere",
+        "translation": "半球"
+    },
+    {
+        "original": "henceforth",
+        "translation": "从今以后"
+    },
+    {
+        "original": "heritage",
+        "translation": "遗产"
+    },
+    {
+        "original": "hierarchy",
+        "translation": "等级制度"
+    },
+    {
+        "original": "highlight",
+        "translation": "突出"
+    },
+    {
+        "original": "hinder",
+        "translation": "阻碍"
+    },
+    {
+        "original": "hinge",
+        "translation": "铰链"
+    },
+    {
+        "original": "historian",
+        "translation": "史学家"
+    },
+    {
+        "original": "historic",
+        "translation": "有历史意义的"
+    },
+    {
+        "original": "hitherto",
+        "translation": "迄今为止"
+    },
+    {
+        "original": "hoist",
+        "translation": "升起"
+    },
+    {
+        "original": "homogeneous",
+        "translation": "同种类的"
+    },
+    {
+        "original": "horrible",
+        "translation": "极坏的"
+    },
+    {
+        "original": "hose",
+        "translation": "软管"
+    },
+    {
+        "original": "hospitality",
+        "translation": "好客"
+    },
+    {
+        "original": "hostage",
+        "translation": "人质"
+    },
+    {
+        "original": "hover",
+        "translation": "悬停"
+    },
+    {
+        "original": "hug",
+        "translation": "拥抱"
+    },
+    {
+        "original": "humanity",
+        "translation": "人性"
+    },
+    {
+        "original": "humidity",
+        "translation": "湿度"
+    },
+    {
+        "original": "hurl",
+        "translation": "投掷"
+    },
+    {
+        "original": "hurricane",
+        "translation": "飓风"
+    },
+    {
+        "original": "hypothesis",
+        "translation": "假设"
+    },
+    {
+        "original": "hysterical",
+        "translation": "歇斯底里的"
+    },
+    {
+        "original": "identification",
+        "translation": "识别"
+    },
+    {
+        "original": "identity",
+        "translation": "身份"
+    },
+    {
+        "original": "ideology",
+        "translation": "思想"
+    },
+    {
+        "original": "idiom",
+        "translation": "习语"
+    },
+    {
+        "original": "ignite",
+        "translation": "燃烧"
+    },
+    {
+        "original": "ignorance",
+        "translation": "无知"
+    },
+    {
+        "original": "illuminate",
+        "translation": "照明"
+    },
+    {
+        "original": "illusion",
+        "translation": "幻觉"
+    },
+    {
+        "original": "imaginative",
+        "translation": "富有想象力的"
+    },
+    {
+        "original": "imitation",
+        "translation": "仿制品"
+    },
+    {
+        "original": "immerse",
+        "translation": "沉浸在"
+    },
+    {
+        "original": "immune",
+        "translation": "有免疫力"
+    },
+    {
+        "original": "impair",
+        "translation": "损害"
+    },
+    {
+        "original": "impart",
+        "translation": "通知"
+    },
+    {
+        "original": "imperative",
+        "translation": "迫切的"
+    },
+    {
+        "original": "imperial",
+        "translation": "帝国的"
+    },
+    {
+        "original": "impetus",
+        "translation": "动力"
+    },
+    {
+        "original": "implement",
+        "translation": "使生效"
+    },
+    {
+        "original": "implicit",
+        "translation": "含蓄的"
+    },
+    {
+        "original": "impulse",
+        "translation": "冲动"
+    },
+    {
+        "original": "inaugurate",
+        "translation": "为举行就职典礼"
+    },
+    {
+        "original": "incentive",
+        "translation": "激励"
+    },
+    {
+        "original": "incidence",
+        "translation": "发生率"
+    },
+    {
+        "original": "incidentally",
+        "translation": "顺便提一句"
+    },
+    {
+        "original": "inclusive",
+        "translation": "包含全部费用"
+    },
+    {
+        "original": "incorporate",
+        "translation": "合并"
+    },
+    {
+        "original": "incredible",
+        "translation": "难以置信的"
+    },
+    {
+        "original": "incur",
+        "translation": "招致"
+    },
+    {
+        "original": "indefinite",
+        "translation": "无限期的"
+    },
+    {
+        "original": "indicative",
+        "translation": "指示性"
+    },
+    {
+        "original": "indignant",
+        "translation": "愤慨的"
+    },
+    {
+        "original": "indignation",
+        "translation": "愤慨"
+    },
+    {
+        "original": "induce",
+        "translation": "诱导"
+    },
+    {
+        "original": "indulge",
+        "translation": "沉湎"
+    },
+    {
+        "original": "inertia",
+        "translation": "缺乏活力"
+    },
+    {
+        "original": "infectious",
+        "translation": "传染性的"
+    },
+    {
+        "original": "inference",
+        "translation": "推论"
+    },
+    {
+        "original": "inflation",
+        "translation": "通货膨胀"
+    },
+    {
+        "original": "inflict",
+        "translation": "使遭受打击"
+    },
+    {
+        "original": "ingenious",
+        "translation": "精巧的"
+    },
+    {
+        "original": "ingredient",
+        "translation": "成分"
+    },
+    {
+        "original": "inhabit",
+        "translation": "居住在"
+    },
+    {
+        "original": "inhibit",
+        "translation": "阻止"
+    },
+    {
+        "original": "initiate",
+        "translation": "发起"
+    },
+    {
+        "original": "initiative",
+        "translation": "倡议"
+    },
+    {
+        "original": "inject",
+        "translation": "注射"
+    },
+    {
+        "original": "inland",
+        "translation": "在内陆"
+    },
+    {
+        "original": "inlet",
+        "translation": "小湾"
+    },
+    {
+        "original": "innovation",
+        "translation": "创造"
+    },
+    {
+        "original": "innumerable",
+        "translation": "无数"
+    },
+    {
+        "original": "insane",
+        "translation": "精神失常的"
+    },
+    {
+        "original": "insight",
+        "translation": "洞察力"
+    },
+    {
+        "original": "inspiration",
+        "translation": "灵感"
+    },
+    {
+        "original": "installment",
+        "translation": "分期付款"
+    },
+    {
+        "original": "instantaneous",
+        "translation": "瞬间的"
+    },
+    {
+        "original": "instrumental",
+        "translation": "起重要作用的"
+    },
+    {
+        "original": "insulate",
+        "translation": "使隔热"
+    },
+    {
+        "original": "intact",
+        "translation": "完整的"
+    },
+    {
+        "original": "integral",
+        "translation": "完整的"
+    },
+    {
+        "original": "integrate",
+        "translation": "整合"
+    },
+    {
+        "original": "integrity",
+        "translation": "诚实正直"
+    },
+    {
+        "original": "intellect",
+        "translation": "智力"
+    },
+    {
+        "original": "intelligible",
+        "translation": "易懂的"
+    },
+    {
+        "original": "intensify",
+        "translation": "强化"
+    },
+    {
+        "original": "intent",
+        "translation": "意图"
+    },
+    {
+        "original": "interact",
+        "translation": "互动"
+    },
+    {
+        "original": "interim",
+        "translation": "临时的"
+    },
+    {
+        "original": "intermittent",
+        "translation": "断断续续的"
+    },
+    {
+        "original": "intersection",
+        "translation": "十字路口"
+    },
+    {
+        "original": "intervene",
+        "translation": "干预"
+    },
+    {
+        "original": "intimidate",
+        "translation": "恐吓"
+    },
+    {
+        "original": "intricate",
+        "translation": "错综复杂的"
+    },
+    {
+        "original": "intrigue",
+        "translation": "阴谋"
+    },
+    {
+        "original": "intrinsic",
+        "translation": "固有的"
+    },
+    {
+        "original": "intuition",
+        "translation": "直觉"
+    },
+    {
+        "original": "invalid",
+        "translation": "无效的"
+    },
+    {
+        "original": "invaluable",
+        "translation": "极宝贵的"
+    },
+    {
+        "original": "invariably",
+        "translation": "一成不变"
+    },
+    {
+        "original": "inventory",
+        "translation": "库存"
+    },
+    {
+        "original": "invert",
+        "translation": "倒转"
+    },
+    {
+        "original": "irony",
+        "translation": "讽刺"
+    },
+    {
+        "original": "irrespective",
+        "translation": "无关的"
+    },
+    {
+        "original": "irrigation",
+        "translation": "灌溉"
+    },
+    {
+        "original": "irritate",
+        "translation": "刺激"
+    },
+    {
+        "original": "ivory",
+        "translation": "象牙"
+    },
+    {
+        "original": "jail",
+        "translation": "监狱"
+    },
+    {
+        "original": "jeopardize",
+        "translation": "危害"
+    },
+    {
+        "original": "jerk",
+        "translation": "混蛋"
+    },
+    {
+        "original": "journalist",
+        "translation": "新闻工作者"
+    },
+    {
+        "original": "junction",
+        "translation": "交叉路口"
+    },
+    {
+        "original": "jury",
+        "translation": "陪审团"
+    },
+    {
+        "original": "justification",
+        "translation": "正当理由"
+    },
+    {
+        "original": "kidney",
+        "translation": "肾"
+    },
+    {
+        "original": "kit",
+        "translation": "配套元件"
+    },
+    {
+        "original": "knit",
+        "translation": "编织"
+    },
+    {
+        "original": "knob",
+        "translation": "旋钮"
+    },
+    {
+        "original": "lamb",
+        "translation": "羔羊"
+    },
+    {
+        "original": "lame",
+        "translation": "瘸的"
+    },
+    {
+        "original": "landscape",
+        "translation": "景观"
+    },
+    {
+        "original": "latent",
+        "translation": "潜伏的"
+    },
+    {
+        "original": "latitude",
+        "translation": "纬度"
+    },
+    {
+        "original": "layman",
+        "translation": "外行"
+    },
+    {
+        "original": "leaflet",
+        "translation": "传单"
+    },
+    {
+        "original": "lease",
+        "translation": "租赁"
+    },
+    {
+        "original": "legend",
+        "translation": "传奇"
+    },
+    {
+        "original": "legislation",
+        "translation": "法规"
+    },
+    {
+        "original": "legitimate",
+        "translation": "正当合理的"
+    },
+    {
+        "original": "liability",
+        "translation": "责任"
+    },
+    {
+        "original": "lick",
+        "translation": "舔"
+    },
+    {
+        "original": "likelihood",
+        "translation": "可能"
+    },
+    {
+        "original": "limp",
+        "translation": "无力的"
+    },
+    {
+        "original": "linear",
+        "translation": "线性的"
+    },
+    {
+        "original": "liner",
+        "translation": "邮轮"
+    },
+    {
+        "original": "linger",
+        "translation": "徘徊"
+    },
+    {
+        "original": "literacy",
+        "translation": "读写能力"
+    },
+    {
+        "original": "literal",
+        "translation": "字面意义的"
+    },
+    {
+        "original": "litter",
+        "translation": "垃圾"
+    },
+    {
+        "original": "lobby",
+        "translation": "大堂"
+    },
+    {
+        "original": "locality",
+        "translation": "地点"
+    },
+    {
+        "original": "locomotive",
+        "translation": "机车"
+    },
+    {
+        "original": "lofty",
+        "translation": "巍峨的"
+    },
+    {
+        "original": "longitude",
+        "translation": "经度"
+    },
+    {
+        "original": "lounge",
+        "translation": "休息室"
+    },
+    {
+        "original": "lubricate",
+        "translation": "润滑"
+    },
+    {
+        "original": "luminous",
+        "translation": "夜光的"
+    },
+    {
+        "original": "lunar",
+        "translation": "月球的"
+    },
+    {
+        "original": "magnify",
+        "translation": "放大"
+    },
+    {
+        "original": "magnitude",
+        "translation": "巨大"
+    },
+    {
+        "original": "majesty",
+        "translation": "陛下"
+    },
+    {
+        "original": "mall",
+        "translation": "商场"
+    },
+    {
+        "original": "manifest",
+        "translation": "显示"
+    },
+    {
+        "original": "manipulate",
+        "translation": "操纵"
+    },
+    {
+        "original": "manoeuvre",
+        "translation": "操纵"
+    },
+    {
+        "original": "manuscript",
+        "translation": "手稿"
+    },
+    {
+        "original": "marble",
+        "translation": "大理石"
+    },
+    {
+        "original": "marginal",
+        "translation": "小的"
+    },
+    {
+        "original": "marsh",
+        "translation": "湿地"
+    },
+    {
+        "original": "marshal",
+        "translation": "元帅"
+    },
+    {
+        "original": "masculine",
+        "translation": "男子汉的"
+    },
+    {
+        "original": "massive",
+        "translation": "大量的"
+    },
+    {
+        "original": "masterpiece",
+        "translation": "杰作"
+    },
+    {
+        "original": "meadow",
+        "translation": "草地"
+    },
+    {
+        "original": "mechanism",
+        "translation": "机械装置"
+    },
+    {
+        "original": "medal",
+        "translation": "奖章"
+    },
+    {
+        "original": "media",
+        "translation": "媒体"
+    },
+    {
+        "original": "mediate",
+        "translation": "调停"
+    },
+    {
+        "original": "medieval",
+        "translation": "中世纪"
+    },
+    {
+        "original": "Mediterranean",
+        "translation": "地中海的"
+    },
+    {
+        "original": "melody",
+        "translation": "旋律"
+    },
+    {
+        "original": "membership",
+        "translation": "会员"
+    },
+    {
+        "original": "menace",
+        "translation": "威胁"
+    },
+    {
+        "original": "merge",
+        "translation": "合并"
+    },
+    {
+        "original": "mess",
+        "translation": "混乱"
+    },
+    {
+        "original": "messenger",
+        "translation": "送信人"
+    },
+    {
+        "original": "metallic",
+        "translation": "金属的"
+    },
+    {
+        "original": "metropolitan",
+        "translation": "大都会"
+    },
+    {
+        "original": "midst",
+        "translation": "中部"
+    },
+    {
+        "original": "migrate",
+        "translation": "迁徙"
+    },
+    {
+        "original": "militant",
+        "translation": "动武的"
+    },
+    {
+        "original": "mingle",
+        "translation": "混在一起"
+    },
+    {
+        "original": "miniature",
+        "translation": "很小的"
+    },
+    {
+        "original": "minimal",
+        "translation": "最小的"
+    },
+    {
+        "original": "minimize",
+        "translation": "减少"
+    },
+    {
+        "original": "misery",
+        "translation": "痛苦"
+    },
+    {
+        "original": "misfortune",
+        "translation": "厄运"
+    },
+    {
+        "original": "missionary",
+        "translation": "传教士"
+    },
+    {
+        "original": "mobilize",
+        "translation": "动员"
+    },
+    {
+        "original": "mock",
+        "translation": "嘲弄"
+    },
+    {
+        "original": "momentum",
+        "translation": "推进力"
+    },
+    {
+        "original": "monopoly",
+        "translation": "垄断"
+    },
+    {
+        "original": "monster",
+        "translation": "怪物"
+    },
+    {
+        "original": "morality",
+        "translation": "道德"
+    },
+    {
+        "original": "mortal",
+        "translation": "凡人"
+    },
+    {
+        "original": "mortgage",
+        "translation": "抵押贷款"
+    },
+    {
+        "original": "motel",
+        "translation": "汽车旅馆"
+    },
+    {
+        "original": "mourn",
+        "translation": "哀悼"
+    },
+    {
+        "original": "muddy",
+        "translation": "多泥的"
+    },
+    {
+        "original": "multitude",
+        "translation": "群众"
+    },
+    {
+        "original": "municipal",
+        "translation": "市政的"
+    },
+    {
+        "original": "murmur",
+        "translation": "咕哝"
+    },
+    {
+        "original": "muscular",
+        "translation": "肌肉的"
+    },
+    {
+        "original": "mutter",
+        "translation": "咕哝"
+    },
+    {
+        "original": "myth",
+        "translation": "神话"
+    },
+    {
+        "original": "naive",
+        "translation": "缺乏经验的"
+    },
+    {
+        "original": "narrative",
+        "translation": "叙述的"
+    },
+    {
+        "original": "nasty",
+        "translation": "肮脏的"
+    },
+    {
+        "original": "necessitate",
+        "translation": "使成为必要的"
+    },
+    {
+        "original": "negligible",
+        "translation": "可以忽略不计的"
+    },
+    {
+        "original": "negotiate",
+        "translation": "谈判"
+    },
+    {
+        "original": "nickel",
+        "translation": "镍"
+    },
+    {
+        "original": "nightmare",
+        "translation": "噩梦"
+    },
+    {
+        "original": "nominal",
+        "translation": "名义上的"
+    },
+    {
+        "original": "nominate",
+        "translation": "提名"
+    },
+    {
+        "original": "nonetheless",
+        "translation": "尽管如此"
+    },
+    {
+        "original": "norm",
+        "translation": "标准"
+    },
+    {
+        "original": "notable",
+        "translation": "值得注意的"
+    },
+    {
+        "original": "notation",
+        "translation": "符号"
+    },
+    {
+        "original": "notify",
+        "translation": "通知"
+    },
+    {
+        "original": "notion",
+        "translation": "概念"
+    },
+    {
+        "original": "notorious",
+        "translation": "臭名昭著的"
+    },
+    {
+        "original": "notwithstanding",
+        "translation": "尽管如此"
+    },
+    {
+        "original": "nourish",
+        "translation": "抚养"
+    },
+    {
+        "original": "novelty",
+        "translation": "新颖性"
+    },
+    {
+        "original": "numerical",
+        "translation": "数字的"
+    },
+    {
+        "original": "nutrition",
+        "translation": "营养"
+    },
+    {
+        "original": "oath",
+        "translation": "宣誓"
+    },
+    {
+        "original": "obedient",
+        "translation": "顺从的"
+    },
+    {
+        "original": "obligation",
+        "translation": "义务"
+    },
+    {
+        "original": "obscene",
+        "translation": "淫秽的"
+    },
+    {
+        "original": "obscure",
+        "translation": "模糊的"
+    },
+    {
+        "original": "odor",
+        "translation": "气味"
+    },
+    {
+        "original": "offence",
+        "translation": "违法行为"
+    },
+    {
+        "original": "offensive",
+        "translation": "无礼的"
+    },
+    {
+        "original": "offset",
+        "translation": "抵消"
+    },
+    {
+        "original": "offspring",
+        "translation": "孩子"
+    },
+    {
+        "original": "opaque",
+        "translation": "不透明的"
+    },
+    {
+        "original": "oppress",
+        "translation": "压迫"
+    },
+    {
+        "original": "optimism",
+        "translation": "乐观主义"
+    },
+    {
+        "original": "optimum",
+        "translation": "最佳的"
+    },
+    {
+        "original": "option",
+        "translation": "选项"
+    },
+    {
+        "original": "orient",
+        "translation": "朝向"
+    },
+    {
+        "original": "oriental",
+        "translation": "东方的"
+    },
+    {
+        "original": "orientation",
+        "translation": "方向"
+    },
+    {
+        "original": "originate",
+        "translation": "起源"
+    },
+    {
+        "original": "ornament",
+        "translation": "装饰品"
+    },
+    {
+        "original": "orthodox",
+        "translation": "普遍接受的"
+    },
+    {
+        "original": "outbreak",
+        "translation": "爆发"
+    },
+    {
+        "original": "oval",
+        "translation": "椭圆形"
+    },
+    {
+        "original": "overflow",
+        "translation": "溢流"
+    },
+    {
+        "original": "overhear",
+        "translation": "无意中听到"
+    },
+    {
+        "original": "overlap",
+        "translation": "重叠"
+    },
+    {
+        "original": "overt",
+        "translation": "公开的"
+    },
+    {
+        "original": "overthrow",
+        "translation": "推翻"
+    },
+    {
+        "original": "overwhelm",
+        "translation": "充溢"
+    },
+    {
+        "original": "oxide",
+        "translation": "氧化物"
+    },
+    {
+        "original": "pamphlet",
+        "translation": "小册子"
+    },
+    {
+        "original": "panic",
+        "translation": "惊恐"
+    },
+    {
+        "original": "paradise",
+        "translation": "天堂"
+    },
+    {
+        "original": "paradox",
+        "translation": "矛盾的人"
+    },
+    {
+        "original": "paralyze",
+        "translation": "麻痹"
+    },
+    {
+        "original": "parameter",
+        "translation": "参数"
+    },
+    {
+        "original": "participant",
+        "translation": "参与者"
+    },
+    {
+        "original": "partition",
+        "translation": "隔断"
+    },
+    {
+        "original": "pastime",
+        "translation": "消遣"
+    },
+    {
+        "original": "pasture",
+        "translation": "牧场"
+    },
+    {
+        "original": "patent",
+        "translation": "专利"
+    },
+    {
+        "original": "pathetic",
+        "translation": "可怜的"
+    },
+    {
+        "original": "patriotic",
+        "translation": "爱国的"
+    },
+    {
+        "original": "patrol",
+        "translation": "巡逻"
+    },
+    {
+        "original": "pave",
+        "translation": "铺路"
+    },
+    {
+        "original": "pearl",
+        "translation": "珍珠"
+    },
+    {
+        "original": "pedal",
+        "translation": "踏板"
+    },
+    {
+        "original": "pedestrian",
+        "translation": "行人"
+    },
+    {
+        "original": "peel",
+        "translation": "剥"
+    },
+    {
+        "original": "peer",
+        "translation": "同龄人"
+    },
+    {
+        "original": "penalty",
+        "translation": "处罚"
+    },
+    {
+        "original": "pendulum",
+        "translation": "钟摆"
+    },
+    {
+        "original": "pension",
+        "translation": "退休金"
+    },
+    {
+        "original": "perception",
+        "translation": "知觉"
+    },
+    {
+        "original": "perfection",
+        "translation": "完美"
+    },
+    {
+        "original": "perfume",
+        "translation": "香水"
+    },
+    {
+        "original": "periodic",
+        "translation": "周期性"
+    },
+    {
+        "original": "periodical",
+        "translation": "期刊"
+    },
+    {
+        "original": "perish",
+        "translation": "死亡"
+    },
+    {
+        "original": "permeate",
+        "translation": "渗透"
+    },
+    {
+        "original": "permissible",
+        "translation": "允许的"
+    },
+    {
+        "original": "perpetual",
+        "translation": "永恒的"
+    },
+    {
+        "original": "perplex",
+        "translation": "困惑"
+    },
+    {
+        "original": "persistent",
+        "translation": "持久的"
+    },
+    {
+        "original": "pest",
+        "translation": "害虫"
+    },
+    {
+        "original": "petition",
+        "translation": "请愿书"
+    },
+    {
+        "original": "petty",
+        "translation": "次要的"
+    },
+    {
+        "original": "physiological",
+        "translation": "生理学"
+    },
+    {
+        "original": "plague",
+        "translation": "瘟疫"
+    },
+    {
+        "original": "plaster",
+        "translation": "灰泥"
+    },
+    {
+        "original": "plateau",
+        "translation": "高原"
+    },
+    {
+        "original": "plausible",
+        "translation": "看似合理的"
+    },
+    {
+        "original": "plea",
+        "translation": "恳求"
+    },
+    {
+        "original": "plea",
+        "translation": "恳求"
+    },
+    {
+        "original": "plead",
+        "translation": "申辩"
+    },
+    {
+        "original": "pledge",
+        "translation": "誓言"
+    },
+    {
+        "original": "poke",
+        "translation": "捅"
+    },
+    {
+        "original": "polar",
+        "translation": "极地的"
+    },
+    {
+        "original": "poll",
+        "translation": "投票"
+    },
+    {
+        "original": "ponder",
+        "translation": "思考"
+    },
+    {
+        "original": "pope",
+        "translation": "教皇"
+    },
+    {
+        "original": "porch",
+        "translation": "门廊"
+    },
+    {
+        "original": "pore",
+        "translation": "毛孔"
+    },
+    {
+        "original": "portray",
+        "translation": "描绘"
+    },
+    {
+        "original": "pose",
+        "translation": "姿势"
+    },
+    {
+        "original": "poster",
+        "translation": "招贴画"
+    },
+    {
+        "original": "postulate",
+        "translation": "假定"
+    },
+    {
+        "original": "practicable",
+        "translation": "可行的"
+    },
+    {
+        "original": "prayer",
+        "translation": "祈祷"
+    },
+    {
+        "original": "preach",
+        "translation": "布道"
+    },
+    {
+        "original": "precede",
+        "translation": "先于"
+    },
+    {
+        "original": "precipitate",
+        "translation": "加速"
+    },
+    {
+        "original": "preclude",
+        "translation": "使行不通"
+    },
+    {
+        "original": "predecessor",
+        "translation": "前任"
+    },
+    {
+        "original": "predominant",
+        "translation": "主要的"
+    },
+    {
+        "original": "pregnant",
+        "translation": "怀孕的"
+    },
+    {
+        "original": "premature",
+        "translation": "过早的"
+    },
+    {
+        "original": "premise",
+        "translation": "前提"
+    },
+    {
+        "original": "premium",
+        "translation": "保险费"
+    },
+    {
+        "original": "prescription",
+        "translation": "处方"
+    },
+    {
+        "original": "presentation",
+        "translation": "演示"
+    },
+    {
+        "original": "preside",
+        "translation": "主持"
+    },
+    {
+        "original": "prestige",
+        "translation": "威信"
+    },
+    {
+        "original": "presumably",
+        "translation": "大概"
+    },
+    {
+        "original": "presume",
+        "translation": "假设"
+    },
+    {
+        "original": "pretext",
+        "translation": "借口"
+    },
+    {
+        "original": "prevalent",
+        "translation": "流行的"
+    },
+    {
+        "original": "prey",
+        "translation": "猎物"
+    },
+    {
+        "original": "priest",
+        "translation": "牧师"
+    },
+    {
+        "original": "priority",
+        "translation": "优先事项"
+    },
+    {
+        "original": "privacy",
+        "translation": "隐私"
+    },
+    {
+        "original": "probe",
+        "translation": "探查"
+    },
+    {
+        "original": "proceeding",
+        "translation": "诉讼程序"
+    },
+    {
+        "original": "proclaim",
+        "translation": "宣布"
+    },
+    {
+        "original": "productive",
+        "translation": "多产的"
+    },
+    {
+        "original": "productivity",
+        "translation": "生产率"
+    },
+    {
+        "original": "proficiency",
+        "translation": "精通"
+    },
+    {
+        "original": "profile",
+        "translation": "轮廓"
+    },
+    {
+        "original": "profitable",
+        "translation": "有利可图的"
+    },
+    {
+        "original": "profound",
+        "translation": "意义深远的"
+    },
+    {
+        "original": "prolong",
+        "translation": "延长"
+    },
+    {
+        "original": "promising",
+        "translation": "有希望的"
+    },
+    {
+        "original": "prone",
+        "translation": "有做…倾向的"
+    },
+    {
+        "original": "propaganda",
+        "translation": "宣传"
+    },
+    {
+        "original": "propagate",
+        "translation": "传播"
+    },
+    {
+        "original": "propel",
+        "translation": "推进"
+    },
+    {
+        "original": "prophet",
+        "translation": "先知"
+    },
+    {
+        "original": "proposition",
+        "translation": "提议"
+    },
+    {
+        "original": "prose",
+        "translation": "散文"
+    },
+    {
+        "original": "prospective",
+        "translation": "预期的"
+    },
+    {
+        "original": "prototype",
+        "translation": "原型"
+    },
+    {
+        "original": "provocative",
+        "translation": "挑衅的"
+    },
+    {
+        "original": "provoke",
+        "translation": "激起"
+    },
+    {
+        "original": "proximity",
+        "translation": "接近"
+    },
+    {
+        "original": "publicity",
+        "translation": "宣传"
+    },
+    {
+        "original": "purify",
+        "translation": "洁净"
+    },
+    {
+        "original": "purity",
+        "translation": "纯洁"
+    },
+    {
+        "original": "pursuit",
+        "translation": "追求"
+    },
+    {
+        "original": "qualification",
+        "translation": "资格"
+    },
+    {
+        "original": "qualitative",
+        "translation": "质量的"
+    },
+    {
+        "original": "quantify",
+        "translation": "量化"
+    },
+    {
+        "original": "quantitative",
+        "translation": "定量性的"
+    },
+    {
+        "original": "quart",
+        "translation": "夸脱"
+    },
+    {
+        "original": "quarterly",
+        "translation": "每季的"
+    },
+    {
+        "original": "quartz",
+        "translation": "石英"
+    },
+    {
+        "original": "queer",
+        "translation": "奇怪的"
+    },
+    {
+        "original": "quench",
+        "translation": "解渴"
+    },
+    {
+        "original": "quest",
+        "translation": "探索"
+    },
+    {
+        "original": "questionnaire",
+        "translation": "问卷调查"
+    },
+    {
+        "original": "quiver",
+        "translation": "颤抖"
+    },
+    {
+        "original": "racket",
+        "translation": "球拍"
+    },
+    {
+        "original": "radiant",
+        "translation": "容光焕发的"
+    },
+    {
+        "original": "radiate",
+        "translation": "辐射"
+    },
+    {
+        "original": "radical",
+        "translation": "根本的"
+    },
+    {
+        "original": "rage",
+        "translation": "愤怒"
+    },
+    {
+        "original": "raid",
+        "translation": "突袭"
+    },
+    {
+        "original": "rally",
+        "translation": "集会"
+    },
+    {
+        "original": "random",
+        "translation": "随机的"
+    },
+    {
+        "original": "rating",
+        "translation": "评级"
+    },
+    {
+        "original": "readily",
+        "translation": "便利地"
+    },
+    {
+        "original": "realistic",
+        "translation": "现实的"
+    },
+    {
+        "original": "reap",
+        "translation": "取得"
+    },
+    {
+        "original": "rebellion",
+        "translation": "谋反"
+    },
+    {
+        "original": "recession",
+        "translation": "经济衰退"
+    },
+    {
+        "original": "recipe",
+        "translation": "配方"
+    },
+    {
+        "original": "recipient",
+        "translation": "收件人"
+    },
+    {
+        "original": "reciprocal",
+        "translation": "互惠的"
+    },
+    {
+        "original": "recite",
+        "translation": "背诵"
+    },
+    {
+        "original": "reckless",
+        "translation": "鲁莽的"
+    },
+    {
+        "original": "reckon",
+        "translation": "估计"
+    },
+    {
+        "original": "reclaim",
+        "translation": "取回"
+    },
+    {
+        "original": "reconcile",
+        "translation": "调和"
+    },
+    {
+        "original": "recreation",
+        "translation": "娱乐"
+    },
+    {
+        "original": "recruit",
+        "translation": "招募"
+    },
+    {
+        "original": "rectangular",
+        "translation": "矩形的"
+    },
+    {
+        "original": "rectify",
+        "translation": "纠正"
+    },
+    {
+        "original": "recur",
+        "translation": "重现"
+    },
+    {
+        "original": "recycle",
+        "translation": "回收利用"
+    },
+    {
+        "original": "redundant",
+        "translation": "冗余的"
+    },
+    {
+        "original": "refrain",
+        "translation": "抑制"
+    },
+    {
+        "original": "refreshment",
+        "translation": "点心"
+    },
+    {
+        "original": "refugee",
+        "translation": "避难者"
+    },
+    {
+        "original": "refute",
+        "translation": "驳斥"
+    },
+    {
+        "original": "regime",
+        "translation": "政体"
+    },
+    {
+        "original": "reign",
+        "translation": "统治"
+    },
+    {
+        "original": "rejoice",
+        "translation": "高兴"
+    },
+    {
+        "original": "relay",
+        "translation": "转发"
+    },
+    {
+        "original": "reliance",
+        "translation": "依赖"
+    },
+    {
+        "original": "remainder",
+        "translation": "余数"
+    },
+    {
+        "original": "remnant",
+        "translation": "残余物"
+    },
+    {
+        "original": "renaissance",
+        "translation": "文艺复兴"
+    },
+    {
+        "original": "repay",
+        "translation": "归还"
+    },
+    {
+        "original": "repel",
+        "translation": "击退"
+    },
+    {
+        "original": "repertoire",
+        "translation": "可表演项目"
+    },
+    {
+        "original": "replacement",
+        "translation": "替换"
+    },
+    {
+        "original": "representation",
+        "translation": "表示"
+    },
+    {
+        "original": "reproach",
+        "translation": "责备"
+    },
+    {
+        "original": "republican",
+        "translation": "共和国的"
+    },
+    {
+        "original": "resemblance",
+        "translation": "相似"
+    },
+    {
+        "original": "resent",
+        "translation": "怨恨"
+    },
+    {
+        "original": "reservation",
+        "translation": "预订"
+    },
+    {
+        "original": "reside",
+        "translation": "居住在"
+    },
+    {
+        "original": "residential",
+        "translation": "住宅的"
+    },
+    {
+        "original": "resonance",
+        "translation": "洪亮"
+    },
+    {
+        "original": "resultant",
+        "translation": "结果"
+    },
+    {
+        "original": "retail",
+        "translation": "零售"
+    },
+    {
+        "original": "retention",
+        "translation": "保持"
+    },
+    {
+        "original": "retort",
+        "translation": "反驳"
+    },
+    {
+        "original": "retrieve",
+        "translation": "检索"
+    },
+    {
+        "original": "retrospect",
+        "translation": "回顾"
+    },
+    {
+        "original": "revelation",
+        "translation": "揭露"
+    },
+    {
+        "original": "revenge",
+        "translation": "报复"
+    },
+    {
+        "original": "revive",
+        "translation": "使复苏"
+    },
+    {
+        "original": "revolve",
+        "translation": "旋转"
+    },
+    {
+        "original": "rig",
+        "translation": "操纵"
+    },
+    {
+        "original": "rigorous",
+        "translation": "严格缜密的"
+    },
+    {
+        "original": "rim",
+        "translation": "边沿"
+    },
+    {
+        "original": "riot",
+        "translation": "暴乱"
+    },
+    {
+        "original": "rip",
+        "translation": "裂开"
+    },
+    {
+        "original": "ripple",
+        "translation": "涟漪"
+    },
+    {
+        "original": "ritual",
+        "translation": "仪式"
+    },
+    {
+        "original": "robust",
+        "translation": "强健的"
+    },
+    {
+        "original": "romance",
+        "translation": "浪漫"
+    },
+    {
+        "original": "rot",
+        "translation": "腐烂"
+    },
+    {
+        "original": "royalty",
+        "translation": "王室成员"
+    },
+    {
+        "original": "rupture",
+        "translation": "破裂"
+    },
+    {
+        "original": "scared",
+        "translation": "害怕的"
+    },
+    {
+        "original": "safeguard",
+        "translation": "保护"
+    },
+    {
+        "original": "saint",
+        "translation": "圣徒"
+    },
+    {
+        "original": "sanction",
+        "translation": "制裁"
+    },
+    {
+        "original": "saturate",
+        "translation": "使湿透"
+    },
+    {
+        "original": "sauce",
+        "translation": "调味汁"
+    },
+    {
+        "original": "savage",
+        "translation": "凶恶的"
+    },
+    {
+        "original": "scandal",
+        "translation": "丑行"
+    },
+    {
+        "original": "scar",
+        "translation": "疤痕"
+    },
+    {
+        "original": "scent",
+        "translation": "气味"
+    },
+    {
+        "original": "sceptical",
+        "translation": "怀疑的"
+    },
+    {
+        "original": "scorn",
+        "translation": "轻蔑"
+    },
+    {
+        "original": "scrap",
+        "translation": "碎片"
+    },
+    {
+        "original": "script",
+        "translation": "剧本"
+    },
+    {
+        "original": "scrutiny",
+        "translation": "仔细检查"
+    },
+    {
+        "original": "sculpture",
+        "translation": "雕塑"
+    },
+    {
+        "original": "seam",
+        "translation": "接缝"
+    },
+    {
+        "original": "sector",
+        "translation": "部门"
+    },
+    {
+        "original": "seemingly",
+        "translation": "看似"
+    },
+    {
+        "original": "segment",
+        "translation": "段"
+    },
+    {
+        "original": "segregate",
+        "translation": "隔离并区别对待"
+    },
+    {
+        "original": "seminar",
+        "translation": "研讨课"
+    },
+    {
+        "original": "senator",
+        "translation": "参议员"
+    },
+    {
+        "original": "sensation",
+        "translation": "感觉"
+    },
+    {
+        "original": "sentiment",
+        "translation": "观点"
+    },
+    {
+        "original": "sexual",
+        "translation": "性行为的"
+    },
+    {
+        "original": "shabby",
+        "translation": "破旧的"
+    },
+    {
+        "original": "shaft",
+        "translation": "轴"
+    },
+    {
+        "original": "shatter",
+        "translation": "粉碎"
+    },
+    {
+        "original": "sheer",
+        "translation": "纯粹的"
+    },
+    {
+        "original": "shipment",
+        "translation": "运输"
+    },
+    {
+        "original": "shrewd",
+        "translation": "精明的"
+    },
+    {
+        "original": "shrug",
+        "translation": "耸肩"
+    },
+    {
+        "original": "shutter",
+        "translation": "百叶窗"
+    },
+    {
+        "original": "shuttle",
+        "translation": "穿梭班机、公共汽车"
+    },
+    {
+        "original": "signify",
+        "translation": "表示"
+    },
+    {
+        "original": "silicon",
+        "translation": "硅"
+    },
+    {
+        "original": "simulate",
+        "translation": "模拟"
+    },
+    {
+        "original": "simultaneous",
+        "translation": "同时的"
+    },
+    {
+        "original": "sin",
+        "translation": "罪"
+    },
+    {
+        "original": "situated",
+        "translation": "位于"
+    },
+    {
+        "original": "skeleton",
+        "translation": "骨骼"
+    },
+    {
+        "original": "skeptical",
+        "translation": "持怀疑态度的"
+    },
+    {
+        "original": "skip",
+        "translation": "跳过"
+    },
+    {
+        "original": "slack",
+        "translation": "松弛的"
+    },
+    {
+        "original": "slap",
+        "translation": "拍"
+    },
+    {
+        "original": "slaughter",
+        "translation": "屠宰"
+    },
+    {
+        "original": "slim",
+        "translation": "苗条的"
+    },
+    {
+        "original": "slogan",
+        "translation": "标语"
+    },
+    {
+        "original": "slot",
+        "translation": "狭槽"
+    },
+    {
+        "original": "slum",
+        "translation": "贫民窟"
+    },
+    {
+        "original": "smash",
+        "translation": "粉碎"
+    },
+    {
+        "original": "smuggle",
+        "translation": "走私"
+    },
+    {
+        "original": "snack",
+        "translation": "点心"
+    },
+    {
+        "original": "snap",
+        "translation": "断裂"
+    },
+    {
+        "original": "snatch",
+        "translation": "抢夺"
+    },
+    {
+        "original": "soar",
+        "translation": "猛增"
+    },
+    {
+        "original": "sober",
+        "translation": "未醉"
+    },
+    {
+        "original": "sociology",
+        "translation": "社会学"
+    },
+    {
+        "original": "software",
+        "translation": "软件"
+    },
+    {
+        "original": "solidarity",
+        "translation": "团结"
+    },
+    {
+        "original": "solitary",
+        "translation": "孤独的"
+    },
+    {
+        "original": "solo",
+        "translation": "独奏"
+    },
+    {
+        "original": "sovereign",
+        "translation": "君主"
+    },
+    {
+        "original": "spacious",
+        "translation": "宽敞的"
+    },
+    {
+        "original": "sparkle",
+        "translation": "闪烁"
+    },
+    {
+        "original": "spatial",
+        "translation": "空间的"
+    },
+    {
+        "original": "speciality",
+        "translation": "特产"
+    },
+    {
+        "original": "species",
+        "translation": "种"
+    },
+    {
+        "original": "specifically",
+        "translation": "明确地"
+    },
+    {
+        "original": "specification",
+        "translation": "规格"
+    },
+    {
+        "original": "spectacle",
+        "translation": "壮观的景象"
+    },
+    {
+        "original": "spectacular",
+        "translation": "壮观的"
+    },
+    {
+        "original": "spectator",
+        "translation": "观众"
+    },
+    {
+        "original": "spectrum",
+        "translation": "谱"
+    },
+    {
+        "original": "speculate",
+        "translation": "推测"
+    },
+    {
+        "original": "spiral",
+        "translation": "螺旋形的"
+    },
+    {
+        "original": "splash",
+        "translation": "泼洒"
+    },
+    {
+        "original": "spokesman",
+        "translation": "发言人"
+    },
+    {
+        "original": "sponge",
+        "translation": "海绵"
+    },
+    {
+        "original": "spontaneous",
+        "translation": "自发的"
+    },
+    {
+        "original": "spouse",
+        "translation": "配偶"
+    },
+    {
+        "original": "spy",
+        "translation": "间谍"
+    },
+    {
+        "original": "stabilize",
+        "translation": "稳定"
+    },
+    {
+        "original": "stagger",
+        "translation": "踉跄"
+    },
+    {
+        "original": "staircase",
+        "translation": "楼梯"
+    },
+    {
+        "original": "stall",
+        "translation": "货摊"
+    },
+    {
+        "original": "startle",
+        "translation": "使惊吓"
+    },
+    {
+        "original": "stationary",
+        "translation": "不动的"
+    },
+    {
+        "original": "statistics",
+        "translation": "统计数字"
+    },
+    {
+        "original": "stereo",
+        "translation": "立体声"
+    },
+    {
+        "original": "stereotype",
+        "translation": "刻板印象"
+    },
+    {
+        "original": "stern",
+        "translation": "船尾"
+    },
+    {
+        "original": "stimulus",
+        "translation": "刺激"
+    },
+    {
+        "original": "stitch",
+        "translation": "缝"
+    },
+    {
+        "original": "straightforward",
+        "translation": "直截了当的"
+    },
+    {
+        "original": "strategic",
+        "translation": "战略的"
+    },
+    {
+        "original": "streamline",
+        "translation": "流线型"
+    },
+    {
+        "original": "stride",
+        "translation": "大步走"
+    },
+    {
+        "original": "striking",
+        "translation": "惊人的"
+    },
+    {
+        "original": "strive",
+        "translation": "努力"
+    },
+    {
+        "original": "stubborn",
+        "translation": "固执的"
+    },
+    {
+        "original": "studio",
+        "translation": "演播室"
+    },
+    {
+        "original": "stumble",
+        "translation": "绊倒"
+    },
+    {
+        "original": "sturdy",
+        "translation": "结实的"
+    },
+    {
+        "original": "subjective",
+        "translation": "主观的"
+    },
+    {
+        "original": "subordinate",
+        "translation": "下属"
+    },
+    {
+        "original": "subscribe",
+        "translation": "订阅"
+    },
+    {
+        "original": "subsidiary",
+        "translation": "辅助的"
+    },
+    {
+        "original": "subsidy",
+        "translation": "补贴"
+    },
+    {
+        "original": "subtle",
+        "translation": "不易察觉的"
+    },
+    {
+        "original": "successor",
+        "translation": "继承人"
+    },
+    {
+        "original": "sue",
+        "translation": "控告"
+    },
+    {
+        "original": "suffice",
+        "translation": "足够"
+    },
+    {
+        "original": "suicide",
+        "translation": "自杀"
+    },
+    {
+        "original": "suitcase",
+        "translation": "手提箱"
+    },
+    {
+        "original": "summit",
+        "translation": "首脑会议"
+    },
+    {
+        "original": "summon",
+        "translation": "传唤"
+    },
+    {
+        "original": "superb",
+        "translation": "棒 极 了"
+    },
+    {
+        "original": "superiority",
+        "translation": "优越"
+    },
+    {
+        "original": "supersonic",
+        "translation": "超音速的"
+    },
+    {
+        "original": "supervise",
+        "translation": "监督"
+    },
+    {
+        "original": "supplementary",
+        "translation": "补充的"
+    },
+    {
+        "original": "suppress",
+        "translation": "镇压"
+    },
+    {
+        "original": "surge",
+        "translation": "激增"
+    },
+    {
+        "original": "surgeon",
+        "translation": "外科医生"
+    },
+    {
+        "original": "surpass",
+        "translation": "超越"
+    },
+    {
+        "original": "surplus",
+        "translation": "盈余"
+    },
+    {
+        "original": "survival",
+        "translation": "生存"
+    },
+    {
+        "original": "susceptible",
+        "translation": "易受影响"
+    },
+    {
+        "original": "suspension",
+        "translation": "暂停"
+    },
+    {
+        "original": "suspicious",
+        "translation": "可疑的"
+    },
+    {
+        "original": "swamp",
+        "translation": "沼泽"
+    },
+    {
+        "original": "symmetry",
+        "translation": "对称性"
+    },
+    {
+        "original": "symphony",
+        "translation": "交响曲"
+    },
+    {
+        "original": "symposium",
+        "translation": "专题讨论会"
+    },
+    {
+        "original": "symptom",
+        "translation": "症状"
+    },
+    {
+        "original": "synthesis",
+        "translation": "合成"
+    },
+    {
+        "original": "tablet",
+        "translation": "药片"
+    },
+    {
+        "original": "tackle",
+        "translation": "解决"
+    },
+    {
+        "original": "tactics",
+        "translation": "战术"
+    },
+    {
+        "original": "tangle",
+        "translation": "纠纷"
+    },
+    {
+        "original": "tar",
+        "translation": "焦油"
+    },
+    {
+        "original": "tariff",
+        "translation": "关税"
+    },
+    {
+        "original": "tease",
+        "translation": "挑逗"
+    },
+    {
+        "original": "temperament",
+        "translation": "性情"
+    },
+    {
+        "original": "tempo",
+        "translation": "速度"
+    },
+    {
+        "original": "tenant",
+        "translation": "房客"
+    },
+    {
+        "original": "tentative",
+        "translation": "实验性的"
+    },
+    {
+        "original": "terminate",
+        "translation": "终止"
+    },
+    {
+        "original": "terrace",
+        "translation": "梯田"
+    },
+    {
+        "original": "terrain",
+        "translation": "地形"
+    },
+    {
+        "original": "terrific",
+        "translation": "极好的"
+    },
+    {
+        "original": "terrify",
+        "translation": "使十分害怕"
+    },
+    {
+        "original": "testify",
+        "translation": "作证"
+    },
+    {
+        "original": "testimony",
+        "translation": "证据"
+    },
+    {
+        "original": "texture",
+        "translation": "纹理"
+    },
+    {
+        "original": "Thanksgiving",
+        "translation": "感恩节"
+    },
+    {
+        "original": "theft",
+        "translation": "盗窃"
+    },
+    {
+        "original": "theme",
+        "translation": "主题"
+    },
+    {
+        "original": "therapy",
+        "translation": "治疗"
+    },
+    {
+        "original": "thereafter",
+        "translation": "之后"
+    },
+    {
+        "original": "thermal",
+        "translation": "热的"
+    },
+    {
+        "original": "thesis",
+        "translation": "论文"
+    },
+    {
+        "original": "thirst",
+        "translation": "口渴"
+    },
+    {
+        "original": "thorn",
+        "translation": "刺"
+    },
+    {
+        "original": "threshold",
+        "translation": "门槛"
+    },
+    {
+        "original": "thrill",
+        "translation": "激动"
+    },
+    {
+        "original": "tick",
+        "translation": "打上钩"
+    },
+    {
+        "original": "tile",
+        "translation": "瓦片"
+    },
+    {
+        "original": "tilt",
+        "translation": "倾斜"
+    },
+    {
+        "original": "timber",
+        "translation": "木材"
+    },
+    {
+        "original": "timely",
+        "translation": "及时"
+    },
+    {
+        "original": "timid",
+        "translation": "胆小的"
+    },
+    {
+        "original": "token",
+        "translation": "代币"
+    },
+    {
+        "original": "tolerant",
+        "translation": "宽容的"
+    },
+    {
+        "original": "toss",
+        "translation": "扔"
+    },
+    {
+        "original": "tow",
+        "translation": "拖"
+    },
+    {
+        "original": "tract",
+        "translation": "大片土地"
+    },
+    {
+        "original": "tragic",
+        "translation": "悲剧的"
+    },
+    {
+        "original": "trait",
+        "translation": "特质"
+    },
+    {
+        "original": "transaction",
+        "translation": "交易"
+    },
+    {
+        "original": "transcend",
+        "translation": "超越"
+    },
+    {
+        "original": "transient",
+        "translation": "转瞬即逝的"
+    },
+    {
+        "original": "transit",
+        "translation": "运输"
+    },
+    {
+        "original": "transition",
+        "translation": "过渡"
+    },
+    {
+        "original": "transplant",
+        "translation": "移植"
+    },
+    {
+        "original": "traverse",
+        "translation": "穿过"
+    },
+    {
+        "original": "trench",
+        "translation": "沟槽"
+    },
+    {
+        "original": "tribe",
+        "translation": "部落"
+    },
+    {
+        "original": "tribute",
+        "translation": "贡品"
+    },
+    {
+        "original": "trifle",
+        "translation": "琐事"
+    },
+    {
+        "original": "trigger",
+        "translation": "触发"
+    },
+    {
+        "original": "triple",
+        "translation": "三部分的"
+    },
+    {
+        "original": "trivial",
+        "translation": "不重要的"
+    },
+    {
+        "original": "tuck",
+        "translation": "卷起"
+    },
+    {
+        "original": "tug",
+        "translation": "猛拉"
+    },
+    {
+        "original": "tuition",
+        "translation": "学费"
+    },
+    {
+        "original": "tumble",
+        "translation": "摔倒"
+    },
+    {
+        "original": "turbulent",
+        "translation": "骚乱的"
+    },
+    {
+        "original": "turnover",
+        "translation": "人事变更率"
+    },
+    {
+        "original": "tutor",
+        "translation": "家庭教师"
+    },
+    {
+        "original": "ultraviolet",
+        "translation": "紫外线"
+    },
+    {
+        "original": "unanimous",
+        "translation": "一致的"
+    },
+    {
+        "original": "underestimate",
+        "translation": "低估"
+    },
+    {
+        "original": "underlying",
+        "translation": "根本的"
+    },
+    {
+        "original": "undermine",
+        "translation": "破坏"
+    },
+    {
+        "original": "unemployment",
+        "translation": "失业"
+    },
+    {
+        "original": "unfold",
+        "translation": "展开"
+    },
+    {
+        "original": "unify",
+        "translation": "统一"
+    },
+    {
+        "original": "update",
+        "translation": "使现代化"
+    },
+    {
+        "original": "upgrade",
+        "translation": "升级"
+    },
+    {
+        "original": "uphold",
+        "translation": "维护"
+    },
+    {
+        "original": "validity",
+        "translation": "有效性"
+    },
+    {
+        "original": "valve",
+        "translation": "阀门"
+    },
+    {
+        "original": "vegetation",
+        "translation": "植被"
+    },
+    {
+        "original": "veil",
+        "translation": "面纱"
+    },
+    {
+        "original": "vein",
+        "translation": "静脉"
+    },
+    {
+        "original": "vent",
+        "translation": "通风孔"
+    },
+    {
+        "original": "ventilate",
+        "translation": "通风"
+    },
+    {
+        "original": "verbal",
+        "translation": "文字的"
+    },
+    {
+        "original": "verdict",
+        "translation": "判决"
+    },
+    {
+        "original": "verge",
+        "translation": "边缘"
+    },
+    {
+        "original": "versatile",
+        "translation": "多才多艺的"
+    },
+    {
+        "original": "verse",
+        "translation": "韵文"
+    },
+    {
+        "original": "versus",
+        "translation": "对"
+    },
+    {
+        "original": "veto",
+        "translation": "否决权"
+    },
+    {
+        "original": "vicinity",
+        "translation": "周围地区"
+    },
+    {
+        "original": "vicious",
+        "translation": "恶毒的"
+    },
+    {
+        "original": "violate",
+        "translation": "违反"
+    },
+    {
+        "original": "virgin",
+        "translation": "处女"
+    },
+    {
+        "original": "virtual",
+        "translation": "事实上的"
+    },
+    {
+        "original": "virus",
+        "translation": "病毒"
+    },
+    {
+        "original": "visualize",
+        "translation": "可视化"
+    },
+    {
+        "original": "vocal",
+        "translation": "嗓音的"
+    },
+    {
+        "original": "vocational",
+        "translation": "职业的"
+    },
+    {
+        "original": "void",
+        "translation": "无效的"
+    },
+    {
+        "original": "volunteer",
+        "translation": "志愿者"
+    },
+    {
+        "original": "vulgar",
+        "translation": "庸俗的"
+    },
+    {
+        "original": "vulnerable",
+        "translation": "脆弱的"
+    },
+    {
+        "original": "wallet",
+        "translation": "钱包"
+    },
+    {
+        "original": "ward",
+        "translation": "病房"
+    },
+    {
+        "original": "warehouse",
+        "translation": "仓库"
+    },
+    {
+        "original": "warfare",
+        "translation": "战争"
+    },
+    {
+        "original": "warrant",
+        "translation": "保证"
+    },
+    {
+        "original": "watertight",
+        "translation": "水密的"
+    },
+    {
+        "original": "watt",
+        "translation": "瓦特"
+    },
+    {
+        "original": "weary",
+        "translation": "疲倦的"
+    },
+    {
+        "original": "web",
+        "translation": "网状物"
+    },
+    {
+        "original": "wedge",
+        "translation": "楔子"
+    },
+    {
+        "original": "whereas",
+        "translation": "鉴于"
+    },
+    {
+        "original": "whereby",
+        "translation": "由此"
+    },
+    {
+        "original": "whirl",
+        "translation": "旋转"
+    },
+    {
+        "original": "withhold",
+        "translation": "拒绝给"
+    },
+    {
+        "original": "wrench",
+        "translation": "扳手"
+    },
+    {
+        "original": "wretched",
+        "translation": "感到不适的"
+    },
+    {
+        "original": "wrinkle",
+        "translation": "皱纹"
+    },
+    {
+        "original": "yacht",
+        "translation": "帆船"
+    },
+    {
+        "original": "yell",
+        "translation": "叫喊"
+    },
+    {
+        "original": "yoke",
+        "translation": "轭"
+    },
+    {
+        "original": "youngster",
+        "translation": "年轻人"
+    },
+    {
+        "original": "zinc",
+        "translation": "锌"
+    }
+]

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" id="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>机械英语</title>
+<script src="https://cdn.staticfile.org/vue/3.2.36/vue.global.min.js"></script>
+<script src="https://cdn.staticfile.org/axios/0.18.0/axios.min.js"></script>
+<style>
+body{
+    background-color: #ebd5c5;
+}
+</style>
+</head>
+<body>
+<div id="app" class="demo">
+    <header>
+        <strong>巴啦啦软件.机械英语</strong>
+        <select style="float:right;vertical-align:middle;height: 21px;" v-model="selectItem" @change="changeItem($event)">
+            <option v-for="(options,id) in itemList" :key="id" :value="options.url">
+                {{options.title}}
+            </option>
+        </select>
+        <a  style="float:right;margin-right: 10px;" href="/english-zc.html">找茬模式></a>
+    </header>
+    <div v-if="isShow" style="width: 600px;margin: auto;margin-top: 200px;text-align: center;max-width: 100%;">
+        <p v-if="i%2==0" style="font-size: 40px;margin: 0px;">{{ thisWord.original }}&nbsp;</p>
+        <p v-if="i%2!=0" style="font-size: 40px;margin: 0px;">{{ thisWord.translation }}</p>
+        <p><input style="text-align:center;font-size: 40px;outline: -webkit-focus-ring-color auto 1px;width: 100%;box-sizing: border-box;" v-model="text" id="inputName"></p>
+        <p v-if="i%2==0" style="font-size: 40px;margin: 0px;">{{ thisWord.translation }}</p>
+        <p v-if="i%2!=0"  style="font-size: 40px;margin: 0px;">{{ thisWord.original }}</p>
+    </div>
+    <div style="position: absolute;left:0;bottom: 0;box-sizing: border-box;width: 100%;padding: 10px;">你已学习：{{c}}次 <span style="float: right;">学习打卡QQ群：822175108</span></div>
+</div>
+<script>
+const app = {
+  data() {
+    return {
+        selectItem:'/resource/english/2000.json',
+        itemList:[
+            {id:1,title:"2000单词",url:'/resource/english/2000.json'},
+            {id:2,title:"4000单词",url:'/resource/english/4000.json'},
+            {id:3,title:"6000单词",url:'/resource/english/6000.json'},
+            {id:3,title:"多邻国单词",url:'/resource/english/dlg.json'}
+        ],
+        i:0,
+        c:0,
+        thisWord:{
+            original:"",
+            translation:""
+        },
+        words:[],
+        text:null,
+        isShow:true,
+    }
+  },
+  methods: {
+    changeItem(){
+        localStorage.setItem("url",this.selectItem)
+        location.reload();
+    },
+    f(){
+        axios({
+            method: 'GET',
+            url:this.selectItem,
+        })
+        .then(response => {
+            let ws = response.data;
+            for(let i = 0 ; i < 40 ; i++){
+                var index = Math.floor((Math.random()*ws.length));
+                this.words.push(ws[index])
+                this.words.push(ws[index])
+                this.words.push(ws[index])
+                this.words.push(ws[index])
+                this.words.push(ws[index])
+                this.words.push(ws[index])
+                ws.slice(index,1)
+            }
+            var i = Math.floor((Math.random()*this.words.length));
+            this.text = ''
+        }).catch(function (error) { // 请求失败处理
+            console.log(error);
+        });
+    }
+  },
+  watch: {
+    text: {
+        handler(newValue, oldValue) {
+            if(this.words.length == 0){
+                alert("休息一下吧！")
+                window.location.reload();
+            }
+            let a = true;
+            if(newValue == this.thisWord.original){
+                this.i += 1
+                this.c += 1
+                localStorage.setItem("c"+(new Date().getTime()+"").substring(0,8),this.c)
+                var sound = window.speechSynthesis; // 定义局部变量
+                this.isShow = false
+                var index = Math.floor((Math.random()*this.words.length));
+                this.thisWord = this.words.splice(index,1)[0]
+                console.log(this.words.length)
+                this.text = ""
+                this.isShow = true
+                document.getElementById("inputName").focus()
+                try {
+                    var read_text = new SpeechSynthesisUtterance(this.thisWord.original); // 实例化
+                    sound.speak(read_text); // 朗读
+                } catch (error) {
+                    console.log(error)
+                }
+            }
+        },
+        deep: true
+    }
+  },
+  mounted() {
+    if(localStorage.getItem("url") != null){
+        this.selectItem = localStorage.getItem("url")
+    }
+    if(localStorage.getItem("c"+(new Date().getTime()+"").substring(0,8)) != null){
+        this.c = parseInt(localStorage.getItem("c"+(new Date().getTime()+"").substring(0,8)))
+    }
+    this.f();
+  }
+}
+Vue.createApp(app).mount('#app')
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1985025c6ead5c1cce5d594f1193605a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>

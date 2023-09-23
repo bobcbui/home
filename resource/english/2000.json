@@ -1,0 +1,7986 @@
+[
+    {
+        "original": "the",
+        "translation": "这个"
+    },
+    {
+        "original": "be",
+        "translation": "是"
+    },
+    {
+        "original": "of",
+        "translation": "属于"
+    },
+    {
+        "original": "and",
+        "translation": "和"
+    },
+    {
+        "original": "a",
+        "translation": "一"
+    },
+    {
+        "original": "to",
+        "translation": "到"
+    },
+    {
+        "original": "in",
+        "translation": "在里面"
+    },
+    {
+        "original": "he",
+        "translation": "他"
+    },
+    {
+        "original": "have",
+        "translation": "有"
+    },
+    {
+        "original": "it",
+        "translation": "它"
+    },
+    {
+        "original": "that",
+        "translation": "那个"
+    },
+    {
+        "original": "for",
+        "translation": "对于"
+    },
+    {
+        "original": "they",
+        "translation": "他们"
+    },
+    {
+        "original": "I",
+        "translation": "我"
+    },
+    {
+        "original": "with",
+        "translation": "具有"
+    },
+    {
+        "original": "as",
+        "translation": "像"
+    },
+    {
+        "original": "not",
+        "translation": "不"
+    },
+    {
+        "original": "on",
+        "translation": "在…上"
+    },
+    {
+        "original": "she",
+        "translation": "她"
+    },
+    {
+        "original": "at",
+        "translation": "在"
+    },
+    {
+        "original": "by",
+        "translation": "通过"
+    },
+    {
+        "original": "this",
+        "translation": "这"
+    },
+    {
+        "original": "we",
+        "translation": "我们"
+    },
+    {
+        "original": "you",
+        "translation": "你"
+    },
+    {
+        "original": "do",
+        "translation": "做"
+    },
+    {
+        "original": "but",
+        "translation": "但是"
+    },
+    {
+        "original": "from",
+        "translation": "从…起"
+    },
+    {
+        "original": "or",
+        "translation": "或"
+    },
+    {
+        "original": "which",
+        "translation": "哪一个"
+    },
+    {
+        "original": "one",
+        "translation": "一"
+    },
+    {
+        "original": "would",
+        "translation": "将"
+    },
+    {
+        "original": "all",
+        "translation": "全部的"
+    },
+    {
+        "original": "will",
+        "translation": "将"
+    },
+    {
+        "original": "there",
+        "translation": "那里"
+    },
+    {
+        "original": "say",
+        "translation": "说"
+    },
+    {
+        "original": "who",
+        "translation": "谁"
+    },
+    {
+        "original": "make",
+        "translation": "制作"
+    },
+    {
+        "original": "when",
+        "translation": "什么时候"
+    },
+    {
+        "original": "can",
+        "translation": "可以"
+    },
+    {
+        "original": "more",
+        "translation": "更多"
+    },
+    {
+        "original": "if",
+        "translation": "如果"
+    },
+    {
+        "original": "no",
+        "translation": "不"
+    },
+    {
+        "original": "man",
+        "translation": "成年男子"
+    },
+    {
+        "original": "out",
+        "translation": "出来"
+    },
+    {
+        "original": "other",
+        "translation": "另外"
+    },
+    {
+        "original": "so",
+        "translation": "所以"
+    },
+    {
+        "original": "what",
+        "translation": "什么"
+    },
+    {
+        "original": "time",
+        "translation": "时间"
+    },
+    {
+        "original": "up",
+        "translation": "向上的"
+    },
+    {
+        "original": "go",
+        "translation": "去"
+    },
+    {
+        "original": "about",
+        "translation": "关于"
+    },
+    {
+        "original": "than",
+        "translation": "比"
+    },
+    {
+        "original": "into",
+        "translation": "进入"
+    },
+    {
+        "original": "could",
+        "translation": "能够"
+    },
+    {
+        "original": "state",
+        "translation": "状态"
+    },
+    {
+        "original": "only",
+        "translation": "只有"
+    },
+    {
+        "original": "new",
+        "translation": "新"
+    },
+    {
+        "original": "year",
+        "translation": "年"
+    },
+    {
+        "original": "some",
+        "translation": "一些"
+    },
+    {
+        "original": "take",
+        "translation": "拿"
+    },
+    {
+        "original": "come",
+        "translation": "来"
+    },
+    {
+        "original": "these",
+        "translation": "这些"
+    },
+    {
+        "original": "know",
+        "translation": "知道"
+    },
+    {
+        "original": "see",
+        "translation": "看见"
+    },
+    {
+        "original": "use",
+        "translation": "使用"
+    },
+    {
+        "original": "get",
+        "translation": "收到"
+    },
+    {
+        "original": "like",
+        "translation": "喜欢"
+    },
+    {
+        "original": "then",
+        "translation": "然后"
+    },
+    {
+        "original": "first",
+        "translation": "第一"
+    },
+    {
+        "original": "any",
+        "translation": "任何"
+    },
+    {
+        "original": "work",
+        "translation": "工作"
+    },
+    {
+        "original": "now",
+        "translation": "现在"
+    },
+    {
+        "original": "may",
+        "translation": "也许"
+    },
+    {
+        "original": "such",
+        "translation": "这样的"
+    },
+    {
+        "original": "give",
+        "translation": "给"
+    },
+    {
+        "original": "over",
+        "translation": "结束"
+    },
+    {
+        "original": "think",
+        "translation": "认为"
+    },
+    {
+        "original": "most",
+        "translation": "最"
+    },
+    {
+        "original": "even",
+        "translation": "即使"
+    },
+    {
+        "original": "find",
+        "translation": "发现"
+    },
+    {
+        "original": "day",
+        "translation": "白天"
+    },
+    {
+        "original": "also",
+        "translation": "而且"
+    },
+    {
+        "original": "after",
+        "translation": "之后"
+    },
+    {
+        "original": "way",
+        "translation": "方法"
+    },
+    {
+        "original": "many",
+        "translation": "许多的"
+    },
+    {
+        "original": "must",
+        "translation": "必须"
+    },
+    {
+        "original": "look",
+        "translation": "看"
+    },
+    {
+        "original": "before",
+        "translation": "之前"
+    },
+    {
+        "original": "great",
+        "translation": "太棒了"
+    },
+    {
+        "original": "seven",
+        "translation": "七"
+    },
+    {
+        "original": "through",
+        "translation": "通过"
+    },
+    {
+        "original": "long",
+        "translation": "长的"
+    },
+    {
+        "original": "where",
+        "translation": "哪里"
+    },
+    {
+        "original": "much",
+        "translation": "很"
+    },
+    {
+        "original": "should",
+        "translation": "应该"
+    },
+    {
+        "original": "well",
+        "translation": "好"
+    },
+    {
+        "original": "people",
+        "translation": "人"
+    },
+    {
+        "original": "down",
+        "translation": "向下"
+    },
+    {
+        "original": "own",
+        "translation": "拥有"
+    },
+    {
+        "original": "just",
+        "translation": "只是"
+    },
+    {
+        "original": "because",
+        "translation": "因为"
+    },
+    {
+        "original": "good",
+        "translation": "好的"
+    },
+    {
+        "original": "each",
+        "translation": "每个"
+    },
+    {
+        "original": "those",
+        "translation": "那些"
+    },
+    {
+        "original": "feel",
+        "translation": "感觉"
+    },
+    {
+        "original": "seem",
+        "translation": "似乎"
+    },
+    {
+        "original": "how",
+        "translation": "怎样"
+    },
+    {
+        "original": "high",
+        "translation": "高的"
+    },
+    {
+        "original": "too",
+        "translation": "也"
+    },
+    {
+        "original": "place",
+        "translation": "位置"
+    },
+    {
+        "original": "little",
+        "translation": "小的"
+    },
+    {
+        "original": "world",
+        "translation": "世界"
+    },
+    {
+        "original": "very",
+        "translation": "非常"
+    },
+    {
+        "original": "still",
+        "translation": "还"
+    },
+    {
+        "original": "nation",
+        "translation": "国家"
+    },
+    {
+        "original": "hand",
+        "translation": "手"
+    },
+    {
+        "original": "old",
+        "translation": "古老的"
+    },
+    {
+        "original": "life",
+        "translation": "生活"
+    },
+    {
+        "original": "tell",
+        "translation": "告诉"
+    },
+    {
+        "original": "write",
+        "translation": "写"
+    },
+    {
+        "original": "become",
+        "translation": "成为"
+    },
+    {
+        "original": "here",
+        "translation": "在这里"
+    },
+    {
+        "original": "show",
+        "translation": "显示"
+    },
+    {
+        "original": "house",
+        "translation": "房屋"
+    },
+    {
+        "original": "both",
+        "translation": "二者都"
+    },
+    {
+        "original": "between",
+        "translation": "之间"
+    },
+    {
+        "original": "need",
+        "translation": "需要"
+    },
+    {
+        "original": "mean",
+        "translation": "意思是"
+    },
+    {
+        "original": "call",
+        "translation": "呼叫"
+    },
+    {
+        "original": "develop",
+        "translation": "发展"
+    },
+    {
+        "original": "under",
+        "translation": "在下面"
+    },
+    {
+        "original": "last",
+        "translation": "最后的"
+    },
+    {
+        "original": "right",
+        "translation": "正当"
+    },
+    {
+        "original": "move",
+        "translation": "移动"
+    },
+    {
+        "original": "thing",
+        "translation": "事情"
+    },
+    {
+        "original": "general",
+        "translation": "全体的"
+    },
+    {
+        "original": "school",
+        "translation": "学校"
+    },
+    {
+        "original": "never",
+        "translation": "从不"
+    },
+    {
+        "original": "same",
+        "translation": "相同的"
+    },
+    {
+        "original": "another",
+        "translation": "另一个"
+    },
+    {
+        "original": "begin",
+        "translation": "开始"
+    },
+    {
+        "original": "while",
+        "translation": "虽然"
+    },
+    {
+        "original": "number",
+        "translation": "数字"
+    },
+    {
+        "original": "part",
+        "translation": "部分"
+    },
+    {
+        "original": "turn",
+        "translation": "转动"
+    },
+    {
+        "original": "real",
+        "translation": "真实的"
+    },
+    {
+        "original": "leave",
+        "translation": "离开"
+    },
+    {
+        "original": "might",
+        "translation": "可以"
+    },
+    {
+        "original": "want",
+        "translation": "希望"
+    },
+    {
+        "original": "point",
+        "translation": "指向"
+    },
+    {
+        "original": "form",
+        "translation": "类型"
+    },
+    {
+        "original": "off",
+        "translation": "关"
+    },
+    {
+        "original": "child",
+        "translation": "小孩"
+    },
+    {
+        "original": "few",
+        "translation": "很少的"
+    },
+    {
+        "original": "small",
+        "translation": "小的"
+    },
+    {
+        "original": "since",
+        "translation": "自从"
+    },
+    {
+        "original": "against",
+        "translation": "反对"
+    },
+    {
+        "original": "ask",
+        "translation": "问"
+    },
+    {
+        "original": "late",
+        "translation": "晚的"
+    },
+    {
+        "original": "home",
+        "translation": "家"
+    },
+    {
+        "original": "interest",
+        "translation": "兴趣"
+    },
+    {
+        "original": "large",
+        "translation": "大的"
+    },
+    {
+        "original": "person",
+        "translation": "人"
+    },
+    {
+        "original": "end",
+        "translation": "终止"
+    },
+    {
+        "original": "open",
+        "translation": "打开"
+    },
+    {
+        "original": "public",
+        "translation": "平民的"
+    },
+    {
+        "original": "follow",
+        "translation": "跟随"
+    },
+    {
+        "original": "during",
+        "translation": "在期间"
+    },
+    {
+        "original": "present",
+        "translation": "目前"
+    },
+    {
+        "original": "without",
+        "translation": "没有"
+    },
+    {
+        "original": "again",
+        "translation": "再一次"
+    },
+    {
+        "original": "hold",
+        "translation": "持有"
+    },
+    {
+        "original": "govern",
+        "translation": "统治"
+    },
+    {
+        "original": "around",
+        "translation": "围绕"
+    },
+    {
+        "original": "possible",
+        "translation": "可能的"
+    },
+    {
+        "original": "head",
+        "translation": "头"
+    },
+    {
+        "original": "consider",
+        "translation": "考虑"
+    },
+    {
+        "original": "word",
+        "translation": "单词"
+    },
+    {
+        "original": "program",
+        "translation": "程序"
+    },
+    {
+        "original": "problem",
+        "translation": "问题"
+    },
+    {
+        "original": "however",
+        "translation": "然而"
+    },
+    {
+        "original": "lead",
+        "translation": "领导"
+    },
+    {
+        "original": "system",
+        "translation": "系统"
+    },
+    {
+        "original": "set",
+        "translation": "设置"
+    },
+    {
+        "original": "order",
+        "translation": "顺序"
+    },
+    {
+        "original": "eye",
+        "translation": "眼睛"
+    },
+    {
+        "original": "plan",
+        "translation": "计划"
+    },
+    {
+        "original": "run",
+        "translation": "跑"
+    },
+    {
+        "original": "keep",
+        "translation": "保持"
+    },
+    {
+        "original": "face",
+        "translation": "面对"
+    },
+    {
+        "original": "fact",
+        "translation": "事实"
+    },
+    {
+        "original": "group",
+        "translation": "组"
+    },
+    {
+        "original": "play",
+        "translation": "玩"
+    },
+    {
+        "original": "stand",
+        "translation": "站"
+    },
+    {
+        "original": "increase",
+        "translation": "增长"
+    },
+    {
+        "original": "early",
+        "translation": "早期的"
+    },
+    {
+        "original": "course",
+        "translation": "课程"
+    },
+    {
+        "original": "change",
+        "translation": "改变"
+    },
+    {
+        "original": "help",
+        "translation": "帮助"
+    },
+    {
+        "original": "line",
+        "translation": "线"
+    },
+    {
+        "original": "city",
+        "translation": "城市"
+    },
+    {
+        "original": "put",
+        "translation": "放"
+    },
+    {
+        "original": "close",
+        "translation": "关"
+    },
+    {
+        "original": "case",
+        "translation": "案例"
+    },
+    {
+        "original": "force",
+        "translation": "武力"
+    },
+    {
+        "original": "meet",
+        "translation": "满足"
+    },
+    {
+        "original": "once",
+        "translation": "一旦"
+    },
+    {
+        "original": "water",
+        "translation": "水"
+    },
+    {
+        "original": "upon",
+        "translation": "在上面"
+    },
+    {
+        "original": "war",
+        "translation": "战争"
+    },
+    {
+        "original": "build",
+        "translation": "建筑"
+    },
+    {
+        "original": "hear",
+        "translation": "听见"
+    },
+    {
+        "original": "light",
+        "translation": "光"
+    },
+    {
+        "original": "unite",
+        "translation": "团结"
+    },
+    {
+        "original": "live",
+        "translation": "居住"
+    },
+    {
+        "original": "every",
+        "translation": "每一个"
+    },
+    {
+        "original": "country",
+        "translation": "国"
+    },
+    {
+        "original": "bring",
+        "translation": "带…到某处"
+    },
+    {
+        "original": "center",
+        "translation": "居中"
+    },
+    {
+        "original": "let",
+        "translation": "允许"
+    },
+    {
+        "original": "side",
+        "translation": "一边"
+    },
+    {
+        "original": "try",
+        "translation": "尝试"
+    },
+    {
+        "original": "provide",
+        "translation": "提供"
+    },
+    {
+        "original": "continue",
+        "translation": "持续"
+    },
+    {
+        "original": "name",
+        "translation": "名称"
+    },
+    {
+        "original": "certain",
+        "translation": "某些"
+    },
+    {
+        "original": "power",
+        "translation": "权力"
+    },
+    {
+        "original": "pay",
+        "translation": "支付"
+    },
+    {
+        "original": "result",
+        "translation": "后果"
+    },
+    {
+        "original": "question",
+        "translation": "问题"
+    },
+    {
+        "original": "study",
+        "translation": "学习"
+    },
+    {
+        "original": "woman",
+        "translation": "成年女子"
+    },
+    {
+        "original": "member",
+        "translation": "成员"
+    },
+    {
+        "original": "until",
+        "translation": "直到"
+    },
+    {
+        "original": "far",
+        "translation": "远的"
+    },
+    {
+        "original": "night",
+        "translation": "夜"
+    },
+    {
+        "original": "always",
+        "translation": "总是"
+    },
+    {
+        "original": "service",
+        "translation": "服务"
+    },
+    {
+        "original": "away",
+        "translation": "离开"
+    },
+    {
+        "original": "report",
+        "translation": "汇报"
+    },
+    {
+        "original": "something",
+        "translation": "某物"
+    },
+    {
+        "original": "company",
+        "translation": "公司"
+    },
+    {
+        "original": "week",
+        "translation": "周"
+    },
+    {
+        "original": "church",
+        "translation": "教堂"
+    },
+    {
+        "original": "toward",
+        "translation": "朝向"
+    },
+    {
+        "original": "start",
+        "translation": "开始"
+    },
+    {
+        "original": "social",
+        "translation": "社会的"
+    },
+    {
+        "original": "room",
+        "translation": "房间"
+    },
+    {
+        "original": "figure",
+        "translation": "图形"
+    },
+    {
+        "original": "nature",
+        "translation": "自然界"
+    },
+    {
+        "original": "though",
+        "translation": "虽然"
+    },
+    {
+        "original": "young",
+        "translation": "幼小的"
+    },
+    {
+        "original": "less",
+        "translation": "较少的"
+    },
+    {
+        "original": "enough",
+        "translation": "足够地"
+    },
+    {
+        "original": "almost",
+        "translation": "几乎"
+    },
+    {
+        "original": "read",
+        "translation": "阅读"
+    },
+    {
+        "original": "include",
+        "translation": "包括"
+    },
+    {
+        "original": "president",
+        "translation": "总统"
+    },
+    {
+        "original": "nothing",
+        "translation": "没有什么"
+    },
+    {
+        "original": "yet",
+        "translation": "然而"
+    },
+    {
+        "original": "better",
+        "translation": "较好的"
+    },
+    {
+        "original": "big",
+        "translation": "大的"
+    },
+    {
+        "original": "boy",
+        "translation": "男孩"
+    },
+    {
+        "original": "cost",
+        "translation": "费用"
+    },
+    {
+        "original": "business",
+        "translation": "商业"
+    },
+    {
+        "original": "value",
+        "translation": "价值"
+    },
+    {
+        "original": "second",
+        "translation": "第二"
+    },
+    {
+        "original": "why",
+        "translation": "为什么？"
+    },
+    {
+        "original": "clear",
+        "translation": "清楚的"
+    },
+    {
+        "original": "expect",
+        "translation": "预料"
+    },
+    {
+        "original": "family",
+        "translation": "家庭"
+    },
+    {
+        "original": "complete",
+        "translation": "完成"
+    },
+    {
+        "original": "act",
+        "translation": "行为"
+    },
+    {
+        "original": "sense",
+        "translation": "感觉"
+    },
+    {
+        "original": "mind",
+        "translation": "介意"
+    },
+    {
+        "original": "experience",
+        "translation": "经验"
+    },
+    {
+        "original": "art",
+        "translation": "艺术"
+    },
+    {
+        "original": "next",
+        "translation": "下一个"
+    },
+    {
+        "original": "near",
+        "translation": "近的"
+    },
+    {
+        "original": "direct",
+        "translation": "直接的"
+    },
+    {
+        "original": "car",
+        "translation": "汽车"
+    },
+    {
+        "original": "law",
+        "translation": "法律"
+    },
+    {
+        "original": "industry",
+        "translation": "工业"
+    },
+    {
+        "original": "important",
+        "translation": "重要的"
+    },
+    {
+        "original": "girl",
+        "translation": "女孩"
+    },
+    {
+        "original": "god",
+        "translation": "上帝"
+    },
+    {
+        "original": "several",
+        "translation": "几个"
+    },
+    {
+        "original": "matter",
+        "translation": "课题"
+    },
+    {
+        "original": "usual",
+        "translation": "通常的"
+    },
+    {
+        "original": "rather",
+        "translation": "相当地"
+    },
+    {
+        "original": "per",
+        "translation": "每"
+    },
+    {
+        "original": "often",
+        "translation": "经常"
+    },
+    {
+        "original": "kind",
+        "translation": "友善的"
+    },
+    {
+        "original": "among",
+        "translation": "在…之间"
+    },
+    {
+        "original": "white",
+        "translation": "白色"
+    },
+    {
+        "original": "reason",
+        "translation": "原因"
+    },
+    {
+        "original": "action",
+        "translation": "行动"
+    },
+    {
+        "original": "return",
+        "translation": "回来"
+    },
+    {
+        "original": "foot",
+        "translation": "脚"
+    },
+    {
+        "original": "care",
+        "translation": "照顾"
+    },
+    {
+        "original": "simple",
+        "translation": "易于理解的"
+    },
+    {
+        "original": "within",
+        "translation": "在内部"
+    },
+    {
+        "original": "love",
+        "translation": "爱"
+    },
+    {
+        "original": "human",
+        "translation": "人类"
+    },
+    {
+        "original": "along",
+        "translation": "沿着"
+    },
+    {
+        "original": "appear",
+        "translation": "显得"
+    },
+    {
+        "original": "doctor",
+        "translation": "医生"
+    },
+    {
+        "original": "believe",
+        "translation": "相信"
+    },
+    {
+        "original": "speak",
+        "translation": "谈"
+    },
+    {
+        "original": "active",
+        "translation": "忙碌的"
+    },
+    {
+        "original": "student",
+        "translation": "大学生"
+    },
+    {
+        "original": "month",
+        "translation": "月"
+    },
+    {
+        "original": "drive",
+        "translation": "驾驶"
+    },
+    {
+        "original": "concern",
+        "translation": "涉及"
+    },
+    {
+        "original": "best",
+        "translation": "最好的"
+    },
+    {
+        "original": "door",
+        "translation": "门"
+    },
+    {
+        "original": "hope",
+        "translation": "希望"
+    },
+    {
+        "original": "example",
+        "translation": "实例"
+    },
+    {
+        "original": "inform",
+        "translation": "知会"
+    },
+    {
+        "original": "body",
+        "translation": "身体"
+    },
+    {
+        "original": "ever",
+        "translation": "曾经"
+    },
+    {
+        "original": "least",
+        "translation": "最小的"
+    },
+    {
+        "original": "probable",
+        "translation": "可能的"
+    },
+    {
+        "original": "understand",
+        "translation": "懂"
+    },
+    {
+        "original": "reach",
+        "translation": "达到"
+    },
+    {
+        "original": "effect",
+        "translation": "效应"
+    },
+    {
+        "original": "different",
+        "translation": "不同的"
+    },
+    {
+        "original": "idea",
+        "translation": "主意"
+    },
+    {
+        "original": "whole",
+        "translation": "整体"
+    },
+    {
+        "original": "control",
+        "translation": "控制"
+    },
+    {
+        "original": "condition",
+        "translation": "条件"
+    },
+    {
+        "original": "field",
+        "translation": "领域"
+    },
+    {
+        "original": "pass",
+        "translation": "通过"
+    },
+    {
+        "original": "fall",
+        "translation": "落下"
+    },
+    {
+        "original": "note",
+        "translation": "笔记"
+    },
+    {
+        "original": "special",
+        "translation": "特殊的"
+    },
+    {
+        "original": "talk",
+        "translation": "说话"
+    },
+    {
+        "original": "particular",
+        "translation": "特指的"
+    },
+    {
+        "original": "today",
+        "translation": "今天"
+    },
+    {
+        "original": "measure",
+        "translation": "测量"
+    },
+    {
+        "original": "walk",
+        "translation": "步行"
+    },
+    {
+        "original": "teach",
+        "translation": "教"
+    },
+    {
+        "original": "low",
+        "translation": "低的"
+    },
+    {
+        "original": "hour",
+        "translation": "小时"
+    },
+    {
+        "original": "type",
+        "translation": "类型"
+    },
+    {
+        "original": "carry",
+        "translation": "拿"
+    },
+    {
+        "original": "rate",
+        "translation": "速度"
+    },
+    {
+        "original": "remain",
+        "translation": "保持"
+    },
+    {
+        "original": "full",
+        "translation": "满的"
+    },
+    {
+        "original": "street",
+        "translation": "大街"
+    },
+    {
+        "original": "easy",
+        "translation": "容易的"
+    },
+    {
+        "original": "although",
+        "translation": "虽然"
+    },
+    {
+        "original": "record",
+        "translation": "记录"
+    },
+    {
+        "original": "sit",
+        "translation": "坐"
+    },
+    {
+        "original": "determine",
+        "translation": "决定"
+    },
+    {
+        "original": "level",
+        "translation": "数量"
+    },
+    {
+        "original": "local",
+        "translation": "地方的"
+    },
+    {
+        "original": "sure",
+        "translation": "当然"
+    },
+    {
+        "original": "receive",
+        "translation": "接收"
+    },
+    {
+        "original": "thus",
+        "translation": "因此"
+    },
+    {
+        "original": "moment",
+        "translation": "片刻"
+    },
+    {
+        "original": "spirit",
+        "translation": "精神"
+    },
+    {
+        "original": "train",
+        "translation": "火车"
+    },
+    {
+        "original": "college",
+        "translation": "学院"
+    },
+    {
+        "original": "religion",
+        "translation": "宗教"
+    },
+    {
+        "original": "perhaps",
+        "translation": "可能"
+    },
+    {
+        "original": "music",
+        "translation": "音乐"
+    },
+    {
+        "original": "grow",
+        "translation": "扩大"
+    },
+    {
+        "original": "free",
+        "translation": "自由的"
+    },
+    {
+        "original": "cause",
+        "translation": "原因"
+    },
+    {
+        "original": "serve",
+        "translation": "提供"
+    },
+    {
+        "original": "age",
+        "translation": "年龄"
+    },
+    {
+        "original": "book",
+        "translation": "书"
+    },
+    {
+        "original": "board",
+        "translation": "板"
+    },
+    {
+        "original": "recent",
+        "translation": "最近的"
+    },
+    {
+        "original": "sound",
+        "translation": "声音"
+    },
+    {
+        "original": "office",
+        "translation": "办公室"
+    },
+    {
+        "original": "cut",
+        "translation": "切"
+    },
+    {
+        "original": "step",
+        "translation": "步"
+    },
+    {
+        "original": "class",
+        "translation": "班"
+    },
+    {
+        "original": "TRUE",
+        "translation": "符合事实的"
+    },
+    {
+        "original": "history",
+        "translation": "历史"
+    },
+    {
+        "original": "position",
+        "translation": "位置"
+    },
+    {
+        "original": "above",
+        "translation": "在上面"
+    },
+    {
+        "original": "strong",
+        "translation": "坚强的"
+    },
+    {
+        "original": "friend",
+        "translation": "朋友"
+    },
+    {
+        "original": "necessary",
+        "translation": "必需的"
+    },
+    {
+        "original": "add",
+        "translation": "添加"
+    },
+    {
+        "original": "court",
+        "translation": "法院"
+    },
+    {
+        "original": "deal",
+        "translation": "处理"
+    },
+    {
+        "original": "tax",
+        "translation": "税"
+    },
+    {
+        "original": "support",
+        "translation": "支持"
+    },
+    {
+        "original": "party",
+        "translation": "政党"
+    },
+    {
+        "original": "whether",
+        "translation": "是否"
+    },
+    {
+        "original": "either",
+        "translation": "任何一个"
+    },
+    {
+        "original": "land",
+        "translation": "土地"
+    },
+    {
+        "original": "material",
+        "translation": "布料"
+    },
+    {
+        "original": "happen",
+        "translation": "发生"
+    },
+    {
+        "original": "education",
+        "translation": "教育"
+    },
+    {
+        "original": "death",
+        "translation": "死"
+    },
+    {
+        "original": "arm",
+        "translation": "臂"
+    },
+    {
+        "original": "mother",
+        "translation": "母亲"
+    },
+    {
+        "original": "across",
+        "translation": "穿过"
+    },
+    {
+        "original": "quite",
+        "translation": "相当地"
+    },
+    {
+        "original": "anything",
+        "translation": "任何东西"
+    },
+    {
+        "original": "town",
+        "translation": "镇"
+    },
+    {
+        "original": "past",
+        "translation": "过去的"
+    },
+    {
+        "original": "view",
+        "translation": "看法"
+    },
+    {
+        "original": "society",
+        "translation": "社会"
+    },
+    {
+        "original": "manage",
+        "translation": "管理"
+    },
+    {
+        "original": "answer",
+        "translation": "答复"
+    },
+    {
+        "original": "break",
+        "translation": "打破"
+    },
+    {
+        "original": "organize",
+        "translation": "组织"
+    },
+    {
+        "original": "half",
+        "translation": "一半"
+    },
+    {
+        "original": "fire",
+        "translation": "火"
+    },
+    {
+        "original": "lose",
+        "translation": "失去"
+    },
+    {
+        "original": "money",
+        "translation": "钱"
+    },
+    {
+        "original": "stop",
+        "translation": "停止"
+    },
+    {
+        "original": "actual",
+        "translation": "真实的"
+    },
+    {
+        "original": "already",
+        "translation": "已经"
+    },
+    {
+        "original": "effort",
+        "translation": "气力"
+    },
+    {
+        "original": "wait",
+        "translation": "等待"
+    },
+    {
+        "original": "department",
+        "translation": "部门"
+    },
+    {
+        "original": "able",
+        "translation": "能够的"
+    },
+    {
+        "original": "political",
+        "translation": "政治的"
+    },
+    {
+        "original": "learn",
+        "translation": "学"
+    },
+    {
+        "original": "ok",
+        "translation": "好啊"
+    },
+    {
+        "original": "air",
+        "translation": "空气"
+    },
+    {
+        "original": "together",
+        "translation": "在一起"
+    },
+    {
+        "original": "shall",
+        "translation": "将要"
+    },
+    {
+        "original": "cover",
+        "translation": "掩蔽"
+    },
+    {
+        "original": "common",
+        "translation": "常见的"
+    },
+    {
+        "original": "subject",
+        "translation": "主题"
+    },
+    {
+        "original": "draw",
+        "translation": "画"
+    },
+    {
+        "original": "short",
+        "translation": "短的"
+    },
+    {
+        "original": "wife",
+        "translation": "妻子"
+    },
+    {
+        "original": "treat",
+        "translation": "对待"
+    },
+    {
+        "original": "limit",
+        "translation": "限度"
+    },
+    {
+        "original": "road",
+        "translation": "路"
+    },
+    {
+        "original": "letter",
+        "translation": "信"
+    },
+    {
+        "original": "color",
+        "translation": "颜色"
+    },
+    {
+        "original": "behind",
+        "translation": "在…的后面"
+    },
+    {
+        "original": "produce",
+        "translation": "生产"
+    },
+    {
+        "original": "send",
+        "translation": "邮寄"
+    },
+    {
+        "original": "term",
+        "translation": "学期"
+    },
+    {
+        "original": "total",
+        "translation": "全部的"
+    },
+    {
+        "original": "university",
+        "translation": "大学"
+    },
+    {
+        "original": "rise",
+        "translation": "上升"
+    },
+    {
+        "original": "century",
+        "translation": "100年"
+    },
+    {
+        "original": "success",
+        "translation": "成功"
+    },
+    {
+        "original": "minute",
+        "translation": "分钟"
+    },
+    {
+        "original": "remember",
+        "translation": "回想起"
+    },
+    {
+        "original": "purpose",
+        "translation": "意图"
+    },
+    {
+        "original": "test",
+        "translation": "测验"
+    },
+    {
+        "original": "fight",
+        "translation": "打仗"
+    },
+    {
+        "original": "watch",
+        "translation": "看"
+    },
+    {
+        "original": "situation",
+        "translation": "情况"
+    },
+    {
+        "original": "south",
+        "translation": "南方"
+    },
+    {
+        "original": "ago",
+        "translation": "以前"
+    },
+    {
+        "original": "difference",
+        "translation": "差别"
+    },
+    {
+        "original": "stage",
+        "translation": "阶段"
+    },
+    {
+        "original": "father",
+        "translation": "父亲"
+    },
+    {
+        "original": "table",
+        "translation": "桌子"
+    },
+    {
+        "original": "rest",
+        "translation": "休息"
+    },
+    {
+        "original": "bear",
+        "translation": "熊"
+    },
+    {
+        "original": "entire",
+        "translation": "全部的"
+    },
+    {
+        "original": "market",
+        "translation": "集市"
+    },
+    {
+        "original": "prepare",
+        "translation": "准备"
+    },
+    {
+        "original": "explain",
+        "translation": "解释"
+    },
+    {
+        "original": "offer",
+        "translation": "提供"
+    },
+    {
+        "original": "plant",
+        "translation": "植物"
+    },
+    {
+        "original": "charge",
+        "translation": "要价"
+    },
+    {
+        "original": "ground",
+        "translation": "地"
+    },
+    {
+        "original": "west",
+        "translation": "西"
+    },
+    {
+        "original": "picture",
+        "translation": "相片"
+    },
+    {
+        "original": "hard",
+        "translation": "坚固的"
+    },
+    {
+        "original": "front",
+        "translation": "正面"
+    },
+    {
+        "original": "lie",
+        "translation": "躺"
+    },
+    {
+        "original": "modern",
+        "translation": "现代的"
+    },
+    {
+        "original": "dark",
+        "translation": "黑暗的"
+    },
+    {
+        "original": "surface",
+        "translation": "表面"
+    },
+    {
+        "original": "rule",
+        "translation": "规则"
+    },
+    {
+        "original": "regard",
+        "translation": "看待"
+    },
+    {
+        "original": "dance",
+        "translation": "跳舞"
+    },
+    {
+        "original": "peace",
+        "translation": "和平"
+    },
+    {
+        "original": "observe",
+        "translation": "看到"
+    },
+    {
+        "original": "future",
+        "translation": "将来"
+    },
+    {
+        "original": "wall",
+        "translation": "墙"
+    },
+    {
+        "original": "farm",
+        "translation": "农场"
+    },
+    {
+        "original": "claim",
+        "translation": "宣称"
+    },
+    {
+        "original": "firm",
+        "translation": "商行"
+    },
+    {
+        "original": "operation",
+        "translation": "活动"
+    },
+    {
+        "original": "further",
+        "translation": "进一步的"
+    },
+    {
+        "original": "pressure",
+        "translation": "压力"
+    },
+    {
+        "original": "property",
+        "translation": "所有物"
+    },
+    {
+        "original": "morning",
+        "translation": "早晨"
+    },
+    {
+        "original": "amount",
+        "translation": "数量"
+    },
+    {
+        "original": "top",
+        "translation": "顶部"
+    },
+    {
+        "original": "outside",
+        "translation": "外部"
+    },
+    {
+        "original": "piece",
+        "translation": "块"
+    },
+    {
+        "original": "sometimes",
+        "translation": "有时"
+    },
+    {
+        "original": "beauty",
+        "translation": "美女"
+    },
+    {
+        "original": "trade",
+        "translation": "贸易"
+    },
+    {
+        "original": "fear",
+        "translation": "害怕"
+    },
+    {
+        "original": "demand",
+        "translation": "需要"
+    },
+    {
+        "original": "wonder",
+        "translation": "想知道"
+    },
+    {
+        "original": "list",
+        "translation": "列表"
+    },
+    {
+        "original": "accept",
+        "translation": "接受"
+    },
+    {
+        "original": "judge",
+        "translation": "法官"
+    },
+    {
+        "original": "paint",
+        "translation": "油漆"
+    },
+    {
+        "original": "mile",
+        "translation": "英里"
+    },
+    {
+        "original": "soon",
+        "translation": "很快"
+    },
+    {
+        "original": "responsible",
+        "translation": "负责的"
+    },
+    {
+        "original": "allow",
+        "translation": "允许"
+    },
+    {
+        "original": "secretary",
+        "translation": "秘书"
+    },
+    {
+        "original": "heart",
+        "translation": "心"
+    },
+    {
+        "original": "union",
+        "translation": "协会"
+    },
+    {
+        "original": "slow",
+        "translation": "缓慢的"
+    },
+    {
+        "original": "island",
+        "translation": "岛"
+    },
+    {
+        "original": "enter",
+        "translation": "进来"
+    },
+    {
+        "original": "drink",
+        "translation": "喝"
+    },
+    {
+        "original": "story",
+        "translation": "故事"
+    },
+    {
+        "original": "experiment",
+        "translation": "实验"
+    },
+    {
+        "original": "stay",
+        "translation": "停留"
+    },
+    {
+        "original": "paper",
+        "translation": "纸张"
+    },
+    {
+        "original": "space",
+        "translation": "空间"
+    },
+    {
+        "original": "apply",
+        "translation": "申请"
+    },
+    {
+        "original": "decide",
+        "translation": "决定"
+    },
+    {
+        "original": "share",
+        "translation": "共有"
+    },
+    {
+        "original": "desire",
+        "translation": "愿望"
+    },
+    {
+        "original": "spend",
+        "translation": "花费"
+    },
+    {
+        "original": "sign",
+        "translation": "签名"
+    },
+    {
+        "original": "therefore",
+        "translation": "因此"
+    },
+    {
+        "original": "various",
+        "translation": "各种各样的"
+    },
+    {
+        "original": "visit",
+        "translation": "参观"
+    },
+    {
+        "original": "supply",
+        "translation": "供给"
+    },
+    {
+        "original": "officer",
+        "translation": "官员"
+    },
+    {
+        "original": "doubt",
+        "translation": "怀疑"
+    },
+    {
+        "original": "private",
+        "translation": "私有的"
+    },
+    {
+        "original": "immediate",
+        "translation": "立即的"
+    },
+    {
+        "original": "wish",
+        "translation": "希望"
+    },
+    {
+        "original": "contain",
+        "translation": "包含"
+    },
+    {
+        "original": "feed",
+        "translation": "喂养"
+    },
+    {
+        "original": "raise",
+        "translation": "提升"
+    },
+    {
+        "original": "describe",
+        "translation": "描述"
+    },
+    {
+        "original": "ready",
+        "translation": "准备好的"
+    },
+    {
+        "original": "horse",
+        "translation": "马"
+    },
+    {
+        "original": "son",
+        "translation": "儿子"
+    },
+    {
+        "original": "exist",
+        "translation": "存在"
+    },
+    {
+        "original": "north",
+        "translation": "北"
+    },
+    {
+        "original": "suggest",
+        "translation": "建议"
+    },
+    {
+        "original": "station",
+        "translation": "火车站"
+    },
+    {
+        "original": "effective",
+        "translation": "有效的"
+    },
+    {
+        "original": "food",
+        "translation": "食物"
+    },
+    {
+        "original": "deep",
+        "translation": "深的"
+    },
+    {
+        "original": "wide",
+        "translation": "宽的"
+    },
+    {
+        "original": "alone",
+        "translation": "单独地"
+    },
+    {
+        "original": "character",
+        "translation": "性格"
+    },
+    {
+        "original": "English",
+        "translation": "英语"
+    },
+    {
+        "original": "happy",
+        "translation": "快乐的"
+    },
+    {
+        "original": "critic",
+        "translation": "批评家"
+    },
+    {
+        "original": "unit",
+        "translation": "单元"
+    },
+    {
+        "original": "product",
+        "translation": "产品"
+    },
+    {
+        "original": "respect",
+        "translation": "尊敬"
+    },
+    {
+        "original": "drop",
+        "translation": "滴"
+    },
+    {
+        "original": "nor",
+        "translation": "也没有"
+    },
+    {
+        "original": "fill",
+        "translation": "填满"
+    },
+    {
+        "original": "cold",
+        "translation": "寒冷的"
+    },
+    {
+        "original": "represent",
+        "translation": "代表"
+    },
+    {
+        "original": "sudden",
+        "translation": "突然的"
+    },
+    {
+        "original": "basic",
+        "translation": "基本的"
+    },
+    {
+        "original": "kill",
+        "translation": "杀死"
+    },
+    {
+        "original": "fine",
+        "translation": "好的"
+    },
+    {
+        "original": "trouble",
+        "translation": "麻烦"
+    },
+    {
+        "original": "mark",
+        "translation": "做记号"
+    },
+    {
+        "original": "single",
+        "translation": "仅有一个的"
+    },
+    {
+        "original": "press",
+        "translation": "按"
+    },
+    {
+        "original": "heavy",
+        "translation": "重的"
+    },
+    {
+        "original": "attempt",
+        "translation": "企图"
+    },
+    {
+        "original": "origin",
+        "translation": "起源"
+    },
+    {
+        "original": "standard",
+        "translation": "标准"
+    },
+    {
+        "original": "everything",
+        "translation": "每件事"
+    },
+    {
+        "original": "committee",
+        "translation": "委员会"
+    },
+    {
+        "original": "moral",
+        "translation": "道德的"
+    },
+    {
+        "original": "black",
+        "translation": "黑色"
+    },
+    {
+        "original": "red",
+        "translation": "红色"
+    },
+    {
+        "original": "bad",
+        "translation": "令人不快的"
+    },
+    {
+        "original": "earth",
+        "translation": "世界"
+    },
+    {
+        "original": "accord",
+        "translation": "一致"
+    },
+    {
+        "original": "else",
+        "translation": "其他的"
+    },
+    {
+        "original": "mere",
+        "translation": "仅仅的"
+    },
+    {
+        "original": "die",
+        "translation": "死亡"
+    },
+    {
+        "original": "remark",
+        "translation": "评论"
+    },
+    {
+        "original": "basis",
+        "translation": "原因"
+    },
+    {
+        "original": "except",
+        "translation": "除了"
+    },
+    {
+        "original": "equal",
+        "translation": "相同的"
+    },
+    {
+        "original": "east",
+        "translation": "东"
+    },
+    {
+        "original": "event",
+        "translation": "事件"
+    },
+    {
+        "original": "employ",
+        "translation": "雇用"
+    },
+    {
+        "original": "defense",
+        "translation": "防守"
+    },
+    {
+        "original": "smile",
+        "translation": "微笑"
+    },
+    {
+        "original": "river",
+        "translation": "河"
+    },
+    {
+        "original": "improve",
+        "translation": "改进"
+    },
+    {
+        "original": "game",
+        "translation": "游戏"
+    },
+    {
+        "original": "detail",
+        "translation": "细节"
+    },
+    {
+        "original": "account",
+        "translation": "账户"
+    },
+    {
+        "original": "cent",
+        "translation": "分"
+    },
+    {
+        "original": "sort",
+        "translation": "分类"
+    },
+    {
+        "original": "reduce",
+        "translation": "减少"
+    },
+    {
+        "original": "club",
+        "translation": "俱乐部"
+    },
+    {
+        "original": "buy",
+        "translation": "购买"
+    },
+    {
+        "original": "attention",
+        "translation": "注意"
+    },
+    {
+        "original": "ship",
+        "translation": "船"
+    },
+    {
+        "original": "decision",
+        "translation": "决定"
+    },
+    {
+        "original": "wear",
+        "translation": "穿"
+    },
+    {
+        "original": "inside",
+        "translation": "在…内"
+    },
+    {
+        "original": "win",
+        "translation": "赢"
+    },
+    {
+        "original": "suppose",
+        "translation": "认为"
+    },
+    {
+        "original": "ride",
+        "translation": "骑"
+    },
+    {
+        "original": "operate",
+        "translation": "运转"
+    },
+    {
+        "original": "realize",
+        "translation": "理解"
+    },
+    {
+        "original": "sale",
+        "translation": "出售"
+    },
+    {
+        "original": "choose",
+        "translation": "选择"
+    },
+    {
+        "original": "park",
+        "translation": "公园"
+    },
+    {
+        "original": "square",
+        "translation": "广场"
+    },
+    {
+        "original": "vote",
+        "translation": "选票"
+    },
+    {
+        "original": "price",
+        "translation": "价格"
+    },
+    {
+        "original": "district",
+        "translation": "地区"
+    },
+    {
+        "original": "dead",
+        "translation": "死去的"
+    },
+    {
+        "original": "foreign",
+        "translation": "外国的"
+    },
+    {
+        "original": "window",
+        "translation": "窗"
+    },
+    {
+        "original": "beyond",
+        "translation": "超过"
+    },
+    {
+        "original": "direction",
+        "translation": "方向"
+    },
+    {
+        "original": "strike",
+        "translation": "罢工"
+    },
+    {
+        "original": "instead",
+        "translation": "相反"
+    },
+    {
+        "original": "trial",
+        "translation": "试验"
+    },
+    {
+        "original": "practice",
+        "translation": "实践"
+    },
+    {
+        "original": "catch",
+        "translation": "接住"
+    },
+    {
+        "original": "opportunity",
+        "translation": "机会"
+    },
+    {
+        "original": "likely",
+        "translation": "可能的"
+    },
+    {
+        "original": "recognize",
+        "translation": "认出"
+    },
+    {
+        "original": "permit",
+        "translation": "许可证"
+    },
+    {
+        "original": "serious",
+        "translation": "不好的"
+    },
+    {
+        "original": "attack",
+        "translation": "袭击"
+    },
+    {
+        "original": "floor",
+        "translation": "地板"
+    },
+    {
+        "original": "association",
+        "translation": "协会"
+    },
+    {
+        "original": "spring",
+        "translation": "春天"
+    },
+    {
+        "original": "lot",
+        "translation": "大量"
+    },
+    {
+        "original": "stock",
+        "translation": "股票"
+    },
+    {
+        "original": "lack",
+        "translation": "缺乏"
+    },
+    {
+        "original": "hair",
+        "translation": "头发"
+    },
+    {
+        "original": "science",
+        "translation": "科学"
+    },
+    {
+        "original": "relation",
+        "translation": "关系"
+    },
+    {
+        "original": "profession",
+        "translation": "职业"
+    },
+    {
+        "original": "pattern",
+        "translation": "图案"
+    },
+    {
+        "original": "quick",
+        "translation": "快的"
+    },
+    {
+        "original": "medical",
+        "translation": "医学的"
+    },
+    {
+        "original": "influence",
+        "translation": "影响"
+    },
+    {
+        "original": "occasion",
+        "translation": "场合"
+    },
+    {
+        "original": "machine",
+        "translation": "机器"
+    },
+    {
+        "original": "compare",
+        "translation": "比较"
+    },
+    {
+        "original": "husband",
+        "translation": "丈夫"
+    },
+    {
+        "original": "blue",
+        "translation": "蓝色"
+    },
+    {
+        "original": "international",
+        "translation": "国际的"
+    },
+    {
+        "original": "fair",
+        "translation": "公平的"
+    },
+    {
+        "original": "especially",
+        "translation": "尤其地"
+    },
+    {
+        "original": "indeed",
+        "translation": "的确"
+    },
+    {
+        "original": "imagine",
+        "translation": "想象"
+    },
+    {
+        "original": "surprise",
+        "translation": "惊喜"
+    },
+    {
+        "original": "average",
+        "translation": "平均的"
+    },
+    {
+        "original": "official",
+        "translation": "公务的"
+    },
+    {
+        "original": "temperature",
+        "translation": "温度"
+    },
+    {
+        "original": "difficult",
+        "translation": "困难的"
+    },
+    {
+        "original": "sing",
+        "translation": "唱"
+    },
+    {
+        "original": "hit",
+        "translation": "打"
+    },
+    {
+        "original": "tree",
+        "translation": "树"
+    },
+    {
+        "original": "race",
+        "translation": "比赛"
+    },
+    {
+        "original": "police",
+        "translation": "警察部门"
+    },
+    {
+        "original": "touch",
+        "translation": "触摸"
+    },
+    {
+        "original": "relative",
+        "translation": "相对的"
+    },
+    {
+        "original": "throw",
+        "translation": "投"
+    },
+    {
+        "original": "quality",
+        "translation": "质量"
+    },
+    {
+        "original": "former",
+        "translation": "前者的"
+    },
+    {
+        "original": "pull",
+        "translation": "拉"
+    },
+    {
+        "original": "chance",
+        "translation": "机会"
+    },
+    {
+        "original": "prove",
+        "translation": "证明"
+    },
+    {
+        "original": "argue",
+        "translation": "争论"
+    },
+    {
+        "original": "settle",
+        "translation": "解决"
+    },
+    {
+        "original": "growth",
+        "translation": "发育"
+    },
+    {
+        "original": "date",
+        "translation": "日期"
+    },
+    {
+        "original": "heat",
+        "translation": "热"
+    },
+    {
+        "original": "save",
+        "translation": "拯救"
+    },
+    {
+        "original": "performance",
+        "translation": "表演"
+    },
+    {
+        "original": "count",
+        "translation": "计数"
+    },
+    {
+        "original": "production",
+        "translation": "生产"
+    },
+    {
+        "original": "listen",
+        "translation": "听"
+    },
+    {
+        "original": "main",
+        "translation": "主要的"
+    },
+    {
+        "original": "pick",
+        "translation": "选择"
+    },
+    {
+        "original": "size",
+        "translation": "大小"
+    },
+    {
+        "original": "cool",
+        "translation": "凉的"
+    },
+    {
+        "original": "army",
+        "translation": "军队"
+    },
+    {
+        "original": "patient",
+        "translation": "病人"
+    },
+    {
+        "original": "combine",
+        "translation": "结合"
+    },
+    {
+        "original": "summer",
+        "translation": "夏天"
+    },
+    {
+        "original": "hall",
+        "translation": "门厅"
+    },
+    {
+        "original": "slight",
+        "translation": "轻微的"
+    },
+    {
+        "original": "command",
+        "translation": "命令"
+    },
+    {
+        "original": "enjoy",
+        "translation": "享受"
+    },
+    {
+        "original": "length",
+        "translation": "长"
+    },
+    {
+        "original": "proper",
+        "translation": "适当的"
+    },
+    {
+        "original": "express",
+        "translation": "表示"
+    },
+    {
+        "original": "health",
+        "translation": "健康"
+    },
+    {
+        "original": "chief",
+        "translation": "首领"
+    },
+    {
+        "original": "evening",
+        "translation": "傍晚"
+    },
+    {
+        "original": "store",
+        "translation": "百货商店"
+    },
+    {
+        "original": "language",
+        "translation": "语言"
+    },
+    {
+        "original": "degree",
+        "translation": "度"
+    },
+    {
+        "original": "lay",
+        "translation": "放置"
+    },
+    {
+        "original": "current",
+        "translation": "现在的"
+    },
+    {
+        "original": "gun",
+        "translation": "枪"
+    },
+    {
+        "original": "dog",
+        "translation": "狗"
+    },
+    {
+        "original": "hotel",
+        "translation": "酒店"
+    },
+    {
+        "original": "strange",
+        "translation": "奇怪的"
+    },
+    {
+        "original": "separate",
+        "translation": "分离"
+    },
+    {
+        "original": "boat",
+        "translation": "船"
+    },
+    {
+        "original": "fail",
+        "translation": "失败"
+    },
+    {
+        "original": "clean",
+        "translation": "清洁的"
+    },
+    {
+        "original": "dress",
+        "translation": "连衣裙"
+    },
+    {
+        "original": "anyone",
+        "translation": "任何人"
+    },
+    {
+        "original": "gain",
+        "translation": "获得"
+    },
+    {
+        "original": "pain",
+        "translation": "疼痛"
+    },
+    {
+        "original": "object",
+        "translation": "对象"
+    },
+    {
+        "original": "knowledge",
+        "translation": "知识"
+    },
+    {
+        "original": "depend",
+        "translation": "依赖"
+    },
+    {
+        "original": "relate",
+        "translation": "使有联系"
+    },
+    {
+        "original": "below",
+        "translation": "在下面"
+    },
+    {
+        "original": "dollar",
+        "translation": "美元"
+    },
+    {
+        "original": "advance",
+        "translation": "进展"
+    },
+    {
+        "original": "shape",
+        "translation": "形状"
+    },
+    {
+        "original": "arrange",
+        "translation": "安排"
+    },
+    {
+        "original": "population",
+        "translation": "人口"
+    },
+    {
+        "original": "yes",
+        "translation": "对"
+    },
+    {
+        "original": "sell",
+        "translation": "卖"
+    },
+    {
+        "original": "mention",
+        "translation": "提到"
+    },
+    {
+        "original": "dry",
+        "translation": "干的"
+    },
+    {
+        "original": "check",
+        "translation": "检查"
+    },
+    {
+        "original": "poet",
+        "translation": "诗人"
+    },
+    {
+        "original": "sleep",
+        "translation": "睡觉"
+    },
+    {
+        "original": "join",
+        "translation": "参加"
+    },
+    {
+        "original": "hot",
+        "translation": "热的"
+    },
+    {
+        "original": "bed",
+        "translation": "床"
+    },
+    {
+        "original": "electric",
+        "translation": "电的"
+    },
+    {
+        "original": "dream",
+        "translation": "梦"
+    },
+    {
+        "original": "due",
+        "translation": "由于"
+    },
+    {
+        "original": "season",
+        "translation": "季"
+    },
+    {
+        "original": "manner",
+        "translation": "方式"
+    },
+    {
+        "original": "fit",
+        "translation": "适合"
+    },
+    {
+        "original": "left",
+        "translation": "左边"
+    },
+    {
+        "original": "progress",
+        "translation": "进步"
+    },
+    {
+        "original": "neither",
+        "translation": "也不"
+    },
+    {
+        "original": "strength",
+        "translation": "力量"
+    },
+    {
+        "original": "notice",
+        "translation": "注意"
+    },
+    {
+        "original": "finish",
+        "translation": "完成"
+    },
+    {
+        "original": "opinion",
+        "translation": "意见"
+    },
+    {
+        "original": "bill",
+        "translation": "账单"
+    },
+    {
+        "original": "western",
+        "translation": "西部"
+    },
+    {
+        "original": "truth",
+        "translation": "真相"
+    },
+    {
+        "original": "wrong",
+        "translation": "错误的"
+    },
+    {
+        "original": "travel",
+        "translation": "长途行走"
+    },
+    {
+        "original": "suit",
+        "translation": "适合"
+    },
+    {
+        "original": "bank",
+        "translation": "银行"
+    },
+    {
+        "original": "exact",
+        "translation": "准确的"
+    },
+    {
+        "original": "honor",
+        "translation": "荣誉"
+    },
+    {
+        "original": "brother",
+        "translation": "兄弟"
+    },
+    {
+        "original": "quiet",
+        "translation": "轻声的"
+    },
+    {
+        "original": "marry",
+        "translation": "结婚"
+    },
+    {
+        "original": "corner",
+        "translation": "角"
+    },
+    {
+        "original": "handle",
+        "translation": "手柄"
+    },
+    {
+        "original": "danger",
+        "translation": "危险"
+    },
+    {
+        "original": "hospital",
+        "translation": "医院"
+    },
+    {
+        "original": "pool",
+        "translation": "水塘"
+    },
+    {
+        "original": "promise",
+        "translation": "许诺"
+    },
+    {
+        "original": "blood",
+        "translation": "血"
+    },
+    {
+        "original": "shoot",
+        "translation": "射击"
+    },
+    {
+        "original": "scene",
+        "translation": "场景"
+    },
+    {
+        "original": "literature",
+        "translation": "文学"
+    },
+    {
+        "original": "arrive",
+        "translation": "到达"
+    },
+    {
+        "original": "film",
+        "translation": "电影"
+    },
+    {
+        "original": "base",
+        "translation": "基础"
+    },
+    {
+        "original": "freedom",
+        "translation": "自由"
+    },
+    {
+        "original": "bar",
+        "translation": "酒吧"
+    },
+    {
+        "original": "maybe",
+        "translation": "大概"
+    },
+    {
+        "original": "hang",
+        "translation": "悬挂"
+    },
+    {
+        "original": "suffer",
+        "translation": "受苦"
+    },
+    {
+        "original": "manufacture",
+        "translation": "制造"
+    },
+    {
+        "original": "frequent",
+        "translation": "频繁的"
+    },
+    {
+        "original": "rock",
+        "translation": "岩石"
+    },
+    {
+        "original": "loss",
+        "translation": "丧失"
+    },
+    {
+        "original": "burn",
+        "translation": "燃烧"
+    },
+    {
+        "original": "audience",
+        "translation": "观众"
+    },
+    {
+        "original": "essential",
+        "translation": "本质的"
+    },
+    {
+        "original": "glass",
+        "translation": "玻璃"
+    },
+    {
+        "original": "prevent",
+        "translation": "防止"
+    },
+    {
+        "original": "poem",
+        "translation": "诗"
+    },
+    {
+        "original": "poor",
+        "translation": "贫穷的"
+    },
+    {
+        "original": "inch",
+        "translation": "英寸"
+    },
+    {
+        "original": "song",
+        "translation": "歌曲"
+    },
+    {
+        "original": "skill",
+        "translation": "技巧"
+    },
+    {
+        "original": "post",
+        "translation": "邮递"
+    },
+    {
+        "original": "popular",
+        "translation": "受喜爱的"
+    },
+    {
+        "original": "radio",
+        "translation": "无线电广播"
+    },
+    {
+        "original": "animal",
+        "translation": "动物"
+    },
+    {
+        "original": "conscious",
+        "translation": "有意识的"
+    },
+    {
+        "original": "worth",
+        "translation": "值得的"
+    },
+    {
+        "original": "eat",
+        "translation": "吃"
+    },
+    {
+        "original": "election",
+        "translation": "选举"
+    },
+    {
+        "original": "faith",
+        "translation": "信仰"
+    },
+    {
+        "original": "wave",
+        "translation": "波动"
+    },
+    {
+        "original": "murder",
+        "translation": "谋杀"
+    },
+    {
+        "original": "model",
+        "translation": "模型"
+    },
+    {
+        "original": "forget",
+        "translation": "忘记"
+    },
+    {
+        "original": "extend",
+        "translation": "延伸"
+    },
+    {
+        "original": "edge",
+        "translation": "边"
+    },
+    {
+        "original": "distance",
+        "translation": "距离"
+    },
+    {
+        "original": "memory",
+        "translation": "记忆力"
+    },
+    {
+        "original": "recommend",
+        "translation": "推荐"
+    },
+    {
+        "original": "division",
+        "translation": "分开"
+    },
+    {
+        "original": "staff",
+        "translation": "工作人员"
+    },
+    {
+        "original": "leg",
+        "translation": "腿"
+    },
+    {
+        "original": "discussion",
+        "translation": "讨论"
+    },
+    {
+        "original": "address",
+        "translation": "住址"
+    },
+    {
+        "original": "fly",
+        "translation": "飞"
+    },
+    {
+        "original": "dependent",
+        "translation": "依靠的"
+    },
+    {
+        "original": "ball",
+        "translation": "球"
+    },
+    {
+        "original": "shake",
+        "translation": "摇"
+    },
+    {
+        "original": "frame",
+        "translation": "框架"
+    },
+    {
+        "original": "extreme",
+        "translation": "极端"
+    },
+    {
+        "original": "engineer",
+        "translation": "工程师"
+    },
+    {
+        "original": "thick",
+        "translation": "厚的"
+    },
+    {
+        "original": "comfort",
+        "translation": "安慰"
+    },
+    {
+        "original": "latter",
+        "translation": "后者的"
+    },
+    {
+        "original": "camp",
+        "translation": "营地"
+    },
+    {
+        "original": "oil",
+        "translation": "油"
+    },
+    {
+        "original": "discover",
+        "translation": "发现"
+    },
+    {
+        "original": "examine",
+        "translation": "检查"
+    },
+    {
+        "original": "difficulty",
+        "translation": "困难"
+    },
+    {
+        "original": "tooth",
+        "translation": "牙齿"
+    },
+    {
+        "original": "middle",
+        "translation": "中间的"
+    },
+    {
+        "original": "choice",
+        "translation": "选择"
+    },
+    {
+        "original": "refer",
+        "translation": "参考"
+    },
+    {
+        "original": "enemy",
+        "translation": "敌人"
+    },
+    {
+        "original": "practical",
+        "translation": "实际的"
+    },
+    {
+        "original": "marriage",
+        "translation": "结婚"
+    },
+    {
+        "original": "bridge",
+        "translation": "桥"
+    },
+    {
+        "original": "declare",
+        "translation": "声明"
+    },
+    {
+        "original": "lady",
+        "translation": "女士"
+    },
+    {
+        "original": "cross",
+        "translation": "交叉"
+    },
+    {
+        "original": "daily",
+        "translation": "每日的"
+    },
+    {
+        "original": "afternoon",
+        "translation": "下午"
+    },
+    {
+        "original": "attend",
+        "translation": "出席"
+    },
+    {
+        "original": "director",
+        "translation": "经理"
+    },
+    {
+        "original": "balance",
+        "translation": "均衡"
+    },
+    {
+        "original": "wash",
+        "translation": "洗"
+    },
+    {
+        "original": "capital",
+        "translation": "首都"
+    },
+    {
+        "original": "speed",
+        "translation": "速度"
+    },
+    {
+        "original": "block",
+        "translation": "块"
+    },
+    {
+        "original": "citizen",
+        "translation": "公民"
+    },
+    {
+        "original": "mouth",
+        "translation": "嘴"
+    },
+    {
+        "original": "hill",
+        "translation": "山丘"
+    },
+    {
+        "original": "green",
+        "translation": "绿色"
+    },
+    {
+        "original": "please",
+        "translation": "请"
+    },
+    {
+        "original": "motor",
+        "translation": "发动机"
+    },
+    {
+        "original": "agency",
+        "translation": "机构"
+    },
+    {
+        "original": "encourage",
+        "translation": "支持"
+    },
+    {
+        "original": "governor",
+        "translation": "统治者"
+    },
+    {
+        "original": "worry",
+        "translation": "担心"
+    },
+    {
+        "original": "affair",
+        "translation": "公共事务"
+    },
+    {
+        "original": "shoulder",
+        "translation": "肩"
+    },
+    {
+        "original": "bright",
+        "translation": "光线充足的"
+    },
+    {
+        "original": "mass",
+        "translation": "大量"
+    },
+    {
+        "original": "sample",
+        "translation": "样品"
+    },
+    {
+        "original": "pretty",
+        "translation": "漂亮的"
+    },
+    {
+        "original": "repeat",
+        "translation": "重复"
+    },
+    {
+        "original": "roll",
+        "translation": "卷"
+    },
+    {
+        "original": "push",
+        "translation": "推"
+    },
+    {
+        "original": "trip",
+        "translation": "旅行"
+    },
+    {
+        "original": "council",
+        "translation": "委员会"
+    },
+    {
+        "original": "clothe",
+        "translation": "给…穿衣"
+    },
+    {
+        "original": "parent",
+        "translation": "父母亲"
+    },
+    {
+        "original": "forward",
+        "translation": "向前地"
+    },
+    {
+        "original": "sharp",
+        "translation": "锋利的"
+    },
+    {
+        "original": "straight",
+        "translation": "直的"
+    },
+    {
+        "original": "gas",
+        "translation": "气体"
+    },
+    {
+        "original": "weight",
+        "translation": "重量"
+    },
+    {
+        "original": "discuss",
+        "translation": "讨论"
+    },
+    {
+        "original": "fix",
+        "translation": "修理"
+    },
+    {
+        "original": "load",
+        "translation": "负载"
+    },
+    {
+        "original": "master",
+        "translation": "主人"
+    },
+    {
+        "original": "whatever",
+        "translation": "无论什么"
+    },
+    {
+        "original": "round",
+        "translation": "圆形的"
+    },
+    {
+        "original": "rapid",
+        "translation": "迅速的"
+    },
+    {
+        "original": "laugh",
+        "translation": "笑"
+    },
+    {
+        "original": "finger",
+        "translation": "手指"
+    },
+    {
+        "original": "spot",
+        "translation": "斑点"
+    },
+    {
+        "original": "propose",
+        "translation": "提议"
+    },
+    {
+        "original": "shop",
+        "translation": "商店"
+    },
+    {
+        "original": "broad",
+        "translation": "宽阔的"
+    },
+    {
+        "original": "replace",
+        "translation": "代替"
+    },
+    {
+        "original": "reply",
+        "translation": "回复"
+    },
+    {
+        "original": "extent",
+        "translation": "程度"
+    },
+    {
+        "original": "lock",
+        "translation": "锁"
+    },
+    {
+        "original": "employee",
+        "translation": "受雇者"
+    },
+    {
+        "original": "ahead",
+        "translation": "向前地"
+    },
+    {
+        "original": "sight",
+        "translation": "景象"
+    },
+    {
+        "original": "spread",
+        "translation": "传播"
+    },
+    {
+        "original": "wind",
+        "translation": "风"
+    },
+    {
+        "original": "approve",
+        "translation": "批准"
+    },
+    {
+        "original": "destroy",
+        "translation": "摧毁"
+    },
+    {
+        "original": "none",
+        "translation": "没有一个"
+    },
+    {
+        "original": "pound",
+        "translation": "英镑"
+    },
+    {
+        "original": "fame",
+        "translation": "名声"
+    },
+    {
+        "original": "importance",
+        "translation": "重要性"
+    },
+    {
+        "original": "reflect",
+        "translation": "反映"
+    },
+    {
+        "original": "advantage",
+        "translation": "有利条件"
+    },
+    {
+        "original": "match",
+        "translation": "火柴"
+    },
+    {
+        "original": "regular",
+        "translation": "有规律的"
+    },
+    {
+        "original": "wage",
+        "translation": "工资"
+    },
+    {
+        "original": "refuse",
+        "translation": "拒绝"
+    },
+    {
+        "original": "existence",
+        "translation": "存在"
+    },
+    {
+        "original": "hardly",
+        "translation": "几乎不"
+    },
+    {
+        "original": "perform",
+        "translation": "表演"
+    },
+    {
+        "original": "title",
+        "translation": "标题"
+    },
+    {
+        "original": "tend",
+        "translation": "倾向"
+    },
+    {
+        "original": "exercise",
+        "translation": "运动"
+    },
+    {
+        "original": "thin",
+        "translation": "薄的"
+    },
+    {
+        "original": "coat",
+        "translation": "外套"
+    },
+    {
+        "original": "bit",
+        "translation": "一点"
+    },
+    {
+        "original": "mountain",
+        "translation": "山"
+    },
+    {
+        "original": "youth",
+        "translation": "青年"
+    },
+    {
+        "original": "behavior",
+        "translation": "行为"
+    },
+    {
+        "original": "newspaper",
+        "translation": "报纸"
+    },
+    {
+        "original": "secret",
+        "translation": "秘密"
+    },
+    {
+        "original": "ability",
+        "translation": "能力"
+    },
+    {
+        "original": "sea",
+        "translation": "海"
+    },
+    {
+        "original": "soft",
+        "translation": "软的"
+    },
+    {
+        "original": "justice",
+        "translation": "公平"
+    },
+    {
+        "original": "reasonable",
+        "translation": "公平的"
+    },
+    {
+        "original": "circle",
+        "translation": "圆圈"
+    },
+    {
+        "original": "solid",
+        "translation": "固体"
+    },
+    {
+        "original": "page",
+        "translation": "页"
+    },
+    {
+        "original": "weapon",
+        "translation": "武器"
+    },
+    {
+        "original": "fast",
+        "translation": "快速的"
+    },
+    {
+        "original": "representative",
+        "translation": "代表"
+    },
+    {
+        "original": "search",
+        "translation": "搜索"
+    },
+    {
+        "original": "pure",
+        "translation": "纯净的"
+    },
+    {
+        "original": "escape",
+        "translation": "逃跑"
+    },
+    {
+        "original": "crowd",
+        "translation": "人群"
+    },
+    {
+        "original": "stick",
+        "translation": "粘贴"
+    },
+    {
+        "original": "telephone",
+        "translation": "电话"
+    },
+    {
+        "original": "avoid",
+        "translation": "避免"
+    },
+    {
+        "original": "garden",
+        "translation": "花园"
+    },
+    {
+        "original": "favor",
+        "translation": "赞成"
+    },
+    {
+        "original": "news",
+        "translation": "消息"
+    },
+    {
+        "original": "unless",
+        "translation": "除非"
+    },
+    {
+        "original": "dinner",
+        "translation": "晚餐"
+    },
+    {
+        "original": "someone",
+        "translation": "某人"
+    },
+    {
+        "original": "100",
+        "translation": "100"
+    },
+    {
+        "original": "yard",
+        "translation": "院子"
+    },
+    {
+        "original": "ideal",
+        "translation": "完美的"
+    },
+    {
+        "original": "warm",
+        "translation": "温暖的"
+    },
+    {
+        "original": "miss",
+        "translation": "未击中"
+    },
+    {
+        "original": "shelter",
+        "translation": "避难所"
+    },
+    {
+        "original": "soldier",
+        "translation": "士兵"
+    },
+    {
+        "original": "article",
+        "translation": "文章"
+    },
+    {
+        "original": "cry",
+        "translation": "哭泣"
+    },
+    {
+        "original": "captain",
+        "translation": "船长"
+    },
+    {
+        "original": "familiar",
+        "translation": "熟悉的"
+    },
+    {
+        "original": "seat",
+        "translation": "座位"
+    },
+    {
+        "original": "guest",
+        "translation": "客人"
+    },
+    {
+        "original": "weak",
+        "translation": "虚弱的"
+    },
+    {
+        "original": "excite",
+        "translation": "使激动"
+    },
+    {
+        "original": "king",
+        "translation": "君主"
+    },
+    {
+        "original": "everyone",
+        "translation": "每个人"
+    },
+    {
+        "original": "wine",
+        "translation": "葡萄酒"
+    },
+    {
+        "original": "hole",
+        "translation": "洞"
+    },
+    {
+        "original": "duty",
+        "translation": "责任"
+    },
+    {
+        "original": "beat",
+        "translation": "击败"
+    },
+    {
+        "original": "perfect",
+        "translation": "完美的"
+    },
+    {
+        "original": "bottom",
+        "translation": "底部"
+    },
+    {
+        "original": "compose",
+        "translation": "组成"
+    },
+    {
+        "original": "battle",
+        "translation": "战争"
+    },
+    {
+        "original": "expense",
+        "translation": "费用"
+    },
+    {
+        "original": "cattle",
+        "translation": "牛"
+    },
+    {
+        "original": "flow",
+        "translation": "流"
+    },
+    {
+        "original": "kitchen",
+        "translation": "厨房"
+    },
+    {
+        "original": "dust",
+        "translation": "灰尘"
+    },
+    {
+        "original": "bottle",
+        "translation": "瓶子"
+    },
+    {
+        "original": "admit",
+        "translation": "承认"
+    },
+    {
+        "original": "tear",
+        "translation": "撕裂"
+    },
+    {
+        "original": "tire",
+        "translation": "使疲劳"
+    },
+    {
+        "original": "expression",
+        "translation": "表示"
+    },
+    {
+        "original": "exception",
+        "translation": "例外"
+    },
+    {
+        "original": "application",
+        "translation": "应用"
+    },
+    {
+        "original": "belong",
+        "translation": "属于"
+    },
+    {
+        "original": "rich",
+        "translation": "富有的"
+    },
+    {
+        "original": "failure",
+        "translation": "失败"
+    },
+    {
+        "original": "struggle",
+        "translation": "奋斗"
+    },
+    {
+        "original": "instrument",
+        "translation": "仪器"
+    },
+    {
+        "original": "variety",
+        "translation": "不同种类"
+    },
+    {
+        "original": "narrow",
+        "translation": "狭窄的"
+    },
+    {
+        "original": "theater",
+        "translation": "剧院"
+    },
+    {
+        "original": "collection",
+        "translation": "收集"
+    },
+    {
+        "original": "rain",
+        "translation": "雨"
+    },
+    {
+        "original": "review",
+        "translation": "回顾"
+    },
+    {
+        "original": "preserve",
+        "translation": "保护"
+    },
+    {
+        "original": "leadership",
+        "translation": "领导"
+    },
+    {
+        "original": "clay",
+        "translation": "黏土"
+    },
+    {
+        "original": "daughter",
+        "translation": "女儿"
+    },
+    {
+        "original": "fellow",
+        "translation": "同伴"
+    },
+    {
+        "original": "swing",
+        "translation": "摆动"
+    },
+    {
+        "original": "thank",
+        "translation": "感谢"
+    },
+    {
+        "original": "library",
+        "translation": "图书馆"
+    },
+    {
+        "original": "fat",
+        "translation": "脂肪"
+    },
+    {
+        "original": "reserve",
+        "translation": "储备"
+    },
+    {
+        "original": "tour",
+        "translation": "旅行"
+    },
+    {
+        "original": "nice",
+        "translation": "美好的"
+    },
+    {
+        "original": "warn",
+        "translation": "警告"
+    },
+    {
+        "original": "ring",
+        "translation": "戒指"
+    },
+    {
+        "original": "bitter",
+        "translation": "苦的"
+    },
+    {
+        "original": "chair",
+        "translation": "椅子"
+    },
+    {
+        "original": "yesterday",
+        "translation": "昨天"
+    },
+    {
+        "original": "scientific",
+        "translation": "科学的"
+    },
+    {
+        "original": "flower",
+        "translation": "花"
+    },
+    {
+        "original": "wheel",
+        "translation": "轮"
+    },
+    {
+        "original": "solution",
+        "translation": "解决方案"
+    },
+    {
+        "original": "aim",
+        "translation": "目标"
+    },
+    {
+        "original": "gather",
+        "translation": "聚集"
+    },
+    {
+        "original": "invite",
+        "translation": "邀请"
+    },
+    {
+        "original": "moreover",
+        "translation": "此外"
+    },
+    {
+        "original": "fresh",
+        "translation": "新鲜的"
+    },
+    {
+        "original": "forest",
+        "translation": "森林"
+    },
+    {
+        "original": "winter",
+        "translation": "冬天"
+    },
+    {
+        "original": "box",
+        "translation": "盒"
+    },
+    {
+        "original": "belief",
+        "translation": "相信"
+    },
+    {
+        "original": "ordinary",
+        "translation": "普通的"
+    },
+    {
+        "original": "impossible",
+        "translation": "不可能的"
+    },
+    {
+        "original": "print",
+        "translation": "打印"
+    },
+    {
+        "original": "gray",
+        "translation": "灰色"
+    },
+    {
+        "original": "taste",
+        "translation": "味道"
+    },
+    {
+        "original": "lip",
+        "translation": "嘴唇"
+    },
+    {
+        "original": "speech",
+        "translation": "演讲"
+    },
+    {
+        "original": "reference",
+        "translation": "参考"
+    },
+    {
+        "original": "stain",
+        "translation": "污点"
+    },
+    {
+        "original": "connection",
+        "translation": "联系"
+    },
+    {
+        "original": "otherwise",
+        "translation": "否则"
+    },
+    {
+        "original": "stretch",
+        "translation": "伸展"
+    },
+    {
+        "original": "knife",
+        "translation": "刀"
+    },
+    {
+        "original": "village",
+        "translation": "村庄"
+    },
+    {
+        "original": "blow",
+        "translation": "吹"
+    },
+    {
+        "original": "mistake",
+        "translation": "错误"
+    },
+    {
+        "original": "sweet",
+        "translation": "含糖的"
+    },
+    {
+        "original": "shout",
+        "translation": "呼喊"
+    },
+    {
+        "original": "divide",
+        "translation": "分"
+    },
+    {
+        "original": "guard",
+        "translation": "警卫"
+    },
+    {
+        "original": "worse",
+        "translation": "更糟的"
+    },
+    {
+        "original": "exchange",
+        "translation": "交换"
+    },
+    {
+        "original": "rare",
+        "translation": "稀有的"
+    },
+    {
+        "original": "commercial",
+        "translation": "贸易的"
+    },
+    {
+        "original": "request",
+        "translation": "要求"
+    },
+    {
+        "original": "appoint",
+        "translation": "任命"
+    },
+    {
+        "original": "agent",
+        "translation": "代理人"
+    },
+    {
+        "original": "dependence",
+        "translation": "依赖"
+    },
+    {
+        "original": "bird",
+        "translation": "鸟"
+    },
+    {
+        "original": "wild",
+        "translation": "自然生长的"
+    },
+    {
+        "original": "motion",
+        "translation": "运动"
+    },
+    {
+        "original": "guess",
+        "translation": "猜测"
+    },
+    {
+        "original": "neighbor",
+        "translation": "邻居"
+    },
+    {
+        "original": "seed",
+        "translation": "种子"
+    },
+    {
+        "original": "fashion",
+        "translation": "时尚"
+    },
+    {
+        "original": "loan",
+        "translation": "贷款"
+    },
+    {
+        "original": "correct",
+        "translation": "对的"
+    },
+    {
+        "original": "plain",
+        "translation": "平原"
+    },
+    {
+        "original": "mail",
+        "translation": "邮政"
+    },
+    {
+        "original": "retire",
+        "translation": "退休"
+    },
+    {
+        "original": "opposite",
+        "translation": "对面的"
+    },
+    {
+        "original": "prefer",
+        "translation": "更喜欢"
+    },
+    {
+        "original": "safe",
+        "translation": "安全"
+    },
+    {
+        "original": "evil",
+        "translation": "恶毒的"
+    },
+    {
+        "original": "double",
+        "translation": "双重的"
+    },
+    {
+        "original": "wood",
+        "translation": "木材"
+    },
+    {
+        "original": "empty",
+        "translation": "空的"
+    },
+    {
+        "original": "baby",
+        "translation": "宝贝"
+    },
+    {
+        "original": "advise",
+        "translation": "劝告"
+    },
+    {
+        "original": "content",
+        "translation": "所容纳之物"
+    },
+    {
+        "original": "sport",
+        "translation": "运动"
+    },
+    {
+        "original": "lift",
+        "translation": "举起"
+    },
+    {
+        "original": "literary",
+        "translation": "文学的"
+    },
+    {
+        "original": "curious",
+        "translation": "好奇的"
+    },
+    {
+        "original": "tie",
+        "translation": "领带"
+    },
+    {
+        "original": "flat",
+        "translation": "平的"
+    },
+    {
+        "original": "message",
+        "translation": "消息"
+    },
+    {
+        "original": "neck",
+        "translation": "脖子"
+    },
+    {
+        "original": "hate",
+        "translation": "憎恨"
+    },
+    {
+        "original": "dirt",
+        "translation": "污垢"
+    },
+    {
+        "original": "delight",
+        "translation": "高兴"
+    },
+    {
+        "original": "trust",
+        "translation": "相信"
+    },
+    {
+        "original": "nobody",
+        "translation": "没有人"
+    },
+    {
+        "original": "valley",
+        "translation": "山谷"
+    },
+    {
+        "original": "tool",
+        "translation": "工具"
+    },
+    {
+        "original": "presence",
+        "translation": "在场"
+    },
+    {
+        "original": "cook",
+        "translation": "烹调"
+    },
+    {
+        "original": "railroad",
+        "translation": "铁路"
+    },
+    {
+        "original": "minister",
+        "translation": "部长"
+    },
+    {
+        "original": "coffee",
+        "translation": "咖啡"
+    },
+    {
+        "original": "brush",
+        "translation": "刷子"
+    },
+    {
+        "original": "beside",
+        "translation": "在旁边"
+    },
+    {
+        "original": "collect",
+        "translation": "收集"
+    },
+    {
+        "original": "guide",
+        "translation": "指导"
+    },
+    {
+        "original": "luck",
+        "translation": "好运"
+    },
+    {
+        "original": "profit",
+        "translation": "利润"
+    },
+    {
+        "original": "lord",
+        "translation": "贵族"
+    },
+    {
+        "original": "everybody",
+        "translation": "每个人"
+    },
+    {
+        "original": "prison",
+        "translation": "监狱"
+    },
+    {
+        "original": "cloud",
+        "translation": "云"
+    },
+    {
+        "original": "slave",
+        "translation": "奴隶"
+    },
+    {
+        "original": "chairman",
+        "translation": "主席"
+    },
+    {
+        "original": "soil",
+        "translation": "土壤"
+    },
+    {
+        "original": "distinguish",
+        "translation": "区分"
+    },
+    {
+        "original": "introduce",
+        "translation": "介绍"
+    },
+    {
+        "original": "urge",
+        "translation": "催促"
+    },
+    {
+        "original": "blind",
+        "translation": "失明的"
+    },
+    {
+        "original": "arise",
+        "translation": "发生"
+    },
+    {
+        "original": "upper",
+        "translation": "上面的"
+    },
+    {
+        "original": "curve",
+        "translation": "曲线"
+    },
+    {
+        "original": "membership",
+        "translation": "会员"
+    },
+    {
+        "original": "key",
+        "translation": "钥匙"
+    },
+    {
+        "original": "entertain",
+        "translation": "招待"
+    },
+    {
+        "original": "soul",
+        "translation": "灵魂"
+    },
+    {
+        "original": "neighborhood",
+        "translation": "邻里"
+    },
+    {
+        "original": "friendly",
+        "translation": "友爱的"
+    },
+    {
+        "original": "pair",
+        "translation": "一对"
+    },
+    {
+        "original": "stone",
+        "translation": "石"
+    },
+    {
+        "original": "lean",
+        "translation": "前俯"
+    },
+    {
+        "original": "protect",
+        "translation": "保护"
+    },
+    {
+        "original": "advertise",
+        "translation": "做广告"
+    },
+    {
+        "original": "mystery",
+        "translation": "神秘的事物"
+    },
+    {
+        "original": "welcome",
+        "translation": "欢迎"
+    },
+    {
+        "original": "knee",
+        "translation": "膝"
+    },
+    {
+        "original": "jump",
+        "translation": "跳"
+    },
+    {
+        "original": "snake",
+        "translation": "蛇"
+    },
+    {
+        "original": "stream",
+        "translation": "流动"
+    },
+    {
+        "original": "avenue",
+        "translation": "大街"
+    },
+    {
+        "original": "brown",
+        "translation": "棕色的"
+    },
+    {
+        "original": "disease",
+        "translation": "病"
+    },
+    {
+        "original": "hat",
+        "translation": "帽子"
+    },
+    {
+        "original": "excellent",
+        "translation": "杰出的"
+    },
+    {
+        "original": "formal",
+        "translation": "正式的"
+    },
+    {
+        "original": "snow",
+        "translation": "雪"
+    },
+    {
+        "original": "sheet",
+        "translation": "床单"
+    },
+    {
+        "original": "somehow",
+        "translation": "以某种方式"
+    },
+    {
+        "original": "unity",
+        "translation": "团结一致"
+    },
+    {
+        "original": "sky",
+        "translation": "天"
+    },
+    {
+        "original": "rough",
+        "translation": "粗糙的"
+    },
+    {
+        "original": "smooth",
+        "translation": "平整的"
+    },
+    {
+        "original": "weather",
+        "translation": "天气"
+    },
+    {
+        "original": "steady",
+        "translation": "稳步的"
+    },
+    {
+        "original": "threaten",
+        "translation": "扬言要"
+    },
+    {
+        "original": "depth",
+        "translation": "深度"
+    },
+    {
+        "original": "oppose",
+        "translation": "反对"
+    },
+    {
+        "original": "deliver",
+        "translation": "传送"
+    },
+    {
+        "original": "ancient",
+        "translation": "古代的"
+    },
+    {
+        "original": "pray",
+        "translation": "祈祷"
+    },
+    {
+        "original": "adopt",
+        "translation": "采用"
+    },
+    {
+        "original": "birth",
+        "translation": "出生"
+    },
+    {
+        "original": "appearance",
+        "translation": "外貌"
+    },
+    {
+        "original": "universe",
+        "translation": "宇宙"
+    },
+    {
+        "original": "busy",
+        "translation": "忙碌的"
+    },
+    {
+        "original": "hurry",
+        "translation": "匆忙"
+    },
+    {
+        "original": "coast",
+        "translation": "海岸"
+    },
+    {
+        "original": "forth",
+        "translation": "向前地"
+    },
+    {
+        "original": "smell",
+        "translation": "气味"
+    },
+    {
+        "original": "furnish",
+        "translation": "布置家具"
+    },
+    {
+        "original": "female",
+        "translation": "女的"
+    },
+    {
+        "original": "hide",
+        "translation": "隐藏"
+    },
+    {
+        "original": "wire",
+        "translation": "金属丝"
+    },
+    {
+        "original": "proposal",
+        "translation": "提议"
+    },
+    {
+        "original": "ought",
+        "translation": "应该"
+    },
+    {
+        "original": "victory",
+        "translation": "胜利"
+    },
+    {
+        "original": "quarter",
+        "translation": "一刻钟"
+    },
+    {
+        "original": "engine",
+        "translation": "发动机"
+    },
+    {
+        "original": "customer",
+        "translation": "顾客"
+    },
+    {
+        "original": "waste",
+        "translation": "浪费"
+    },
+    {
+        "original": "fool",
+        "translation": "蠢人"
+    },
+    {
+        "original": "intend",
+        "translation": "打算"
+    },
+    {
+        "original": "intention",
+        "translation": "打算"
+    },
+    {
+        "original": "desk",
+        "translation": "书桌"
+    },
+    {
+        "original": "politics",
+        "translation": "政治"
+    },
+    {
+        "original": "passage",
+        "translation": "通道"
+    },
+    {
+        "original": "root",
+        "translation": "根"
+    },
+    {
+        "original": "climb",
+        "translation": "攀登"
+    },
+    {
+        "original": "metal",
+        "translation": "金属"
+    },
+    {
+        "original": "gradual",
+        "translation": "逐渐的"
+    },
+    {
+        "original": "hunt",
+        "translation": "打猎"
+    },
+    {
+        "original": "protection",
+        "translation": "保护"
+    },
+    {
+        "original": "satisfy",
+        "translation": "满足"
+    },
+    {
+        "original": "roof",
+        "translation": "顶部"
+    },
+    {
+        "original": "branch",
+        "translation": "树枝"
+    },
+    {
+        "original": "pleasure",
+        "translation": "高兴"
+    },
+    {
+        "original": "witness",
+        "translation": "目击者"
+    },
+    {
+        "original": "loose",
+        "translation": "释放"
+    },
+    {
+        "original": "nose",
+        "translation": "鼻"
+    },
+    {
+        "original": "mine",
+        "translation": "矿"
+    },
+    {
+        "original": "band",
+        "translation": "乐队"
+    },
+    {
+        "original": "aside",
+        "translation": "在一边"
+    },
+    {
+        "original": "risk",
+        "translation": "危险"
+    },
+    {
+        "original": "tomorrow",
+        "translation": "明天"
+    },
+    {
+        "original": "remind",
+        "translation": "提醒"
+    },
+    {
+        "original": "ear",
+        "translation": "耳朵"
+    },
+    {
+        "original": "fish",
+        "translation": "鱼"
+    },
+    {
+        "original": "shore",
+        "translation": "岸"
+    },
+    {
+        "original": "operator",
+        "translation": "操作人员"
+    },
+    {
+        "original": "civilize",
+        "translation": "教化"
+    },
+    {
+        "original": "being",
+        "translation": "存在"
+    },
+    {
+        "original": "silent",
+        "translation": "不说话的"
+    },
+    {
+        "original": "screen",
+        "translation": "屏幕"
+    },
+    {
+        "original": "bind",
+        "translation": "绑定"
+    },
+    {
+        "original": "earn",
+        "translation": "赚"
+    },
+    {
+        "original": "pack",
+        "translation": "收拾"
+    },
+    {
+        "original": "colony",
+        "translation": "殖民地"
+    },
+    {
+        "original": "besides",
+        "translation": "此外"
+    },
+    {
+        "original": "slip",
+        "translation": "滑倒"
+    },
+    {
+        "original": "cousin",
+        "translation": "表妹"
+    },
+    {
+        "original": "scale",
+        "translation": "规模"
+    },
+    {
+        "original": "relief",
+        "translation": "救济"
+    },
+    {
+        "original": "explore",
+        "translation": "勘探"
+    },
+    {
+        "original": "stem",
+        "translation": "茎"
+    },
+    {
+        "original": "brain",
+        "translation": "脑"
+    },
+    {
+        "original": "musician",
+        "translation": "音乐家"
+    },
+    {
+        "original": "defend",
+        "translation": "防御"
+    },
+    {
+        "original": "bend",
+        "translation": "弯曲"
+    },
+    {
+        "original": "somebody",
+        "translation": "某人"
+    },
+    {
+        "original": "shadow",
+        "translation": "阴影"
+    },
+    {
+        "original": "mix",
+        "translation": "混合"
+    },
+    {
+        "original": "smoke",
+        "translation": "烟"
+    },
+    {
+        "original": "description",
+        "translation": "描述"
+    },
+    {
+        "original": "fruit",
+        "translation": "水果"
+    },
+    {
+        "original": "guilt",
+        "translation": "内疚"
+    },
+    {
+        "original": "yield",
+        "translation": "产量"
+    },
+    {
+        "original": "sensitive",
+        "translation": "敏感的"
+    },
+    {
+        "original": "salt",
+        "translation": "盐"
+    },
+    {
+        "original": "pale",
+        "translation": "灰白的"
+    },
+    {
+        "original": "sweep",
+        "translation": "打扫"
+    },
+    {
+        "original": "completion",
+        "translation": "完成"
+    },
+    {
+        "original": "throat",
+        "translation": "咽喉"
+    },
+    {
+        "original": "agriculture",
+        "translation": "农业"
+    },
+    {
+        "original": "admire",
+        "translation": "钦佩"
+    },
+    {
+        "original": "gentle",
+        "translation": "温和的"
+    },
+    {
+        "original": "dozen",
+        "translation": "打"
+    },
+    {
+        "original": "particle",
+        "translation": "微粒"
+    },
+    {
+        "original": "pleasant",
+        "translation": "令人愉快的"
+    },
+    {
+        "original": "bay",
+        "translation": "海湾"
+    },
+    {
+        "original": "cup",
+        "translation": "杯子"
+    },
+    {
+        "original": "competition",
+        "translation": "竞争"
+    },
+    {
+        "original": "moon",
+        "translation": "月球"
+    },
+    {
+        "original": "terrible",
+        "translation": "可怕的"
+    },
+    {
+        "original": "strip",
+        "translation": "带"
+    },
+    {
+        "original": "mechanic",
+        "translation": "技工"
+    },
+    {
+        "original": "shock",
+        "translation": "震惊"
+    },
+    {
+        "original": "conversation",
+        "translation": "会话"
+    },
+    {
+        "original": "angle",
+        "translation": "角"
+    },
+    {
+        "original": "tall",
+        "translation": "高的"
+    },
+    {
+        "original": "plenty",
+        "translation": "大量"
+    },
+    {
+        "original": "star",
+        "translation": "明星"
+    },
+    {
+        "original": "yellow",
+        "translation": "黄的"
+    },
+    {
+        "original": "sick",
+        "translation": "生病的"
+    },
+    {
+        "original": "thorough",
+        "translation": "彻底的"
+    },
+    {
+        "original": "absolute",
+        "translation": "完全的"
+    },
+    {
+        "original": "succeed",
+        "translation": "达到目的"
+    },
+    {
+        "original": "surround",
+        "translation": "围绕"
+    },
+    {
+        "original": "proud",
+        "translation": "自豪的"
+    },
+    {
+        "original": "dear",
+        "translation": "亲爱的"
+    },
+    {
+        "original": "card",
+        "translation": "卡片"
+    },
+    {
+        "original": "lake",
+        "translation": "湖"
+    },
+    {
+        "original": "breath",
+        "translation": "呼吸的空气"
+    },
+    {
+        "original": "afraid",
+        "translation": "害怕的"
+    },
+    {
+        "original": "silence",
+        "translation": "寂静"
+    },
+    {
+        "original": "onto",
+        "translation": "向"
+    },
+    {
+        "original": "shoe",
+        "translation": "鞋"
+    },
+    {
+        "original": "somewhere",
+        "translation": "在某处"
+    },
+    {
+        "original": "chain",
+        "translation": "链条"
+    },
+    {
+        "original": "slide",
+        "translation": "滑动"
+    },
+    {
+        "original": "copy",
+        "translation": "复制"
+    },
+    {
+        "original": "machinery",
+        "translation": "机械"
+    },
+    {
+        "original": "wake",
+        "translation": "醒"
+    },
+    {
+        "original": "severe",
+        "translation": "严峻的"
+    },
+    {
+        "original": "pocket",
+        "translation": "衣袋"
+    },
+    {
+        "original": "bone",
+        "translation": "骨头"
+    },
+    {
+        "original": "honest",
+        "translation": "诚实的"
+    },
+    {
+        "original": "freeze",
+        "translation": "冻结"
+    },
+    {
+        "original": "dictionary",
+        "translation": "词典"
+    },
+    {
+        "original": "calm",
+        "translation": "平静的"
+    },
+    {
+        "original": "swim",
+        "translation": "游水"
+    },
+    {
+        "original": "ice",
+        "translation": "冰"
+    },
+    {
+        "original": "male",
+        "translation": "男性的"
+    },
+    {
+        "original": "skin",
+        "translation": "皮"
+    },
+    {
+        "original": "crack",
+        "translation": "裂纹"
+    },
+    {
+        "original": "rush",
+        "translation": "冲"
+    },
+    {
+        "original": "wet",
+        "translation": "潮湿的"
+    },
+    {
+        "original": "meat",
+        "translation": "肉"
+    },
+    {
+        "original": "commerce",
+        "translation": "商业"
+    },
+    {
+        "original": "joint",
+        "translation": "共同的"
+    },
+    {
+        "original": "gift",
+        "translation": "礼物"
+    },
+    {
+        "original": "host",
+        "translation": "主办"
+    },
+    {
+        "original": "suspect",
+        "translation": "犯罪嫌疑人"
+    },
+    {
+        "original": "path",
+        "translation": "路径"
+    },
+    {
+        "original": "uncle",
+        "translation": "叔叔"
+    },
+    {
+        "original": "afford",
+        "translation": "负担得起"
+    },
+    {
+        "original": "instant",
+        "translation": "瞬间"
+    },
+    {
+        "original": "satisfactory",
+        "translation": "令人满意的"
+    },
+    {
+        "original": "height",
+        "translation": "身高"
+    },
+    {
+        "original": "track",
+        "translation": "轨道"
+    },
+    {
+        "original": "confidence",
+        "translation": "信心"
+    },
+    {
+        "original": "grass",
+        "translation": "草"
+    },
+    {
+        "original": "suggestion",
+        "translation": "建议"
+    },
+    {
+        "original": "favorite",
+        "translation": "最喜欢的"
+    },
+    {
+        "original": "breakfast",
+        "translation": "早餐"
+    },
+    {
+        "original": "apart",
+        "translation": "分开地"
+    },
+    {
+        "original": "chest",
+        "translation": "胸部"
+    },
+    {
+        "original": "entrance",
+        "translation": "入口"
+    },
+    {
+        "original": "march",
+        "translation": "前进"
+    },
+    {
+        "original": "sink",
+        "translation": "下沉"
+    },
+    {
+        "original": "northern",
+        "translation": "北方的"
+    },
+    {
+        "original": "iron",
+        "translation": "铁"
+    },
+    {
+        "original": "alive",
+        "translation": "活着的"
+    },
+    {
+        "original": "ill",
+        "translation": "生病的"
+    },
+    {
+        "original": "bag",
+        "translation": "纸袋"
+    },
+    {
+        "original": "disturb",
+        "translation": "打扰"
+    },
+    {
+        "original": "native",
+        "translation": "出生地的"
+    },
+    {
+        "original": "bedroom",
+        "translation": "卧室"
+    },
+    {
+        "original": "violent",
+        "translation": "暴力的"
+    },
+    {
+        "original": "beneath",
+        "translation": "在下方"
+    },
+    {
+        "original": "pause",
+        "translation": "暂停"
+    },
+    {
+        "original": "tough",
+        "translation": "艰苦的"
+    },
+    {
+        "original": "substance",
+        "translation": "物质"
+    },
+    {
+        "original": "threat",
+        "translation": "威胁"
+    },
+    {
+        "original": "charm",
+        "translation": "魅力"
+    },
+    {
+        "original": "absence",
+        "translation": "缺席"
+    },
+    {
+        "original": "factory",
+        "translation": "工厂"
+    },
+    {
+        "original": "spite",
+        "translation": "恶意"
+    },
+    {
+        "original": "meal",
+        "translation": "一餐"
+    },
+    {
+        "original": "universal",
+        "translation": "普遍的"
+    },
+    {
+        "original": "accident",
+        "translation": "事故"
+    },
+    {
+        "original": "highway",
+        "translation": "公路"
+    },
+    {
+        "original": "sentence",
+        "translation": "句子"
+    },
+    {
+        "original": "liberty",
+        "translation": "自由"
+    },
+    {
+        "original": "wise",
+        "translation": "明智的"
+    },
+    {
+        "original": "noise",
+        "translation": "噪音"
+    },
+    {
+        "original": "discovery",
+        "translation": "发现"
+    },
+    {
+        "original": "tube",
+        "translation": "管"
+    },
+    {
+        "original": "flash",
+        "translation": "闪光"
+    },
+    {
+        "original": "twist",
+        "translation": "扭曲"
+    },
+    {
+        "original": "fence",
+        "translation": "栅栏"
+    },
+    {
+        "original": "childhood",
+        "translation": "童年"
+    },
+    {
+        "original": "joy",
+        "translation": "快乐"
+    },
+    {
+        "original": "sister",
+        "translation": "姐妹"
+    },
+    {
+        "original": "sad",
+        "translation": "悲哀的"
+    },
+    {
+        "original": "efficiency",
+        "translation": "效率"
+    },
+    {
+        "original": "disappear",
+        "translation": "消失"
+    },
+    {
+        "original": "defeat",
+        "translation": "击败"
+    },
+    {
+        "original": "extensive",
+        "translation": "广阔的"
+    },
+    {
+        "original": "rent",
+        "translation": "租金"
+    },
+    {
+        "original": "comparison",
+        "translation": "比较"
+    },
+    {
+        "original": "possess",
+        "translation": "有"
+    },
+    {
+        "original": "grace",
+        "translation": "优美"
+    },
+    {
+        "original": "flesh",
+        "translation": "肉"
+    },
+    {
+        "original": "liquid",
+        "translation": "液体"
+    },
+    {
+        "original": "scientist",
+        "translation": "科学家"
+    },
+    {
+        "original": "ease",
+        "translation": "缓解"
+    },
+    {
+        "original": "heaven",
+        "translation": "天堂"
+    },
+    {
+        "original": "milk",
+        "translation": "牛奶"
+    },
+    {
+        "original": "sympathy",
+        "translation": "同情"
+    },
+    {
+        "original": "rank",
+        "translation": "等级"
+    },
+    {
+        "original": "restaurant",
+        "translation": "餐馆"
+    },
+    {
+        "original": "frequency",
+        "translation": "频率"
+    },
+    {
+        "original": "angry",
+        "translation": "发怒的"
+    },
+    {
+        "original": "shade",
+        "translation": "阴凉处"
+    },
+    {
+        "original": "accuse",
+        "translation": "指责"
+    },
+    {
+        "original": "necessity",
+        "translation": "必然性"
+    },
+    {
+        "original": "knock",
+        "translation": "敲"
+    },
+    {
+        "original": "loud",
+        "translation": "大声的"
+    },
+    {
+        "original": "permanent",
+        "translation": "永久的"
+    },
+    {
+        "original": "row",
+        "translation": "一行"
+    },
+    {
+        "original": "lovely",
+        "translation": "美丽的"
+    },
+    {
+        "original": "confuse",
+        "translation": "混淆"
+    },
+    {
+        "original": "gold",
+        "translation": "金"
+    },
+    {
+        "original": "frighten",
+        "translation": "吓唬"
+    },
+    {
+        "original": "solve",
+        "translation": "解决"
+    },
+    {
+        "original": "grave",
+        "translation": "坟墓"
+    },
+    {
+        "original": "salary",
+        "translation": "薪水"
+    },
+    {
+        "original": "photograph",
+        "translation": "照片"
+    },
+    {
+        "original": "advice",
+        "translation": "劝告"
+    },
+    {
+        "original": "abroad",
+        "translation": "国外"
+    },
+    {
+        "original": "wound",
+        "translation": "伤口"
+    },
+    {
+        "original": "virtue",
+        "translation": "美德"
+    },
+    {
+        "original": "dare",
+        "translation": "敢"
+    },
+    {
+        "original": "queen",
+        "translation": "女王"
+    },
+    {
+        "original": "extra",
+        "translation": "额外的"
+    },
+    {
+        "original": "attract",
+        "translation": "吸引"
+    },
+    {
+        "original": "numerous",
+        "translation": "很多的"
+    },
+    {
+        "original": "pin",
+        "translation": "大头针"
+    },
+    {
+        "original": "gate",
+        "translation": "大门"
+    },
+    {
+        "original": "expensive",
+        "translation": "昂贵的"
+    },
+    {
+        "original": "shut",
+        "translation": "关闭"
+    },
+    {
+        "original": "chicken",
+        "translation": "鸡"
+    },
+    {
+        "original": "forgive",
+        "translation": "原谅"
+    },
+    {
+        "original": "holy",
+        "translation": "神圣的"
+    },
+    {
+        "original": "wooden",
+        "translation": "木制的"
+    },
+    {
+        "original": "prompt",
+        "translation": "促使"
+    },
+    {
+        "original": "crime",
+        "translation": "罪行"
+    },
+    {
+        "original": "sorry",
+        "translation": "很抱歉"
+    },
+    {
+        "original": "republic",
+        "translation": "共和国"
+    },
+    {
+        "original": "anger",
+        "translation": "愤怒"
+    },
+    {
+        "original": "visitor",
+        "translation": "来访者"
+    },
+    {
+        "original": "pile",
+        "translation": "堆"
+    },
+    {
+        "original": "violence",
+        "translation": "暴力"
+    },
+    {
+        "original": "steel",
+        "translation": "钢"
+    },
+    {
+        "original": "wing",
+        "translation": "翼"
+    },
+    {
+        "original": "stair",
+        "translation": "楼梯"
+    },
+    {
+        "original": "partner",
+        "translation": "搭档"
+    },
+    {
+        "original": "delay",
+        "translation": "延迟"
+    },
+    {
+        "original": "gentleman",
+        "translation": "绅士"
+    },
+    {
+        "original": "pour",
+        "translation": "倒"
+    },
+    {
+        "original": "confusion",
+        "translation": "混乱"
+    },
+    {
+        "original": "damage",
+        "translation": "损坏"
+    },
+    {
+        "original": "kick",
+        "translation": "踢"
+    },
+    {
+        "original": "safety",
+        "translation": "安全"
+    },
+    {
+        "original": "burst",
+        "translation": "爆发"
+    },
+    {
+        "original": "chinese",
+        "translation": "中国人"
+    },
+    {
+        "original": "resistance",
+        "translation": "反对"
+    },
+    {
+        "original": "screw",
+        "translation": "螺丝钉"
+    },
+    {
+        "original": "pride",
+        "translation": "自豪"
+    },
+    {
+        "original": "till",
+        "translation": "直到"
+    },
+    {
+        "original": "hire",
+        "translation": "租用"
+    },
+    {
+        "original": "verb",
+        "translation": "动词"
+    },
+    {
+        "original": "preach",
+        "translation": "布道"
+    },
+    {
+        "original": "clerk",
+        "translation": "店员"
+    },
+    {
+        "original": "everywhere",
+        "translation": "处处"
+    },
+    {
+        "original": "anyway",
+        "translation": "无论如何"
+    },
+    {
+        "original": "fan",
+        "translation": "迷"
+    },
+    {
+        "original": "connect",
+        "translation": "连接"
+    },
+    {
+        "original": "egg",
+        "translation": "鸡蛋"
+    },
+    {
+        "original": "efficient",
+        "translation": "有效率的"
+    },
+    {
+        "original": "grain",
+        "translation": "粮食"
+    },
+    {
+        "original": "calculate",
+        "translation": "计算"
+    },
+    {
+        "original": "drag",
+        "translation": "拖曳"
+    },
+    {
+        "original": "opposition",
+        "translation": "反对"
+    },
+    {
+        "original": "worship",
+        "translation": "崇拜"
+    },
+    {
+        "original": "arrest",
+        "translation": "逮捕"
+    },
+    {
+        "original": "discipline",
+        "translation": "纪律"
+    },
+    {
+        "original": "string",
+        "translation": "一串"
+    },
+    {
+        "original": "harbor",
+        "translation": "港口"
+    },
+    {
+        "original": "camera",
+        "translation": "照相机"
+    },
+    {
+        "original": "mechanism",
+        "translation": "机械装置"
+    },
+    {
+        "original": "cow",
+        "translation": "母牛"
+    },
+    {
+        "original": "grand",
+        "translation": "壮丽的"
+    },
+    {
+        "original": "funny",
+        "translation": "有趣的"
+    },
+    {
+        "original": "insurance",
+        "translation": "保险"
+    },
+    {
+        "original": "reduction",
+        "translation": "减少"
+    },
+    {
+        "original": "strict",
+        "translation": "严格的"
+    },
+    {
+        "original": "lesson",
+        "translation": "课程"
+    },
+    {
+        "original": "tight",
+        "translation": "牢固的"
+    },
+    {
+        "original": "sand",
+        "translation": "沙"
+    },
+    {
+        "original": "plate",
+        "translation": "盘子"
+    },
+    {
+        "original": "qualify",
+        "translation": "具有资格"
+    },
+    {
+        "original": "elsewhere",
+        "translation": "在别处"
+    },
+    {
+        "original": "mad",
+        "translation": "疯狂的"
+    },
+    {
+        "original": "interference",
+        "translation": "干扰"
+    },
+    {
+        "original": "pupil",
+        "translation": "学生"
+    },
+    {
+        "original": "fold",
+        "translation": "折叠"
+    },
+    {
+        "original": "royal",
+        "translation": "国王的"
+    },
+    {
+        "original": "valuable",
+        "translation": "有价值的"
+    },
+    {
+        "original": "whisper",
+        "translation": "耳语"
+    },
+    {
+        "original": "anybody",
+        "translation": "任何人"
+    },
+    {
+        "original": "hurt",
+        "translation": "伤害"
+    },
+    {
+        "original": "excess",
+        "translation": "过量的"
+    },
+    {
+        "original": "quantity",
+        "translation": "量"
+    },
+    {
+        "original": "fun",
+        "translation": "享乐"
+    },
+    {
+        "original": "mud",
+        "translation": "泥"
+    },
+    {
+        "original": "extension",
+        "translation": "扩大"
+    },
+    {
+        "original": "recognition",
+        "translation": "认出"
+    },
+    {
+        "original": "kiss",
+        "translation": "吻"
+    },
+    {
+        "original": "crop",
+        "translation": "庄稼"
+    },
+    {
+        "original": "sail",
+        "translation": "帆"
+    },
+    {
+        "original": "attractive",
+        "translation": "有吸引力的"
+    },
+    {
+        "original": "habit",
+        "translation": "习惯"
+    },
+    {
+        "original": "relieve",
+        "translation": "解除"
+    },
+    {
+        "original": "wisdom",
+        "translation": "智慧"
+    },
+    {
+        "original": "persuade",
+        "translation": "劝说"
+    },
+    {
+        "original": "certainty",
+        "translation": "确实的事"
+    },
+    {
+        "original": "cloth",
+        "translation": "布"
+    },
+    {
+        "original": "eager",
+        "translation": "渴望的"
+    },
+    {
+        "original": "deserve",
+        "translation": "值得"
+    },
+    {
+        "original": "sympathetic",
+        "translation": "同情的"
+    },
+    {
+        "original": "cure",
+        "translation": "治愈"
+    },
+    {
+        "original": "trap",
+        "translation": "陷阱"
+    },
+    {
+        "original": "puzzle",
+        "translation": "令人费解的事"
+    },
+    {
+        "original": "powder",
+        "translation": "粉"
+    },
+    {
+        "original": "raw",
+        "translation": "未经加工的"
+    },
+    {
+        "original": "mankind",
+        "translation": "人类"
+    },
+    {
+        "original": "glad",
+        "translation": "高兴的"
+    },
+    {
+        "original": "blame",
+        "translation": "责备"
+    },
+    {
+        "original": "whenever",
+        "translation": "无论何时"
+    },
+    {
+        "original": "anxiety",
+        "translation": "焦虑"
+    },
+    {
+        "original": "bus",
+        "translation": "公共汽车"
+    },
+    {
+        "original": "tremble",
+        "translation": "颤抖"
+    },
+    {
+        "original": "sacred",
+        "translation": "上帝的"
+    },
+    {
+        "original": "fortunate",
+        "translation": "幸运的"
+    },
+    {
+        "original": "glory",
+        "translation": "荣誉"
+    },
+    {
+        "original": "golden",
+        "translation": "金质的"
+    },
+    {
+        "original": "neat",
+        "translation": "整洁的"
+    },
+    {
+        "original": "weekend",
+        "translation": "周末"
+    },
+    {
+        "original": "treasury",
+        "translation": "财政部"
+    },
+    {
+        "original": "overcome",
+        "translation": "克服"
+    },
+    {
+        "original": "cat",
+        "translation": "猫"
+    },
+    {
+        "original": "sacrifice",
+        "translation": "牺牲"
+    },
+    {
+        "original": "complain",
+        "translation": "抱怨"
+    },
+    {
+        "original": "elect",
+        "translation": "选举"
+    },
+    {
+        "original": "roar",
+        "translation": "吼叫"
+    },
+    {
+        "original": "sake",
+        "translation": "目的"
+    },
+    {
+        "original": "temple",
+        "translation": "寺庙"
+    },
+    {
+        "original": "self",
+        "translation": "自己"
+    },
+    {
+        "original": "compete",
+        "translation": "竞争"
+    },
+    {
+        "original": "nurse",
+        "translation": "护士"
+    },
+    {
+        "original": "stuff",
+        "translation": "东西"
+    },
+    {
+        "original": "stomach",
+        "translation": "胃"
+    },
+    {
+        "original": "peculiar",
+        "translation": "特有的"
+    },
+    {
+        "original": "repair",
+        "translation": "修理"
+    },
+    {
+        "original": "storm",
+        "translation": "暴风雨"
+    },
+    {
+        "original": "ton",
+        "translation": "吨"
+    },
+    {
+        "original": "desert",
+        "translation": "沙漠"
+    },
+    {
+        "original": "allowance",
+        "translation": "津贴"
+    },
+    {
+        "original": "servant",
+        "translation": "仆人"
+    },
+    {
+        "original": "hunger",
+        "translation": "饥饿"
+    },
+    {
+        "original": "conscience",
+        "translation": "良心"
+    },
+    {
+        "original": "bread",
+        "translation": "面包"
+    },
+    {
+        "original": "crash",
+        "translation": "崩溃"
+    },
+    {
+        "original": "tip",
+        "translation": "提示"
+    },
+    {
+        "original": "strengthen",
+        "translation": "加强"
+    },
+    {
+        "original": "proof",
+        "translation": "证据"
+    },
+    {
+        "original": "generous",
+        "translation": "慷慨的"
+    },
+    {
+        "original": "sir",
+        "translation": "先生"
+    },
+    {
+        "original": "tonight",
+        "translation": "今晚"
+    },
+    {
+        "original": "whip",
+        "translation": "鞭子"
+    },
+    {
+        "original": "tongue",
+        "translation": "舌头"
+    },
+    {
+        "original": "mill",
+        "translation": "磨坊"
+    },
+    {
+        "original": "merchant",
+        "translation": "商人"
+    },
+    {
+        "original": "coal",
+        "translation": "煤"
+    },
+    {
+        "original": "ruin",
+        "translation": "破坏"
+    },
+    {
+        "original": "introduction",
+        "translation": "介绍"
+    },
+    {
+        "original": "courage",
+        "translation": "勇气"
+    },
+    {
+        "original": "actor",
+        "translation": "男演员"
+    },
+    {
+        "original": "belt",
+        "translation": "皮带"
+    },
+    {
+        "original": "stir",
+        "translation": "搅动"
+    },
+    {
+        "original": "package",
+        "translation": "包裹"
+    },
+    {
+        "original": "punish",
+        "translation": "处罚"
+    },
+    {
+        "original": "reflection",
+        "translation": "反射"
+    },
+    {
+        "original": "breathe",
+        "translation": "呼吸"
+    },
+    {
+        "original": "anywhere",
+        "translation": "在任何地方"
+    },
+    {
+        "original": "amuse",
+        "translation": "娱乐"
+    },
+    {
+        "original": "dull",
+        "translation": "迟钝的"
+    },
+    {
+        "original": "fate",
+        "translation": "命运"
+    },
+    {
+        "original": "net",
+        "translation": "网"
+    },
+    {
+        "original": "fellowship",
+        "translation": "交情"
+    },
+    {
+        "original": "fault",
+        "translation": "过错"
+    },
+    {
+        "original": "furniture",
+        "translation": "家具"
+    },
+    {
+        "original": "beam",
+        "translation": "梁"
+    },
+    {
+        "original": "pencil",
+        "translation": "铅笔"
+    },
+    {
+        "original": "border",
+        "translation": "边境"
+    },
+    {
+        "original": "disappoint",
+        "translation": "使失望"
+    },
+    {
+        "original": "flame",
+        "translation": "火焰"
+    },
+    {
+        "original": "joke",
+        "translation": "笑话"
+    },
+    {
+        "original": "bless",
+        "translation": "祝福"
+    },
+    {
+        "original": "corn",
+        "translation": "玉米"
+    },
+    {
+        "original": "shell",
+        "translation": "壳"
+    },
+    {
+        "original": "tempt",
+        "translation": "引诱"
+    },
+    {
+        "original": "supper",
+        "translation": "晚饭"
+    },
+    {
+        "original": "destruction",
+        "translation": "摧毁"
+    },
+    {
+        "original": "dive",
+        "translation": "潜水"
+    },
+    {
+        "original": "anxious",
+        "translation": "焦虑的"
+    },
+    {
+        "original": "shine",
+        "translation": "闪耀"
+    },
+    {
+        "original": "cheap",
+        "translation": "花钱少的"
+    },
+    {
+        "original": "dish",
+        "translation": "碟"
+    },
+    {
+        "original": "distant",
+        "translation": "遥远的"
+    },
+    {
+        "original": "greet",
+        "translation": "打招呼"
+    },
+    {
+        "original": "flood",
+        "translation": "洪水"
+    },
+    {
+        "original": "excuse",
+        "translation": "借口"
+    },
+    {
+        "original": "insect",
+        "translation": "昆虫"
+    },
+    {
+        "original": "ceremony",
+        "translation": "典礼"
+    },
+    {
+        "original": "decrease",
+        "translation": "减少"
+    },
+    {
+        "original": "prize",
+        "translation": "奖"
+    },
+    {
+        "original": "harm",
+        "translation": "伤害"
+    },
+    {
+        "original": "insure",
+        "translation": "投保"
+    },
+    {
+        "original": "verse",
+        "translation": "韵文"
+    },
+    {
+        "original": "pot",
+        "translation": "锅"
+    },
+    {
+        "original": "sincere",
+        "translation": "真诚的"
+    },
+    {
+        "original": "cotton",
+        "translation": "棉"
+    },
+    {
+        "original": "leaf",
+        "translation": "叶"
+    },
+    {
+        "original": "rub",
+        "translation": "擦"
+    },
+    {
+        "original": "medicine",
+        "translation": "医学"
+    },
+    {
+        "original": "stroke",
+        "translation": "(打、击等的)一下"
+    },
+    {
+        "original": "bite",
+        "translation": "咬"
+    },
+    {
+        "original": "lung",
+        "translation": "肺"
+    },
+    {
+        "original": "lonely",
+        "translation": "孤独的"
+    },
+    {
+        "original": "admission",
+        "translation": "准许进入"
+    },
+    {
+        "original": "stupid",
+        "translation": "愚蠢的"
+    },
+    {
+        "original": "scratch",
+        "translation": "划痕"
+    },
+    {
+        "original": "composition",
+        "translation": "作文"
+    },
+    {
+        "original": "broadcast",
+        "translation": "广播"
+    },
+    {
+        "original": "drum",
+        "translation": "鼓"
+    },
+    {
+        "original": "resist",
+        "translation": "抵制"
+    },
+    {
+        "original": "neglect",
+        "translation": "疏于照顾"
+    },
+    {
+        "original": "absent",
+        "translation": "缺席的"
+    },
+    {
+        "original": "passenger",
+        "translation": "乘客"
+    },
+    {
+        "original": "adventure",
+        "translation": "冒险"
+    },
+    {
+        "original": "beg",
+        "translation": "乞求"
+    },
+    {
+        "original": "pipe",
+        "translation": "管"
+    },
+    {
+        "original": "beard",
+        "translation": "胡须"
+    },
+    {
+        "original": "bold",
+        "translation": "大胆的"
+    },
+    {
+        "original": "meanwhile",
+        "translation": "同时"
+    },
+    {
+        "original": "devil",
+        "translation": "魔王"
+    },
+    {
+        "original": "cheer",
+        "translation": "欢呼"
+    },
+    {
+        "original": "nut",
+        "translation": "坚果"
+    },
+    {
+        "original": "split",
+        "translation": "分裂"
+    },
+    {
+        "original": "melt",
+        "translation": "熔化"
+    },
+    {
+        "original": "swear",
+        "translation": "发誓"
+    },
+    {
+        "original": "sugar",
+        "translation": "糖"
+    },
+    {
+        "original": "bury",
+        "translation": "埋葬"
+    },
+    {
+        "original": "wipe",
+        "translation": "擦"
+    },
+    {
+        "original": "faint",
+        "translation": "昏倒"
+    },
+    {
+        "original": "creature",
+        "translation": "生物"
+    },
+    {
+        "original": "tail",
+        "translation": "尾"
+    },
+    {
+        "original": "wealth",
+        "translation": "钱财"
+    },
+    {
+        "original": "earnest",
+        "translation": "认真的"
+    },
+    {
+        "original": "translate",
+        "translation": "翻译"
+    },
+    {
+        "original": "suspicion",
+        "translation": "怀疑"
+    },
+    {
+        "original": "noble",
+        "translation": "高尚的"
+    },
+    {
+        "original": "inquiry",
+        "translation": "调查"
+    },
+    {
+        "original": "journey",
+        "translation": "旅行"
+    },
+    {
+        "original": "hesitate",
+        "translation": "犹豫"
+    },
+    {
+        "original": "extraordinary",
+        "translation": "意想不到的"
+    },
+    {
+        "original": "borrow",
+        "translation": "借"
+    },
+    {
+        "original": "owe",
+        "translation": "欠"
+    },
+    {
+        "original": "funeral",
+        "translation": "葬礼"
+    },
+    {
+        "original": "ambition",
+        "translation": "追求的目标"
+    },
+    {
+        "original": "mixture",
+        "translation": "混合物"
+    },
+    {
+        "original": "slope",
+        "translation": "斜坡"
+    },
+    {
+        "original": "criminal",
+        "translation": "罪犯"
+    },
+    {
+        "original": "seldom",
+        "translation": "不常"
+    },
+    {
+        "original": "map",
+        "translation": "地图"
+    },
+    {
+        "original": "spin",
+        "translation": "快速旋转"
+    },
+    {
+        "original": "praise",
+        "translation": "赞扬"
+    },
+    {
+        "original": "spare",
+        "translation": "不用的"
+    },
+    {
+        "original": "plow",
+        "translation": "犁"
+    },
+    {
+        "original": "telegraph",
+        "translation": "电报"
+    },
+    {
+        "original": "barrel",
+        "translation": "桶"
+    },
+    {
+        "original": "straighten",
+        "translation": "整理"
+    },
+    {
+        "original": "scarce",
+        "translation": "缺乏的"
+    },
+    {
+        "original": "lunch",
+        "translation": "午餐"
+    },
+    {
+        "original": "slavery",
+        "translation": "奴隶身份"
+    },
+    {
+        "original": "creep",
+        "translation": "爬行"
+    },
+    {
+        "original": "sweat",
+        "translation": "汗水"
+    },
+    {
+        "original": "gay",
+        "translation": "同性恋者"
+    },
+    {
+        "original": "stiff",
+        "translation": "不易弯曲的"
+    },
+    {
+        "original": "brave",
+        "translation": "勇敢的"
+    },
+    {
+        "original": "seize",
+        "translation": "抓住"
+    },
+    {
+        "original": "convenient",
+        "translation": "实用的"
+    },
+    {
+        "original": "horizon",
+        "translation": "地平线"
+    },
+    {
+        "original": "moderate",
+        "translation": "适度的"
+    },
+    {
+        "original": "complicate",
+        "translation": "复杂化"
+    },
+    {
+        "original": "dig",
+        "translation": "挖掘"
+    },
+    {
+        "original": "curse",
+        "translation": "诅咒"
+    },
+    {
+        "original": "weigh",
+        "translation": "权衡"
+    },
+    {
+        "original": "priest",
+        "translation": "牧师"
+    },
+    {
+        "original": "excessive",
+        "translation": "过分的"
+    },
+    {
+        "original": "quarrel",
+        "translation": "口角"
+    },
+    {
+        "original": "widow",
+        "translation": "寡妇"
+    },
+    {
+        "original": "modest",
+        "translation": "些许的"
+    },
+    {
+        "original": "dine",
+        "translation": "进餐"
+    },
+    {
+        "original": "politician",
+        "translation": "从政者"
+    },
+    {
+        "original": "custom",
+        "translation": "风俗"
+    },
+    {
+        "original": "educate",
+        "translation": "教育"
+    },
+    {
+        "original": "salesman",
+        "translation": "售货员"
+    },
+    {
+        "original": "nail",
+        "translation": "指甲"
+    },
+    {
+        "original": "tap",
+        "translation": "水龙头"
+    },
+    {
+        "original": "eastern",
+        "translation": "东方的"
+    },
+    {
+        "original": "possession",
+        "translation": "个人财产"
+    },
+    {
+        "original": "satisfaction",
+        "translation": "满足"
+    },
+    {
+        "original": "behave",
+        "translation": "表现"
+    },
+    {
+        "original": "mercy",
+        "translation": "怜悯"
+    },
+    {
+        "original": "scatter",
+        "translation": "分散"
+    },
+    {
+        "original": "objection",
+        "translation": "反对"
+    },
+    {
+        "original": "silver",
+        "translation": "银"
+    },
+    {
+        "original": "tent",
+        "translation": "帐篷"
+    },
+    {
+        "original": "saddle",
+        "translation": "马鞍"
+    },
+    {
+        "original": "wrap",
+        "translation": "包"
+    },
+    {
+        "original": "nest",
+        "translation": "巢"
+    },
+    {
+        "original": "grind",
+        "translation": "磨碎"
+    },
+    {
+        "original": "spell",
+        "translation": "拼写"
+    },
+    {
+        "original": "plaster",
+        "translation": "灰泥"
+    },
+    {
+        "original": "arch",
+        "translation": "拱"
+    },
+    {
+        "original": "swell",
+        "translation": "膨胀"
+    },
+    {
+        "original": "friendship",
+        "translation": "友谊"
+    },
+    {
+        "original": "bath",
+        "translation": "浴缸"
+    },
+    {
+        "original": "bundle",
+        "translation": "捆"
+    },
+    {
+        "original": "grateful",
+        "translation": "感激的"
+    },
+    {
+        "original": "crown",
+        "translation": "王冠"
+    },
+    {
+        "original": "boundary",
+        "translation": "边界"
+    },
+    {
+        "original": "nowhere",
+        "translation": "无处"
+    },
+    {
+        "original": "asleep",
+        "translation": "睡着的"
+    },
+    {
+        "original": "clock",
+        "translation": "时钟"
+    },
+    {
+        "original": "boil",
+        "translation": "煮"
+    },
+    {
+        "original": "altogether",
+        "translation": "总共"
+    },
+    {
+        "original": "lend",
+        "translation": "借给"
+    },
+    {
+        "original": "holiday",
+        "translation": "假日"
+    },
+    {
+        "original": "precious",
+        "translation": "珍奇的"
+    },
+    {
+        "original": "wander",
+        "translation": "漫步"
+    },
+    {
+        "original": "ugly",
+        "translation": "丑陋的"
+    },
+    {
+        "original": "reputation",
+        "translation": "名誉"
+    },
+    {
+        "original": "ticket",
+        "translation": "票"
+    },
+    {
+        "original": "pretend",
+        "translation": "假装"
+    },
+    {
+        "original": "dismiss",
+        "translation": "不予考虑"
+    },
+    {
+        "original": "delicate",
+        "translation": "精致的"
+    },
+    {
+        "original": "despair",
+        "translation": "绝望"
+    },
+    {
+        "original": "awake",
+        "translation": "唤醒"
+    },
+    {
+        "original": "tea",
+        "translation": "茶叶"
+    },
+    {
+        "original": "FALSE",
+        "translation": "错误的"
+    },
+    {
+        "original": "fortune",
+        "translation": "财富"
+    },
+    {
+        "original": "cap",
+        "translation": "帽子"
+    },
+    {
+        "original": "thread",
+        "translation": "线"
+    },
+    {
+        "original": "haste",
+        "translation": "急速"
+    },
+    {
+        "original": "bare",
+        "translation": "光秃秃的"
+    },
+    {
+        "original": "shirt",
+        "translation": "衬衫"
+    },
+    {
+        "original": "bargain",
+        "translation": "减价品"
+    },
+    {
+        "original": "leather",
+        "translation": "皮革"
+    },
+    {
+        "original": "rail",
+        "translation": "栏杆"
+    },
+    {
+        "original": "butter",
+        "translation": "黄油"
+    },
+    {
+        "original": "dot",
+        "translation": "点"
+    },
+    {
+        "original": "inquire",
+        "translation": "询问"
+    },
+    {
+        "original": "warmth",
+        "translation": "温暖"
+    },
+    {
+        "original": "decisive",
+        "translation": "果断的"
+    },
+    {
+        "original": "vessel",
+        "translation": "容器"
+    },
+    {
+        "original": "pity",
+        "translation": "同情"
+    },
+    {
+        "original": "steam",
+        "translation": "水蒸气"
+    },
+    {
+        "original": "pin",
+        "translation": "大头针"
+    },
+    {
+        "original": "bound",
+        "translation": "跳跃"
+    },
+    {
+        "original": "companion",
+        "translation": "同伴"
+    },
+    {
+        "original": "toe",
+        "translation": "脚趾"
+    },
+    {
+        "original": "reward",
+        "translation": "奖励"
+    },
+    {
+        "original": "forbid",
+        "translation": "禁止"
+    },
+    {
+        "original": "wherever",
+        "translation": "无论什么地方"
+    },
+    {
+        "original": "tower",
+        "translation": "塔"
+    },
+    {
+        "original": "bathe",
+        "translation": "洗澡"
+    },
+    {
+        "original": "lodge",
+        "translation": "乡间小屋"
+    },
+    {
+        "original": "swallow",
+        "translation": "吞"
+    },
+    {
+        "original": "multiply",
+        "translation": "乘"
+    },
+    {
+        "original": "bow",
+        "translation": "弓"
+    },
+    {
+        "original": "kingdom",
+        "translation": "王国"
+    },
+    {
+        "original": "garage",
+        "translation": "停车房"
+    },
+    {
+        "original": "permission",
+        "translation": "准许"
+    },
+    {
+        "original": "pump",
+        "translation": "抽水机"
+    },
+    {
+        "original": "prevention",
+        "translation": "预防"
+    },
+    {
+        "original": "urgent",
+        "translation": "紧急的"
+    },
+    {
+        "original": "aunt",
+        "translation": "阿姨"
+    },
+    {
+        "original": "zero",
+        "translation": "零"
+    },
+    {
+        "original": "idle",
+        "translation": "闲置的"
+    },
+    {
+        "original": "fever",
+        "translation": "发烧"
+    },
+    {
+        "original": "Christmas",
+        "translation": "圣诞节"
+    },
+    {
+        "original": "regret",
+        "translation": "后悔"
+    },
+    {
+        "original": "jaw",
+        "translation": "颌"
+    },
+    {
+        "original": "soap",
+        "translation": "肥皂"
+    },
+    {
+        "original": "pronounce",
+        "translation": "发音"
+    },
+    {
+        "original": "empire",
+        "translation": "帝国"
+    },
+    {
+        "original": "bowl",
+        "translation": "碗"
+    },
+    {
+        "original": "outline",
+        "translation": "概述"
+    },
+    {
+        "original": "organ",
+        "translation": "器官"
+    },
+    {
+        "original": "imitation",
+        "translation": "仿制品"
+    },
+    {
+        "original": "caution",
+        "translation": "小心"
+    },
+    {
+        "original": "mineral",
+        "translation": "矿物"
+    },
+    {
+        "original": "disagree",
+        "translation": "不同意"
+    },
+    {
+        "original": "blade",
+        "translation": "刀身"
+    },
+    {
+        "original": "trick",
+        "translation": "戏法"
+    },
+    {
+        "original": "treasure",
+        "translation": "金银财宝"
+    },
+    {
+        "original": "immense",
+        "translation": "极大的"
+    },
+    {
+        "original": "convenience",
+        "translation": "方便"
+    },
+    {
+        "original": "disapprove",
+        "translation": "不赞成"
+    },
+    {
+        "original": "destructive",
+        "translation": "破坏性的"
+    },
+    {
+        "original": "fork",
+        "translation": "叉"
+    },
+    {
+        "original": "noon",
+        "translation": "正午"
+    },
+    {
+        "original": "ownership",
+        "translation": "所有权"
+    },
+    {
+        "original": "tune",
+        "translation": "曲调"
+    },
+    {
+        "original": "polish",
+        "translation": "磨光"
+    },
+    {
+        "original": "poison",
+        "translation": "毒药"
+    },
+    {
+        "original": "shame",
+        "translation": "羞耻"
+    },
+    {
+        "original": "loyalty",
+        "translation": "忠诚"
+    },
+    {
+        "original": "cottage",
+        "translation": "小屋"
+    },
+    {
+        "original": "astonish",
+        "translation": "震惊"
+    },
+    {
+        "original": "shave",
+        "translation": "刮胡子"
+    },
+    {
+        "original": "feather",
+        "translation": "羽毛"
+    },
+    {
+        "original": "sauce",
+        "translation": "调味汁"
+    },
+    {
+        "original": "lid",
+        "translation": "盖子"
+    },
+    {
+        "original": "debt",
+        "translation": "借款"
+    },
+    {
+        "original": "fade",
+        "translation": "褪色"
+    },
+    {
+        "original": "confess",
+        "translation": "承认"
+    },
+    {
+        "original": "classification",
+        "translation": "分类"
+    },
+    {
+        "original": "descend",
+        "translation": "下来"
+    },
+    {
+        "original": "cape",
+        "translation": "海角"
+    },
+    {
+        "original": "mild",
+        "translation": "温和的"
+    },
+    {
+        "original": "clever",
+        "translation": "聪明的"
+    },
+    {
+        "original": "envelope",
+        "translation": "信封"
+    },
+    {
+        "original": "invention",
+        "translation": "发明"
+    },
+    {
+        "original": "sheep",
+        "translation": "羊"
+    },
+    {
+        "original": "splendid",
+        "translation": "壮观的"
+    },
+    {
+        "original": "stamp",
+        "translation": "邮票"
+    },
+    {
+        "original": "float",
+        "translation": "浮动"
+    },
+    {
+        "original": "brick",
+        "translation": "砖"
+    },
+    {
+        "original": "rice",
+        "translation": "大米"
+    },
+    {
+        "original": "businessman",
+        "translation": "商人"
+    },
+    {
+        "original": "backward",
+        "translation": "向后的"
+    },
+    {
+        "original": "qualification",
+        "translation": "资格"
+    },
+    {
+        "original": "artificial",
+        "translation": "人造的"
+    },
+    {
+        "original": "attraction",
+        "translation": "吸引力"
+    },
+    {
+        "original": "lamp",
+        "translation": "灯"
+    },
+    {
+        "original": "curl",
+        "translation": "卷曲"
+    },
+    {
+        "original": "shower",
+        "translation": "淋浴器"
+    },
+    {
+        "original": "elder",
+        "translation": "长者"
+    },
+    {
+        "original": "bunch",
+        "translation": "串"
+    },
+    {
+        "original": "bell",
+        "translation": "钟"
+    },
+    {
+        "original": "steer",
+        "translation": "驾驶"
+    },
+    {
+        "original": "flavor",
+        "translation": "风味"
+    },
+    {
+        "original": "spit",
+        "translation": "吐"
+    },
+    {
+        "original": "rob",
+        "translation": "抢劫"
+    },
+    {
+        "original": "cream",
+        "translation": "奶油"
+    },
+    {
+        "original": "interrupt",
+        "translation": "打断"
+    },
+    {
+        "original": "pen",
+        "translation": "笔"
+    },
+    {
+        "original": "weave",
+        "translation": "编织"
+    },
+    {
+        "original": "orange",
+        "translation": "橙色"
+    },
+    {
+        "original": "rescue",
+        "translation": "营救"
+    },
+    {
+        "original": "crush",
+        "translation": "压坏"
+    },
+    {
+        "original": "humble",
+        "translation": "谦逊的"
+    },
+    {
+        "original": "fancy",
+        "translation": "设想"
+    },
+    {
+        "original": "decay",
+        "translation": "衰退"
+    },
+    {
+        "original": "polite",
+        "translation": "有礼貌的"
+    },
+    {
+        "original": "tribe",
+        "translation": "部落"
+    },
+    {
+        "original": "bleed",
+        "translation": "流血"
+    },
+    {
+        "original": "coin",
+        "translation": "硬币"
+    },
+    {
+        "original": "fond",
+        "translation": "喜欢的"
+    },
+    {
+        "original": "autumn",
+        "translation": "秋天"
+    },
+    {
+        "original": "classify",
+        "translation": "分类"
+    },
+    {
+        "original": "omit",
+        "translation": "省略"
+    },
+    {
+        "original": "loyal",
+        "translation": "忠诚的"
+    },
+    {
+        "original": "needle",
+        "translation": "针"
+    },
+    {
+        "original": "lessen",
+        "translation": "减少"
+    },
+    {
+        "original": "complaint",
+        "translation": "抱怨"
+    },
+    {
+        "original": "pad",
+        "translation": "衬垫"
+    },
+    {
+        "original": "steep",
+        "translation": "陡的"
+    },
+    {
+        "original": "skirt",
+        "translation": "短裙"
+    },
+    {
+        "original": "curtain",
+        "translation": "窗帘"
+    },
+    {
+        "original": "calculation",
+        "translation": "计算"
+    },
+    {
+        "original": "laughter",
+        "translation": "笑"
+    },
+    {
+        "original": "solemn",
+        "translation": "冷峻的"
+    },
+    {
+        "original": "grease",
+        "translation": "润滑油"
+    },
+    {
+        "original": "interfere",
+        "translation": "干涉"
+    },
+    {
+        "original": "explode",
+        "translation": "爆炸"
+    },
+    {
+        "original": "fasten",
+        "translation": "系牢"
+    },
+    {
+        "original": "flag",
+        "translation": "旗帜"
+    },
+    {
+        "original": "resign",
+        "translation": "辞职"
+    },
+    {
+        "original": "postpone",
+        "translation": "推迟"
+    },
+    {
+        "original": "patience",
+        "translation": "耐心"
+    },
+    {
+        "original": "boast",
+        "translation": "自夸"
+    },
+    {
+        "original": "rope",
+        "translation": "绳"
+    },
+    {
+        "original": "envy",
+        "translation": "嫉妒"
+    },
+    {
+        "original": "airplane",
+        "translation": "飞机"
+    },
+    {
+        "original": "rid",
+        "translation": "摆脱"
+    },
+    {
+        "original": "shield",
+        "translation": "盾"
+    },
+    {
+        "original": "veil",
+        "translation": "面纱"
+    },
+    {
+        "original": "kneel",
+        "translation": "跪"
+    },
+    {
+        "original": "tray",
+        "translation": "盘"
+    },
+    {
+        "original": "explosive",
+        "translation": "爆炸的"
+    },
+    {
+        "original": "brass",
+        "translation": "黄铜"
+    },
+    {
+        "original": "taxi",
+        "translation": "出租车"
+    },
+    {
+        "original": "wax",
+        "translation": "蜡"
+    },
+    {
+        "original": "duck",
+        "translation": "鸭子"
+    },
+    {
+        "original": "button",
+        "translation": "按钮"
+    },
+    {
+        "original": "invent",
+        "translation": "发明"
+    },
+    {
+        "original": "remedy",
+        "translation": "救济"
+    },
+    {
+        "original": "bush",
+        "translation": "灌木"
+    },
+    {
+        "original": "thunder",
+        "translation": "打雷"
+    },
+    {
+        "original": "weaken",
+        "translation": "削弱"
+    },
+    {
+        "original": "poverty",
+        "translation": "贫穷"
+    },
+    {
+        "original": "scrape",
+        "translation": "刮"
+    },
+    {
+        "original": "arrow",
+        "translation": "箭"
+    },
+    {
+        "original": "tender",
+        "translation": "柔软的"
+    },
+    {
+        "original": "cruel",
+        "translation": "残酷的"
+    },
+    {
+        "original": "soften",
+        "translation": "软化"
+    },
+    {
+        "original": "mouse",
+        "translation": "老鼠"
+    },
+    {
+        "original": "hay",
+        "translation": "干草"
+    },
+    {
+        "original": "anyhow",
+        "translation": "无论如何"
+    },
+    {
+        "original": "alike",
+        "translation": "同样地"
+    },
+    {
+        "original": "circular",
+        "translation": "圆形的"
+    },
+    {
+        "original": "juice",
+        "translation": "果汁"
+    },
+    {
+        "original": "shelf",
+        "translation": "架子"
+    },
+    {
+        "original": "bake",
+        "translation": "烤"
+    },
+    {
+        "original": "hatred",
+        "translation": "仇恨"
+    },
+    {
+        "original": "cautious",
+        "translation": "小心的"
+    },
+    {
+        "original": "basket",
+        "translation": "篮子"
+    },
+    {
+        "original": "wreck",
+        "translation": "沉船"
+    },
+    {
+        "original": "width",
+        "translation": "宽度"
+    },
+    {
+        "original": "confident",
+        "translation": "自信的"
+    },
+    {
+        "original": "log",
+        "translation": "日志"
+    },
+    {
+        "original": "heap",
+        "translation": "堆"
+    },
+    {
+        "original": "suck",
+        "translation": "吮吸"
+    },
+    {
+        "original": "ladder",
+        "translation": "梯子"
+    },
+    {
+        "original": "gap",
+        "translation": "缺口"
+    },
+    {
+        "original": "obey",
+        "translation": "服从"
+    },
+    {
+        "original": "hut",
+        "translation": "小屋"
+    },
+    {
+        "original": "axe",
+        "translation": "斧头"
+    },
+    {
+        "original": "translation",
+        "translation": "翻译"
+    },
+    {
+        "original": "collar",
+        "translation": "衣领"
+    },
+    {
+        "original": "delivery",
+        "translation": "传送"
+    },
+    {
+        "original": "reproduce",
+        "translation": "复制"
+    },
+    {
+        "original": "confession",
+        "translation": "忏悔"
+    },
+    {
+        "original": "pan",
+        "translation": "平锅"
+    },
+    {
+        "original": "prejudice",
+        "translation": "偏见"
+    },
+    {
+        "original": "voyage",
+        "translation": "航行"
+    },
+    {
+        "original": "tobacco",
+        "translation": "烟叶"
+    },
+    {
+        "original": "simplicity",
+        "translation": "简单"
+    },
+    {
+        "original": "paste",
+        "translation": "粘贴"
+    },
+    {
+        "original": "cake",
+        "translation": "糕饼"
+    },
+    {
+        "original": "elephant",
+        "translation": "大象"
+    },
+    {
+        "original": "ribbon",
+        "translation": "带子"
+    },
+    {
+        "original": "harvest",
+        "translation": "收获季节"
+    },
+    {
+        "original": "ashamed",
+        "translation": "惭愧的"
+    },
+    {
+        "original": "cave",
+        "translation": "山洞"
+    },
+    {
+        "original": "customary",
+        "translation": "习惯的"
+    },
+    {
+        "original": "thief",
+        "translation": "贼"
+    },
+    {
+        "original": "damp",
+        "translation": "潮湿的"
+    },
+    {
+        "original": "sew",
+        "translation": "缝"
+    },
+    {
+        "original": "rust",
+        "translation": "锈"
+    },
+    {
+        "original": "separation",
+        "translation": "分离"
+    },
+    {
+        "original": "waiter",
+        "translation": "服务员"
+    },
+    {
+        "original": "pet",
+        "translation": "宠物"
+    },
+    {
+        "original": "straw",
+        "translation": "稻草"
+    },
+    {
+        "original": "upset",
+        "translation": "沮丧的"
+    },
+    {
+        "original": "towel",
+        "translation": "毛巾"
+    },
+    {
+        "original": "refresh",
+        "translation": "刷新"
+    },
+    {
+        "original": "essence",
+        "translation": "本质"
+    },
+    {
+        "original": "fur",
+        "translation": "毛皮"
+    },
+    {
+        "original": "ambitious",
+        "translation": "雄心勃勃的"
+    },
+    {
+        "original": "defendant",
+        "translation": "被告人"
+    },
+    {
+        "original": "daylight",
+        "translation": "日光"
+    },
+    {
+        "original": "dip",
+        "translation": "蘸"
+    },
+    {
+        "original": "suspicious",
+        "translation": "可疑的"
+    },
+    {
+        "original": "imaginary",
+        "translation": "虚构的"
+    },
+    {
+        "original": "ash",
+        "translation": "灰"
+    },
+    {
+        "original": "carriage",
+        "translation": "马车"
+    },
+    {
+        "original": "educator",
+        "translation": "教育工作者"
+    },
+    {
+        "original": "saw",
+        "translation": "锯"
+    },
+    {
+        "original": "stove",
+        "translation": "火炉"
+    },
+    {
+        "original": "rubber",
+        "translation": "橡胶"
+    },
+    {
+        "original": "rug",
+        "translation": "小地毯"
+    },
+    {
+        "original": "misery",
+        "translation": "痛苦"
+    },
+    {
+        "original": "awkward",
+        "translation": "令人尴尬的"
+    },
+    {
+        "original": "rival",
+        "translation": "竞争对手"
+    },
+    {
+        "original": "roast",
+        "translation": "烤"
+    },
+    {
+        "original": "deed",
+        "translation": "行为"
+    },
+    {
+        "original": "preference",
+        "translation": "偏爱"
+    },
+    {
+        "original": "explosion",
+        "translation": "爆炸"
+    },
+    {
+        "original": "theatrical",
+        "translation": "戏剧化的"
+    },
+    {
+        "original": "cultivate",
+        "translation": "培养"
+    },
+    {
+        "original": "collector",
+        "translation": "收藏家"
+    },
+    {
+        "original": "miserable",
+        "translation": "悲惨的"
+    },
+    {
+        "original": "wrist",
+        "translation": "手腕"
+    },
+    {
+        "original": "rabbit",
+        "translation": "兔子"
+    },
+    {
+        "original": "accustom",
+        "translation": "习惯于"
+    },
+    {
+        "original": "tide",
+        "translation": "潮"
+    },
+    {
+        "original": "insult",
+        "translation": "辱骂"
+    },
+    {
+        "original": "thumb",
+        "translation": "拇指"
+    },
+    {
+        "original": "lump",
+        "translation": "块"
+    },
+    {
+        "original": "annoy",
+        "translation": "惹恼"
+    },
+    {
+        "original": "toy",
+        "translation": "玩具"
+    },
+    {
+        "original": "heal",
+        "translation": "治愈"
+    },
+    {
+        "original": "shallow",
+        "translation": "浅的"
+    },
+    {
+        "original": "repetition",
+        "translation": "重复"
+    },
+    {
+        "original": "soup",
+        "translation": "汤"
+    },
+    {
+        "original": "whistle",
+        "translation": "吹口哨"
+    },
+    {
+        "original": "scenery",
+        "translation": "风景"
+    }
+]
